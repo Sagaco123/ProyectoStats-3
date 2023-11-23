@@ -1,0 +1,1001 @@
+Issuer;RIC;Exchange;TRBC Sector;Type of Equity;Currency;Ex-Dividend Date;ISIN;CUSIP/CINS;SEDOL
+Tesla Inc;TSLA.O;NASDAQ Global Select Consolidated;Electric (Alternative) Vehicles;Ordinary Share;US Dollar;;US88160R1014;88160R101;
+NVIDIA Corp;NVDA.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;5/09/2023;US67066G1040;67066G104;
+Microsoft Corp;MSFT.O;NASDAQ Global Select Consolidated;Software (NEC);Ordinary Share;US Dollar;14/11/2023;US5949181045;594918104;
+Apple Inc;AAPL.O;NASDAQ Global Select Consolidated;Phones & Smart Phones;Ordinary Share;US Dollar;9/11/2023;US0378331005;037833100;
+Amazon.com Inc;AMZN.O;NASDAQ Global Select Consolidated;Internet & Mail Order Department Stores;Ordinary Share;US Dollar;;US0231351067;023135106;
+Advanced Micro Devices Inc;AMD.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;26/04/1995;US0079031078;007903107;
+Meta Platforms Inc;META.O;NASDAQ Global Select Consolidated;Social Media & Networking;Ordinary Share;US Dollar;;US30303M1027;30303M102;
+Berkshire Hathaway Inc;BRKa;NYSE Consolidated;Consumer Goods Conglomerates;Ordinary Share;US Dollar;;US0846701086;084670108;
+Alphabet Inc;GOOGL.O;NASDAQ Global Select Consolidated;Search Engines;Ordinary Share;US Dollar;2/04/2014;US02079K3059;02079K305;
+Alibaba Group Holding Ltd;BABA.K;NYSE Consolidated;E-commerce & Auction Services;American Depository Receipt;US Dollar;19/12/2023;US01609W1027;01609W102;
+Lasertec Corp;6920.T;Tokyo Stock Exchange;Semiconductor Testing Equipment & Service;Ordinary Share;Japanese Yen;26/06/2024;JP3979200007;J38702106;6506267
+Broadcom Inc;AVGO.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;19/09/2023;US11135F1012;11135F101;
+Walmart Inc;WMT;NYSE Consolidated;Food Retail & Distribution (NEC);Ordinary Share;US Dollar;6/12/2023;US9311421039;931142103;
+Intel Corp;INTC.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;5/11/2023;US4581401001;458140100;
+Palo Alto Networks Inc;PANW.O;NASDAQ Global Select Consolidated;Security Software;Ordinary Share;US Dollar;;US6974351057;697435105;
+Visa Inc;V;NYSE Consolidated;Internet Security & Transactions Services;Ordinary Share;US Dollar;7/11/2023;US92826C8394;92826C839;
+Exxon Mobil Corp;XOM;NYSE Consolidated;Oil & Gas Refining and Marketing (NEC);Ordinary Share;US Dollar;13/11/2023;US30231G1022;30231G102;
+Cisco Systems Inc;CSCO.O;NASDAQ Global Select Consolidated;Communications & Networking (NEC);Ordinary Share;US Dollar;2/01/2024;US17275R1023;17275R102;
+Eli Lilly and Co;LLY;NYSE Consolidated;Pharmaceuticals (NEC);Ordinary Share;US Dollar;13/11/2023;US5324571083;532457108;
+Netflix Inc;NFLX.O;NASDAQ Global Select Consolidated;Online Services (NEC);Ordinary Share;US Dollar;;US64110L1061;64110L106;
+Target Corp;TGT;NYSE Consolidated;Discount Stores (NEC);Ordinary Share;US Dollar;13/11/2023;US87612E1064;87612E106;
+Palantir Technologies Inc;PLTR.K;NYSE Consolidated;Software (NEC);Ordinary Share;US Dollar;;US69608A1088;69608A108;
+Chevron Corp;CVX;NYSE Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;15/11/2023;US1667641005;166764100;
+Applied Materials Inc;AMAT.O;NASDAQ Global Select Consolidated;Semiconductor Machinery Manufacturing;Ordinary Share;US Dollar;21/11/2023;US0382221051;038222105;
+Adobe Inc;ADBE.O;NASDAQ Global Select Consolidated;Application Software;Ordinary Share;US Dollar;23/03/2005;US00724F1012;00724F101;
+Uber Technologies Inc;UBER.K;NYSE Consolidated;Online Services (NEC);Ordinary Share;US Dollar;;US90353T1007;90353T100;
+Boeing Co;BA;NYSE Consolidated;Commercial Aircraft Manufacturing;Ordinary Share;US Dollar;12/02/2020;US0970231058;097023105;
+UnitedHealth Group Inc;UNH;NYSE Consolidated;Managed Healthcare (NEC);Ordinary Share;US Dollar;30/11/2023;US91324P1021;91324P102;
+Walt Disney Co;DIS;NYSE Consolidated;Broadcasting (NEC);Ordinary Share;US Dollar;12/12/2019;US2546871060;254687106;
+Bank of America Corp;BAC;NYSE Consolidated;Banks (NEC);Ordinary Share;US Dollar;29/11/2023;US0605051046;060505104;
+Qualcomm Inc;QCOM.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;28/11/2023;US7475251036;747525103;
+Tencent Holdings Ltd;0700.HK;The Stock Exchange of Hong Kong Ltd;Online Services (NEC);Ordinary Share;Hong Kong Dollar;18/05/2023;KYG875721634;G87572163;BMMV2K8
+JPMorgan Chase & Co;JPM;NYSE Consolidated;Banks (NEC);Ordinary Share;US Dollar;4/10/2023;US46625H1005;46625H100;
+Procter & Gamble Co;PG;NYSE Consolidated;Personal Products (NEC);Ordinary Share;US Dollar;18/10/2023;US7427181091;742718109;
+Costco Wholesale Corp;COST.O;NASDAQ Global Select Consolidated;Discount Stores (NEC);Ordinary Share;US Dollar;1/11/2023;US22160K1051;22160K105;
+Mastercard Inc;MA;NYSE Consolidated;Internet Security & Transactions Services;Ordinary Share;US Dollar;4/10/2023;US57636Q1040;57636Q104;
+Johnson & Johnson;JNJ;NYSE Consolidated;Pharmaceuticals (NEC);Ordinary Share;US Dollar;19/11/2023;US4781601046;478160104;
+Home Depot Inc;HD;NYSE Consolidated;Home Improvement Products & Services Retailers (NEC);Ordinary Share;US Dollar;28/11/2023;US4370761029;437076102;
+Coinbase Global Inc;COIN.O;NASDAQ Global Select Consolidated;Blockchain & Cryptocurrency (NEC);Ordinary Share;US Dollar;;US19260Q1076;19260Q107;
+Pfizer Inc;PFE;NYSE Consolidated;Pharmaceuticals (NEC);Ordinary Share;US Dollar;8/11/2023;US7170811035;717081103;
+Salesforce Inc;CRM;NYSE Consolidated;Cloud Computing Services;Ordinary Share;US Dollar;;US79466L3024;79466L302;
+Thermo Fisher Scientific Inc;TMO;NYSE Consolidated;Advanced Medical Equipment & Technology (NEC);Ordinary Share;US Dollar;13/12/2023;US8835561023;883556102;
+Texas Instruments Inc;TXN.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;29/10/2023;US8825081040;882508104;
+PDD Holdings Inc;PDD.O;NASDAQ Global Select Consolidated;E-commerce & Auction Services;American Depository Receipt;US Dollar;;US7223041028;722304102;
+Micron Technology Inc;MU.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;5/10/2023;US5951121038;595112103;
+PepsiCo Inc;PEP.O;NASDAQ Global Select Consolidated;Carbonated Soft Drinks;Ordinary Share;US Dollar;29/11/2023;US7134481081;713448108;
+McDonald's Corp;MCD;NYSE Consolidated;Quick Service Restaurants;Ordinary Share;US Dollar;29/11/2023;US5801351017;580135101;
+Starbucks Corp;SBUX.O;NASDAQ Global Select Consolidated;Restaurants & Bars (NEC);Ordinary Share;US Dollar;8/11/2023;US8552441094;855244109;
+Vertex Pharmaceuticals Inc;VRTX.O;NASDAQ Global Select Consolidated;Bio Therapeutic Drugs;Ordinary Share;US Dollar;;US92532F1003;92532F100;
+TJX Companies Inc;TJX;NYSE Consolidated;Discount Stores without Grocery;Ordinary Share;US Dollar;7/11/2023;US8725401090;872540109;
+Super Micro Computer Inc;SMCI.O;NASDAQ Global Select Consolidated;Servers & Systems;Ordinary Share;US Dollar;;US86800U1043;86800U104;
+Coca-Cola Co;KO;NYSE Consolidated;Non-Alcoholic Beverages (NEC);Ordinary Share;US Dollar;29/11/2023;US1912161007;191216100;
+Bristol-Myers Squibb Co;BMY;NYSE Consolidated;Pharmaceuticals (NEC);Ordinary Share;US Dollar;4/10/2023;US1101221083;110122108;
+Mitsubishi UFJ Financial Group Inc;8306.T;Tokyo Stock Exchange;Banks (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3902900004;J44497105;6335171
+Verizon Communications Inc;VZ;NYSE Consolidated;Integrated Telecommunications Services (NEC);Ordinary Share;US Dollar;5/10/2023;US92343V1044;92343V104;
+Merck & Co Inc;MRK;NYSE Consolidated;Pharmaceuticals (NEC);Ordinary Share;US Dollar;13/09/2023;US58933Y1055;58933Y105;
+Danaher Corp;DHR;NYSE Consolidated;Advanced Medical Equipment & Technology (NEC);Ordinary Share;US Dollar;10/10/2023;US2358511028;235851102;
+Citigroup Inc;C;NYSE Consolidated;Investment Banking & Brokerage Services (NEC);Ordinary Share;US Dollar;2/11/2023;US1729674242;172967424;
+Nike Inc;NKE;NYSE Consolidated;Sports & Outdoor Footwear;Ordinary Share;US Dollar;30/11/2023;US6541061031;654106103;
+Samsung Electronics Co Ltd;005930.KS;Korea Exchange - KSE;Phones & Handheld Devices (NEC);Ordinary Share;South Korean Won;25/09/2023;KR7005930003;Y74718100;6771720
+Seres Group Co Ltd;601127.SS;Shanghai Stock Exchange;Auto & Truck Manufacturers (NEC);Ordinary Share;Chinese Yuan;21/07/2020;CNE1000028B9;Y1586E102;BZ8VFD7
+Booking Holdings Inc;BKNG.O;NASDAQ Global Select Consolidated;Travel Agents;Ordinary Share;US Dollar;;US09857L1089;09857L108;
+Oracle Corp;ORCL.K;NYSE Consolidated;Enterprise Software;Ordinary Share;US Dollar;10/10/2023;US68389X1054;68389X105;
+PayPal Holdings Inc;PYPL.O;NASDAQ Global Select Consolidated;Transaction & Payment Services;Ordinary Share;US Dollar;;US70450Y1038;70450Y103;
+Goldman Sachs Group Inc;GS;NYSE Consolidated;Investment Banking & Brokerage Services (NEC);Ordinary Share;US Dollar;28/11/2023;US38141G1040;38141G104;
+Caterpillar Inc;CAT;NYSE Consolidated;Construction Machinery;Ordinary Share;US Dollar;19/10/2023;US1491231015;149123101;
+Shopify Inc;SHOP.K;NYSE Consolidated;E-commerce & Auction Services;Ordinary Share;US Dollar;;CA82509L1076;82509L107;
+Abbvie Inc;ABBV.K;NYSE Consolidated;Pharmaceuticals (NEC);Ordinary Share;US Dollar;11/01/2024;US00287Y1091;00287Y109;
+COL Group Co Ltd;300364.SZ;Shenzhen Stock Exchange;Book Publishing;Ordinary Share;Chinese Yuan;21/06/2018;CNE100001XD9;Y0R7Z3104;BV86QS6
+Deere & Co;DE;NYSE Consolidated;Agricultural Machinery;Ordinary Share;US Dollar;27/09/2023;US2441991054;244199105;
+Intuit Inc;INTU.O;NASDAQ Global Select Consolidated;Financial Technology (Fintech) (NEC);Ordinary Share;US Dollar;4/10/2023;US4612021034;461202103;
+ServiceNow Inc;NOW;NYSE Consolidated;Enterprise Software;Ordinary Share;US Dollar;;US81762P1021;81762P102;
+Medtronic PLC;MDT;NYSE Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;20/09/2023;IE00BTN1Y115;G5960L103;
+iSoftStone Information Technology Group Co Ltd;301236.SZ;Shenzhen Stock Exchange;IT Services & Consulting (NEC);Ordinary Share;Chinese Yuan;3/11/2022;CNE1000058S0;Y417DH107;BKY5M48
+Analog Devices Inc;ADI.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;30/11/2023;US0326541051;032654105;
+Abbott Laboratories;ABT;NYSE Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;11/10/2023;US0028241000;002824100;
+Lowe's Companies Inc;LOW;NYSE Consolidated;Home Improvement Products & Services Retailers (NEC);Ordinary Share;US Dollar;22/01/2024;US5486611073;548661107;
+Amgen Inc;AMGN.O;NASDAQ Global Select Consolidated;Pharmaceuticals (NEC);Ordinary Share;US Dollar;15/11/2023;US0311621009;031162100;
+RTX Corp;RTX;NYSE Consolidated;Aerospace & Defense (NEC);Ordinary Share;US Dollar;15/11/2023;US75513E1010;75513E101;
+Intuitive Surgical Inc;ISRG.O;NASDAQ Global Select Consolidated;Advanced Medical Equipment & Technology (NEC);Ordinary Share;US Dollar;;US46120E6023;46120E602;
+Lam Research Corp;LRCX.O;NASDAQ Global Select Consolidated;Semiconductor Equipment & Testing (NEC);Ordinary Share;US Dollar;11/12/2023;US5128071082;512807108;
+Block Inc;SQ;NYSE Consolidated;Transaction & Payment Services;Ordinary Share;US Dollar;;US8522341036;852234103;
+Comcast Corp;CMCSA.O;NASDAQ Global Select Consolidated;Satellite Service Operators;Ordinary Share;US Dollar;1/01/2024;US20030N1019;20030N101;
+Wells Fargo & Co;WFC;NYSE Consolidated;Banks (NEC);Ordinary Share;US Dollar;1/11/2023;US9497461015;949746101;
+Inspur Electronic Information Industry Co Ltd;000977.SZ;Shenzhen Stock Exchange;Servers & Systems;Ordinary Share;Chinese Yuan;27/06/2023;CNE0000012M2;Y51704107;6247726
+Ross Stores Inc;ROST.O;NASDAQ Global Select Consolidated;Apparel & Accessories Retailers (NEC);Ordinary Share;US Dollar;3/12/2023;US7782961038;778296103;
+Nextera Energy Inc;NEE;NYSE Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;21/11/2023;US65339F1012;65339F101;
+Airbnb Inc;ABNB.O;NASDAQ Global Select Consolidated;Online Services (NEC);Ordinary Share;US Dollar;;US0090661010;009066101;
+MercadoLibre Inc;MELI.O;NASDAQ Global Select Consolidated;E-commerce & Auction Services;Ordinary Share;US Dollar;27/12/2017;US58733R1023;58733R102;
+Accenture PLC;ACN;NYSE Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;10/10/2023;IE00B4BNMY34;G1151C101;
+Morgan Stanley;MS;NYSE Consolidated;Investment Banking & Brokerage Services (NEC);Ordinary Share;US Dollar;29/10/2023;US6174464486;617446448;
+United Parcel Service Inc;UPS;NYSE Consolidated;Courier, Postal, Air Freight & Land-based Logistics (NEC);Ordinary Share;US Dollar;9/11/2023;US9113121068;911312106;
+International Business Machines Corp;IBM;NYSE Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;8/11/2023;US4592001014;459200101;
+Toyota Motor Corp;7203.T;Tokyo Stock Exchange;Auto & Truck Manufacturers (NEC);Ordinary Share;Japanese Yen;27/09/2023;JP3633400001;J92676113;6900643
+Vale SA;VALE3.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros;Iron Ore Mining;Ordinary Share;Brazilian Real;21/11/2023;BRVALEACNOR0;P9661Q155;2196286
+Conocophillips;COP;NYSE Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;12/11/2023;US20825C1045;20825C104;
+Tokyo Electron Ltd;8035.T;Tokyo Stock Exchange;Semiconductor Equipment & Testing (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3571400005;J86957115;6895675
+Burlington Stores Inc;BURL.K;NYSE Consolidated;Apparel & Accessories Retailers (NEC);Ordinary Share;US Dollar;;US1220171060;122017106;
+Rivian Automotive Inc;RIVN.O;NASDAQ Global Select Consolidated;Electric (Alternative) Vehicles;Ordinary Share;US Dollar;;US76954A1034;76954A103;
+Roku Inc;ROKU.O;NASDAQ Global Select Consolidated;Entertainment Production Equipment & Services;Ordinary Share;US Dollar;;US77543R1023;77543R102;
+KLA Corp;KLAC.O;NASDAQ Global Select Consolidated;Semiconductor Testing Equipment & Service;Ordinary Share;US Dollar;13/11/2023;US4824801009;482480100;
+Linde PLC;LIN.O;NASDAQ Global Select Consolidated;Industrial Gases;Ordinary Share;US Dollar;30/11/2023;IE000S9YS762;G54950103;
+T-Mobile US Inc;TMUS.O;NASDAQ Global Select Consolidated;Wireless Telecommunications Services (NEC);Ordinary Share;US Dollar;29/11/2023;US8725901040;872590104;
+Humana Inc;HUM;NYSE Consolidated;Managed Healthcare (NEC);Ordinary Share;US Dollar;27/12/2023;US4448591028;444859102;
+CrowdStrike Holdings Inc;CRWD.O;NASDAQ Global Select Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;;US22788C1053;22788C105;
+Marvell Technology Inc;MRVL.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;4/10/2023;US5738741041;573874104;
+DraftKings Inc;DKNG.O;NASDAQ Global Select Consolidated;Casinos & Gaming (NEC);Ordinary Share;US Dollar;;US26142V1052;26142V105;
+S&P Global Inc;SPGI.K;NYSE Consolidated;Professional Information Services (NEC);Ordinary Share;US Dollar;26/11/2023;US78409V1044;78409V104;
+Gap Inc;GPS;NYSE Consolidated;Apparel & Accessories Retailers (NEC);Ordinary Share;US Dollar;1/01/2024;US3647601083;364760108;
+American Tower Corp;AMT;NYSE Consolidated;Specialized REITs (NEC);Ordinary Share;US Dollar;9/10/2023;US03027X1000;03027X100;
+Snowflake Inc.;SNOW.K;NYSE Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;;US8334451098;833445109;
+General Motors Co;GM;NYSE Consolidated;Auto & Truck Manufacturers (NEC);Ordinary Share;US Dollar;29/11/2023;US37045V1008;37045V100;
+Enphase Energy Inc;ENPH.O;NASDAQ Global Market Consolidated;Photovoltaic Solar Systems & Equipment;Ordinary Share;US Dollar;;US29355A1079;29355A107;
+American Express Co;AXP;NYSE Consolidated;Consumer Credit Cards Services;Ordinary Share;US Dollar;4/10/2023;US0258161092;025816109;
+Founder Securities Co Ltd;601901.SS;Shanghai Stock Exchange;Investment Banking & Brokerage Services (NEC);Ordinary Share;Chinese Yuan;31/07/2023;CNE1000015Y8;Y261GX101;B3Y2110
+Eoptolink Technology Inc Ltd;300502.SZ;Shenzhen Stock Exchange;Electronic Components;Ordinary Share;Chinese Yuan;7/06/2023;CNE100002615;Y2303H105;BYXXXJ3
+Microstrategy Inc;MSTR.O;NASDAQ Global Select Consolidated;Enterprise Software;Ordinary Share;US Dollar;;US5949724083;594972408;
+Schlumberger NV;SLB;NYSE Consolidated;Oil Related Services and Equipment (NEC);Ordinary Share;US Dollar;4/12/2023;AN8068571086;806857108;
+Lululemon Athletica Inc;LULU.O;NASDAQ Global Select Consolidated;Apparel & Accessories (NEC);Ordinary Share;US Dollar;;US5500211090;550021109;
+Gilead Sciences Inc;GILD.O;NASDAQ Global Select Consolidated;Pharmaceuticals (NEC);Ordinary Share;US Dollar;13/12/2023;US3755581036;375558103;
+Kweichow Moutai Co Ltd;600519.SS;Shanghai Stock Exchange;Distilleries;Ordinary Share;Chinese Yuan;29/06/2023;CNE0000018R8;Y5070V116;6414832
+Roblox Corp;RBLX.K;NYSE Consolidated;Software (NEC);Ordinary Share;US Dollar;;US7710491033;771049103;
+Fiserv Inc;FI;NYSE Consolidated;Transaction & Payment Services;Ordinary Share;US Dollar;;US3377381088;337738108;
+Illumina Inc;ILMN.O;NASDAQ Global Select Consolidated;Advanced Medical Equipment & Technology (NEC);Ordinary Share;US Dollar;;US4523271090;452327109;
+Union Pacific Corp;UNP;NYSE Consolidated;Railway Freight Operators;Ordinary Share;US Dollar;29/08/2023;US9078181081;907818108;
+Chongqing Changan Automobile Co Ltd;000625.SZ;Shenzhen Stock Exchange;Automobiles & Multi Utility Vehicles;Ordinary Share;Chinese Yuan;11/07/2023;CNE000000R36;Y1R84W100;6193948
+Wayfair Inc;W;NYSE Consolidated;Internet & Mail Order Department Stores;Ordinary Share;US Dollar;;US94419L1017;94419L101;
+Unilever PLC;UL;NYSE Consolidated;Personal Products (NEC);American Depository Receipt;US Dollar;15/11/2023;US9047677045;904767704;
+Suncor Energy Inc;SU;NYSE Consolidated;Integrated Oil & Gas;Ordinary Share;US Dollar;29/11/2023;CA8672241079;867224107;
+Colgate-Palmolive Co;CL;NYSE Consolidated;Personal Products (NEC);Ordinary Share;US Dollar;19/10/2023;US1941621039;194162103;
+Telus Corp;TU;NYSE Consolidated;Integrated Telecommunications Services (NEC);Ordinary Share;US Dollar;7/12/2023;CA87971M1032;87971M103;
+Petroleo Brasileiro SA Petrobras;PBR;NYSE Consolidated;Integrated Oil & Gas;American Depository Receipt;US Dollar;21/11/2023;US71654V4086;71654V408;
+NovaGold Resources Inc;NG;NYSE American Consolidated;Gold Mining;Ordinary Share;US Dollar;;CA66987E2069;66987E206;
+Royal Bank of Canada;RY;NYSE Consolidated;Banks (NEC);Ordinary Share;US Dollar;24/10/2023;CA7800871021;780087102;
+Canadian Pacific Kansas City Ltd;CP;NYSE Consolidated;Ground Freight & Logistics (NEC);Ordinary Share;US Dollar;27/12/2023;CA13646K1084;13646K108;
+Petroleo Brasileiro SA Petrobras;PETR4.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros;Integrated Oil & Gas;Preference Share;Brazilian Real;21/11/2023;BRPETRACNPR6;P78331140;2684532
+Dexcom Inc;DXCM.O;NASDAQ Global Select Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;;US2521311074;252131107;
+BlackRock Inc;BLK;NYSE Consolidated;Investment Management & Fund Operators (NEC);Ordinary Share;US Dollar;5/12/2023;US09247X1019;09247X101;
+Cigna Group;CI;NYSE Consolidated;Managed Healthcare (NEC);Ordinary Share;US Dollar;4/12/2023;US1255231003;125523100;
+Pioneer Natural Resources Co;PXD;NYSE Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;28/11/2023;US7237871071;723787107;
+General Electric Co;GE;NYSE Consolidated;Consumer Goods Conglomerates;Ordinary Share;US Dollar;24/09/2023;US3696043013;369604301;
+Occidental Petroleum Corp;OXY;NYSE Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;6/12/2023;US6745991058;674599105;
+DoorDash Inc;DASH.O;NASDAQ Global Select Consolidated;Online Services (NEC);Ordinary Share;US Dollar;;US25809K1051;25809K105;
+Marathon Digital Holdings Inc;MARA.O;NASDAQ Capital Market Consolidated;Cryptocurrency Mining;Ordinary Share;US Dollar;;US5657881067;565788106;
+Elevance Health Inc;ELV;NYSE Consolidated;Managed Healthcare (NEC);Ordinary Share;US Dollar;4/12/2023;US0367521038;036752103;
+Expedia Group Inc;EXPE.O;NASDAQ Global Select Consolidated;Travel Agents;Ordinary Share;US Dollar;8/03/2020;US30212P3038;30212P303;
+HCA Healthcare Inc;HCA;NYSE Consolidated;Healthcare Facilities & Services (NEC);Ordinary Share;US Dollar;12/12/2023;US40412C1018;40412C101;
+Honeywell International Inc;HON.O;NASDAQ Global Select Consolidated;Consumer Goods Conglomerates;Ordinary Share;US Dollar;8/11/2023;US4385161066;438516106;
+Mckesson Corp;MCK;NYSE Consolidated;Pharmaceuticals Wholesale;Ordinary Share;US Dollar;29/11/2023;US58155Q1031;58155Q103;
+Becton Dickinson and Co;BDX;NYSE Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;6/12/2023;US0758871091;075887109;
+Zoom Video Communications Inc;ZM.O;NASDAQ Global Select Consolidated;Software (NEC);Ordinary Share;US Dollar;;US98980L1017;98980L101;
+Jiangsu Hoperun Software Co Ltd;300339.SZ;Shenzhen Stock Exchange;Software (NEC);Ordinary Share;Chinese Yuan;4/06/2018;CNE100001JT4;Y4S40G101;B8N3T82
+Charles Schwab Corp;SCHW.K;NYSE Consolidated;Investment Banking & Brokerage Services (NEC);Ordinary Share;US Dollar;8/11/2023;US8085131055;808513105;
+Eaton Corporation PLC;ETN;NYSE Consolidated;Electrical Components & Equipment (NEC);Ordinary Share;US Dollar;2/11/2023;IE00B8KQN827;G29183103;
+Lockheed Martin Corp;LMT;NYSE Consolidated;Aerospace & Defense (NEC);Ordinary Share;US Dollar;29/11/2023;US5398301094;539830109;
+Ford Motor Co;F;NYSE Consolidated;Auto & Truck Manufacturers (NEC);Ordinary Share;US Dollar;30/10/2023;US3453708600;345370860;
+O'Reilly Automotive Inc;ORLY.O;NASDAQ Global Select Consolidated;Automotive Parts & Accessories Retailers;Ordinary Share;US Dollar;;US67103H1077;67103H107;
+CVS Health Corp;CVS;NYSE Consolidated;Healthcare Facilities & Services (NEC);Ordinary Share;US Dollar;18/10/2023;US1266501006;126650100;
+NXP Semiconductors NV;NXPI.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;11/12/2023;NL0009538784;N6596X109;
+Newmont Corporation;NEM;NYSE Consolidated;Gold Mining;Ordinary Share;US Dollar;28/11/2023;US6516391066;651639106;
+Baidu Inc;BIDU.O;NASDAQ Global Select Consolidated;Search Engines;American Depository Receipt;US Dollar;;US0567521085;056752108;
+Renesas Electronics Corp;6723.T;Tokyo Stock Exchange;Semiconductors (NEC);Ordinary Share;Japanese Yen;28/06/2023;JP3164720009;J4881V107;6635677
+CSX Corp;CSX.O;NASDAQ Global Select Consolidated;Railway Freight Operators;Ordinary Share;US Dollar;28/11/2023;US1264081035;126408103;
+Synopsys Inc;SNPS.O;NASDAQ Global Select Consolidated;Software (NEC);Ordinary Share;US Dollar;;US8716071076;871607107;
+Mondelez International Inc;MDLZ.O;NASDAQ Global Select Consolidated;Food Processing (NEC);Ordinary Share;US Dollar;27/09/2023;US6092071058;609207105;
+Macy's Inc;M;NYSE Consolidated;General Department Stores;Ordinary Share;US Dollar;13/12/2023;US55616P1049;55616P104;
+AT&T Inc;T;NYSE Consolidated;Wireless Telecommunications Services (NEC);Ordinary Share;US Dollar;5/10/2023;US00206R1023;00206R102;
+Carnival Corp;CCL;NYSE Consolidated;Cruise Lines;Ordinary Share;US Dollar;19/02/2020;PA1436583006;143658300;
+Meituan;3690.HK;The Stock Exchange of Hong Kong Ltd;E-commerce & Auction Services;Ordinary Share;Hong Kong Dollar;;KYG596691041;G59669104;BGJW376
+Chipotle Mexican Grill Inc;CMG;NYSE Consolidated;Quick Service Restaurants;Ordinary Share;US Dollar;;US1696561059;169656105;
+Nu Holdings Ltd;NU;NYSE Consolidated;Banks (NEC);Ordinary Share;US Dollar;;KYG6683N1034;G6683N103;
+Marathon Petroleum Corp;MPC;NYSE Consolidated;Oil & Gas Refining and Marketing (NEC);Ordinary Share;US Dollar;14/11/2023;US56585A1025;56585A102;
+Zhongji Innolight Co Ltd;300308.SZ;Shenzhen Stock Exchange;Communications & Networking (NEC);Ordinary Share;Chinese Yuan;5/06/2023;CNE100001CY9;Y7685V101;B7GJP71
+Contemporary Amperex Technology Co Ltd;300750.SZ;Shenzhen Stock Exchange;Batteries & Uninterruptable Power Supplies;Ordinary Share;Chinese Yuan;25/04/2023;CNE100003662;Y1R48E105;BF7L9J2
+Freeport-McMoRan Inc;FCX;NYSE Consolidated;Specialty Mining & Metals (NEC);Ordinary Share;US Dollar;11/10/2023;US35671D8570;35671D857;
+EOG Resources Inc;EOG;NYSE Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;15/01/2024;US26875P1012;26875P101;
+Advantest Corp;6857.T;Tokyo Stock Exchange;Semiconductor Testing Equipment & Service;Ordinary Share;Japanese Yen;27/09/2023;JP3122400009;J00210104;6870490
+Bayer AG;BAYGn.DE;Xetra;Pharmaceuticals (NEC);Ordinary Share;Euro;1/05/2023;DE000BAY0017;D0712D163;
+Sumitomo Mitsui Financial Group Inc;8316.T;Tokyo Stock Exchange;Banks (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3890350006;J7771X109;6563024
+Microchip Technology Inc;MCHP.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;20/11/2023;US5950171042;595017104;
+Mettler-Toledo International Inc;MTD;NYSE Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;;US5926881054;592688105;
+Sherwin-Williams Co;SHW;NYSE Consolidated;Paints & Coatings;Ordinary Share;US Dollar;15/11/2023;US8243481061;824348106;
+Sea Ltd;SE;NYSE Consolidated;Software (NEC);American Depository Receipt;US Dollar;;US81141R1005;81141R100;
+Progressive Corp;PGR;NYSE Consolidated;Insurance - Automobile;Ordinary Share;US Dollar;3/10/2023;US7433151039;743315103;
+OFILM Group Co Ltd;002456.SZ;Shenzhen Stock Exchange;Electronic Components;Ordinary Share;Chinese Yuan;8/11/2020;CNE100000S33;Y7744T105;B3XCR35
+ASML Holding NV;ASML.AS;Euronext Amsterdam;Semiconductor Equipment & Testing (NEC);Ordinary Share;Euro;31/10/2023;NL0010273215;N07059202;B929F46
+China Bester Group Telecom Co Ltd;603220.SS;Shanghai Stock Exchange;Telecommunication Construction;Ordinary Share;Chinese Yuan;4/07/2023;CNE100003F35;Y969F5101;BGYDCP5
+Canadian Natural Resources Ltd;CNQ.TO;The Toronto Stock Exchange;Oil & Gas Exploration and Production (NEC);Ordinary Share;Canadian Dollar;6/12/2023;CA1363851017;136385101;2171573
+Air Products and Chemicals Inc;APD;NYSE Consolidated;Industrial Gases;Ordinary Share;US Dollar;28/12/2023;US0091581068;009158106;
+Datadog Inc;DDOG.O;NASDAQ Global Select Consolidated;Application Software;Ordinary Share;US Dollar;;US23804L1035;23804L103;
+Agilent Technologies Inc;A;NYSE Consolidated;Advanced Medical Equipment & Technology (NEC);Ordinary Share;US Dollar;28/12/2023;US00846U1016;00846U101;
+Prologis Inc;PLD;NYSE Consolidated;Industrial REITs;Ordinary Share;US Dollar;14/09/2023;US74340W1036;74340W103;
+3M Co;MMM;NYSE Consolidated;Consumer Goods Conglomerates;Ordinary Share;US Dollar;15/11/2023;US88579Y1010;88579Y101;
+Xiaomi Corp;1810.HK;The Stock Exchange of Hong Kong Ltd;Phones & Smart Phones;Ordinary Share;Hong Kong Dollar;;KYG9830T1067;G9830T106;BG0ZMJ9
+Cadence Design Systems Inc;CDNS.O;NASDAQ Global Select Consolidated;Software (NEC);Ordinary Share;US Dollar;;US1273871087;127387108;
+Philip Morris International Inc;PM;NYSE Consolidated;Tobacco (NEC);Ordinary Share;US Dollar;25/09/2023;US7181721090;718172109;
+SoftBank Group Corp;9984.T;Tokyo Stock Exchange;Wireless Telecommunications Services (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3436100006;J7596P109;6770620
+Chubb Ltd;CB;NYSE Consolidated;Multiline Insurance & Brokers (NEC);Ordinary Share;US Dollar;13/12/2023;CH0044328745;H1467J104;
+Devon Energy Corp;DVN;NYSE Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;13/12/2023;US25179M1036;25179M103;
+Phillips 66;PSX;NYSE Consolidated;Oil & Gas Refining and Marketing (NEC);Ordinary Share;US Dollar;15/11/2023;US7185461040;718546104;
+Charter Communications Inc;CHTR.O;NASDAQ Global Select Consolidated;Integrated Telecommunications Services (NEC);Ordinary Share;US Dollar;;US16119P1084;16119P108;
+NIO Inc;NIO;NYSE Consolidated;Electric (Alternative) Vehicles;American Depository Receipt;US Dollar;;US62914V1061;62914V106;
+Boston Scientific Corp;BSX;NYSE Consolidated;Advanced Medical Equipment & Technology (NEC);Ordinary Share;US Dollar;;US1011371077;101137107;
+Best Buy Co Inc;BBY;NYSE Consolidated;Computer & Electronics Retailers (NEC);Ordinary Share;US Dollar;10/12/2023;US0865161014;086516101;
+Marsh & McLennan Companies Inc;MMC;NYSE Consolidated;Multiline Insurance & Brokers (NEC);Ordinary Share;US Dollar;4/10/2023;US5717481023;571748102;
+Hess Corp;HES;NYSE Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;14/09/2023;US42809H1077;42809H107;
+Automatic Data Processing Inc;ADP.O;NASDAQ Global Select Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;6/12/2023;US0530151036;053015103;
+Stryker Corp;SYK;NYSE Consolidated;Medical Devices & Implants;Ordinary Share;US Dollar;27/09/2023;US8636671013;863667101;
+Autozone Inc;AZO;NYSE Consolidated;Automotive Parts & Accessories Retailers;Ordinary Share;US Dollar;;US0533321024;053332102;
+Albemarle Corp;ALB;NYSE Consolidated;Specialty Chemicals (NEC);Ordinary Share;US Dollar;13/12/2023;US0126531013;012653101;
+United Rentals Inc;URI;NYSE Consolidated;Industrial Equipment Rental;Ordinary Share;US Dollar;6/11/2023;US9113631090;911363109;
+ON Semiconductor Corp;ON.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;;US6821891057;682189105;
+Moody's Corp;MCO;NYSE Consolidated;Rating Agencies;Ordinary Share;US Dollar;21/11/2023;US6153691059;615369105;
+Monster Beverage Corp;MNST.O;NASDAQ Global Select Consolidated;Energy Drinks;Ordinary Share;US Dollar;7/11/1990;US61174X1090;61174X109;
+DICK'S Sporting Goods Inc;DKS;NYSE Consolidated;Sporting Goods Stores;Ordinary Share;US Dollar;13/12/2023;US2533931026;253393102;
+WenYi Trinity Technology Co Ltd;600520.SS;Shanghai Stock Exchange;Industrial Moulds;Ordinary Share;Chinese Yuan;22/06/2005;CNE0000019N5;Y8883R108;6433848
+MongoDB Inc;MDB.O;NASDAQ Global Market Consolidated;Server & Database Software;Ordinary Share;US Dollar;;US60937P1066;60937P106;
+Shanghai Zhangjiang Hi-Tech Park Development Co Ltd;600895.SS;Shanghai Stock Exchange;Real Estate Rental, Development & Operations (NEC);Ordinary Share;Chinese Yuan;13/07/2023;CNE000000JX9;Y7699D105;6801791
+LONGi Green Energy Technology Co Ltd;601012.SS;Shanghai Stock Exchange;Photovoltaic Solar Systems & Equipment;Ordinary Share;Chinese Yuan;18/06/2023;CNE100001FR6;Y9727F102;B759P50
+Valero Energy Corp;VLO;NYSE Consolidated;Oil & Gas Refining and Marketing (NEC);Ordinary Share;US Dollar;15/11/2023;US91913Y1001;91913Y100;
+General Mills Inc;GIS;NYSE Consolidated;Food Processing (NEC);Ordinary Share;US Dollar;8/01/2024;US3703341046;370334104;
+American Airlines Group Inc;AAL.O;NASDAQ Global Select Consolidated;Regional Airlines;Ordinary Share;US Dollar;3/02/2020;US02376R1023;02376R102;
+Suncor Energy Inc;SU.TO;The Toronto Stock Exchange;Integrated Oil & Gas;Ordinary Share;Canadian Dollar;29/11/2023;CA8672241079;867224107;B3NB1P2
+FedEx Corp;FDX;NYSE Consolidated;Courier, Postal, Air Freight & Land-based Logistics (NEC);Ordinary Share;US Dollar;7/12/2023;US31428X1063;31428X106;
+Insulet Corp;PODD.O;NASDAQ Global Select Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;;US45784P1012;45784P101;
+Aon PLC;AON;NYSE Consolidated;Insurance Brokers;Ordinary Share;US Dollar;30/10/2023;IE00BLP1HW54;G0403H108;
+C3.ai Inc;AI;NYSE Consolidated;Software (NEC);Ordinary Share;US Dollar;;US12468P1049;12468P104;
+Chengdu Hi-tech Development Co Ltd;000628.SZ;Shenzhen Stock Exchange;Construction & Engineering (NEC);Ordinary Share;Chinese Yuan;5/06/2023;CNE0000005X3;Y13062107;6188041
+Dollar General Corp;DG;NYSE Consolidated;Discount Stores (NEC);Ordinary Share;US Dollar;5/10/2023;US2566771059;256677105;
+Anhui Jianghuai Automobile Group Corp Ltd;600418.SS;Shanghai Stock Exchange;Auto & Truck Manufacturers (NEC);Ordinary Share;Chinese Yuan;9/06/2022;CNE0000018M9;Y0141C106;6389071
+First Solar Inc;FSLR.O;NASDAQ Global Select Consolidated;Photovoltaic Solar Systems & Equipment;Ordinary Share;US Dollar;;US3364331070;336433107;
+Guangdong Advertising Group Co Ltd;002400.SZ;Shenzhen Stock Exchange;Advertising Agency;Ordinary Share;Chinese Yuan;8/06/2023;CNE100000P10;Y2924R102;B3M2M08
+Sichuan Changhong Electric Co Ltd;600839.SS;Shanghai Stock Exchange;Household Electronics (NEC);Ordinary Share;Chinese Yuan;13/08/2023;CNE000000GJ4;Y7931Y107;6818207
+Realty Income Corp;O;NYSE Consolidated;Commercial REITs (NEC);Ordinary Share;US Dollar;29/11/2023;US7561091049;756109104;
+Royal Bank of Canada;RY.TO;The Toronto Stock Exchange;Banks (NEC);Ordinary Share;Canadian Dollar;24/10/2023;CA7800871021;780087102;2754383
+Trade Desk Inc;TTD.O;NASDAQ Global Market Consolidated;Software (NEC);Ordinary Share;US Dollar;;US88339J1051;88339J105;
+US Bancorp;USB;NYSE Consolidated;Banks (NEC);Ordinary Share;US Dollar;27/09/2023;US9029733048;902973304;
+Arista Networks Inc;ANET.K;NYSE Consolidated;Communications & Networking (NEC);Ordinary Share;US Dollar;;US0404131064;040413106;
+Affirm Holdings Inc;AFRM.O;NASDAQ Global Select Consolidated;Financial Technology (Fintech) (NEC);Ordinary Share;US Dollar;;US00827B1061;00827B106;
+Siemens AG;SIEGn.DE;Xetra;Electrical Components & Equipment (NEC);Ordinary Share;Euro;8/02/2024;DE0007236101;D69671218;
+Altria Group Inc;MO;NYSE Consolidated;Cigars & Cigarette Manufacturing;Ordinary Share;US Dollar;13/09/2023;US02209S1033;02209S103;
+CRISPR Therapeutics AG;CRSP.O;NASDAQ Global Market Consolidated;Biotechnology & Medical Research (NEC);Ordinary Share;US Dollar;;CH0334081137;H17182108;
+Regeneron Pharmaceuticals Inc;REGN.O;NASDAQ Global Select Consolidated;Bio Therapeutic Drugs;Ordinary Share;US Dollar;;US75886F1075;75886F107;
+Fortinet Inc;FTNT.O;NASDAQ Global Select Consolidated;Security Software;Ordinary Share;US Dollar;;US34959E1091;34959E109;
+SoFi Technologies Inc;SOFI.O;NASDAQ Global Select Consolidated;Consumer Lending (NEC);Ordinary Share;US Dollar;;US83406F1021;83406F102;
+Exelon Corp;EXC.O;NASDAQ Global Select Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;13/11/2023;US30161N1019;30161N101;
+eBay Inc;EBAY.O;NASDAQ Global Select Consolidated;E-commerce & Auction Services;Ordinary Share;US Dollar;29/11/2023;US2786421030;278642103;
+CME Group Inc;CME.O;NASDAQ Global Select Consolidated;Securities & Commodity Exchanges;Ordinary Share;US Dollar;6/12/2023;US12572Q1058;12572Q105;
+China International Capital Corp Ltd;601995.SS;Shanghai Stock Exchange;Investment Banking & Brokerage Services (NEC);Ordinary Share;Chinese Yuan;17/08/2023;CNE1000048J0;Y1R99Y117;BNGDR91
+Ulta Beauty Inc;ULTA.O;NASDAQ Global Select Consolidated;Personal Care Products Retailers;Ordinary Share;US Dollar;15/03/2012;US90384S3031;90384S303;
+Kunlun Tech Co Ltd;300418.SZ;Shenzhen Stock Exchange;Internet Gaming;Ordinary Share;Chinese Yuan;13/07/2022;CNE100001YF2;Y0R7Z5109;BV86QY2
+Estee Lauder Companies Inc;EL;NYSE Consolidated;Personal Products (NEC);Ordinary Share;US Dollar;28/11/2023;US5184391044;518439104;
+Celsius Holdings Inc;CELH.O;NASDAQ Capital Market Consolidated;Non-Alcoholic Beverages (NEC);Ordinary Share;US Dollar;;US15118V2079;15118V207;
+Talkweb Information System Co Ltd;002261.SZ;Shenzhen Stock Exchange;Software (NEC);Ordinary Share;Chinese Yuan;20/06/2018;CNE100000CF0;Y37675108;B3BMTY2
+Kenvue Inc;KVUE.K;NYSE Consolidated;Personal Products (NEC);Ordinary Share;US Dollar;6/11/2023;US49177J1025;49177J102;
+PG&E Corp;PCG;NYSE Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;27/09/2017;US69331C1080;69331C108;
+EmbedWay Technologies Shanghai Corp;603496.SS;Shanghai Stock Exchange;Servers & Systems;Ordinary Share;Chinese Yuan;7/06/2023;CNE100002X26;Y2272K105;BDZBKD1
+Williams-Sonoma Inc;WSM;NYSE Consolidated;Home Furnishings Retailers (NEC);Ordinary Share;US Dollar;18/10/2023;US9699041011;969904101;
+Fast Retailing Co Ltd;9983.T;Tokyo Stock Exchange;Apparel & Accessories Retailers (NEC);Ordinary Share;Japanese Yen;28/08/2024;JP3802300008;J1346E100;6332439
+Arm Holdings PLC;ARM.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);American Depository Receipt;US Dollar;;US0420682058;042068205;
+Pinterest Inc;PINS.K;NYSE Consolidated;Online Services (NEC);Ordinary Share;US Dollar;;US72352L1061;72352L106;
+ZTE Corp;000063.SZ;Shenzhen Stock Exchange;Communications & Networking (NEC);Ordinary Share;Chinese Yuan;15/05/2023;CNE000000TK5;Y0004F121;6073062
+Autodesk Inc;ADSK.O;NASDAQ Global Select Consolidated;Application Software;Ordinary Share;US Dollar;27/06/2006;US0527691069;052769106;
+Delta Air Lines Inc;DAL;NYSE Consolidated;Airlines (NEC);Ordinary Share;US Dollar;10/10/2023;US2473617023;247361702;
+Zscaler Inc;ZS.O;NASDAQ Global Select Consolidated;System Software;Ordinary Share;US Dollar;;US98980G1022;98980G102;
+Dell Technologies Inc;DELL.K;NYSE Consolidated;Computer Hardware (NEC);Ordinary Share;US Dollar;22/10/2023;US24703L2025;24703L202;
+Bank of New York Mellon Corp;BK;NYSE Consolidated;Investment Management & Fund Operators (NEC);Ordinary Share;US Dollar;25/10/2023;US0640581007;064058100;
+East Money Information Co Ltd;300059.SZ;Shenzhen Stock Exchange;Brokerage Services;Ordinary Share;Chinese Yuan;17/04/2023;CNE100000MD4;Y2234B102;B62Q4K5
+Diamondback Energy Inc;FANG.O;NASDAQ Global Select Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;14/11/2023;US25278X1090;25278X109;
+Xilong Scientific Co Ltd;002584.SZ;Shenzhen Stock Exchange;Commodity Chemicals (NEC);Ordinary Share;Chinese Yuan;11/05/2017;CNE1000013M8;Y97267101;B4R2X07
+Duke Energy Corp;DUK;NYSE Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;15/11/2023;US26441C2044;26441C204;
+Zoetis Inc;ZTS;NYSE Consolidated;Veterinary Drugs;Ordinary Share;US Dollar;30/10/2023;US98978V1035;98978V103;
+Splunk Inc;SPLK.O;NASDAQ Global Select Consolidated;Software (NEC);Ordinary Share;US Dollar;;US8486371045;848637104;
+Disco Corp;6146.T;Tokyo Stock Exchange;Semiconductor Machinery Manufacturing;Ordinary Share;Japanese Yen;27/09/2023;JP3548600000;J12327102;6270948
+GNI Group Ltd;2160.T;Tokyo Stock Exchange;Biotechnology & Medical Research (NEC);Ordinary Share;Japanese Yen;27/12/2023;JP3386370005;J1778V109;B23QC91
+Fidelity National Information Services Inc;FIS;NYSE Consolidated;Financial Technology (Fintech) (NEC);Ordinary Share;US Dollar;6/12/2023;US31620M1062;31620M106;
+Enbridge Inc;ENB.TO;The Toronto Stock Exchange;Oil & Gas Transportation Services (NEC);Ordinary Share;Canadian Dollar;13/11/2023;CA29250N1050;29250N105;2466149
+Blackstone Inc;BX;NYSE Consolidated;Investment Management;Ordinary Share;US Dollar;26/10/2023;US09260D1072;09260D107;
+Crown Castle Inc;CCI;NYSE Consolidated;Specialized REITs (NEC);Ordinary Share;US Dollar;13/12/2023;US22822V1017;22822V101;
+American Electric Power Company Inc;AEP.O;NASDAQ Global Select Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;8/11/2023;US0255371017;025537101;
+Cencora Inc;COR;NYSE Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;9/11/2023;US03073E1055;03073E105;
+Shannon Semiconductor Technology Co Ltd;300475.SZ;Shenzhen Stock Exchange;Storage Devices;Ordinary Share;Chinese Yuan;4/07/2023;CNE1000020T8;Y013B9104;BYL76Z4
+Edwards Lifesciences Corp;EW;NYSE Consolidated;Advanced Medical Equipment & Technology (NEC);Ordinary Share;US Dollar;;US28176E1082;28176E108;
+Royal Caribbean Cruises Ltd;RCL;NYSE Consolidated;Cruise Lines;Ordinary Share;US Dollar;4/03/2020;LR0008862868;V7780T103;
+LVMH Moet Hennessy Louis Vuitton SE;LVMH.PA;Euronext Paris;Apparel & Accessories (NEC);Ordinary Share;Euro;3/12/2023;FR0000121014;F58485115;4061412
+DR Horton Inc;DHI;NYSE Consolidated;Homebuilding (NEC);Ordinary Share;US Dollar;19/11/2023;US23331A1097;23331A109;
+Trane Technologies PLC;TT;NYSE Consolidated;Heating, Ventilation & Air Conditioning Systems;Ordinary Share;US Dollar;29/11/2023;IE00BK9ZQ967;G8994E103;
+iFLYTEK Co Ltd;002230.SZ;Shenzhen Stock Exchange;Software (NEC);Ordinary Share;Chinese Yuan;4/07/2023;CNE100000B81;Y013A6101;B2R0YF9
+Castech Inc;002222.SZ;Shenzhen Stock Exchange;Semiconductors (NEC);Ordinary Share;Chinese Yuan;25/10/2023;CNE1000009V7;Y2654C101;B2Q4F82
+BAIC BluePark New Energy Technology Co Ltd;600733.SS;Shanghai Stock Exchange;Auto & Truck Manufacturers (NEC);Ordinary Share;Chinese Yuan;;CNE000000LP1;Y1306F108;6187877
+Electronic Arts Inc;EA.O;NASDAQ Global Select Consolidated;Application Software;Ordinary Share;US Dollar;27/11/2023;US2855121099;285512109;
+Norfolk Southern Corp;NSC;NYSE Consolidated;Railway Freight Operators;Ordinary Share;US Dollar;1/11/2023;US6558441084;655844108;
+Dollar Tree Inc;DLTR.O;NASDAQ Global Select Consolidated;Discount Stores without Grocery;Ordinary Share;US Dollar;;US2567461080;256746108;
+Unity Software Inc;U;NYSE Consolidated;Software (NEC);Ordinary Share;US Dollar;;US91332U1016;91332U101;
+TotalEnergies SE;TTEF.PA;Euronext Paris;Integrated Oil & Gas;Ordinary Share;Euro;18/06/2025;FR0000120271;F92124100;B15C557
+CRH PLC;CRH;NYSE Consolidated;Construction Materials (NEC);Ordinary Share;US Dollar;13/12/2023;IE0001827041;G25508105;
+TransDigm Group Inc;TDG;NYSE Consolidated;Aircraft Parts Manufacturing;Ordinary Share;US Dollar;16/11/2023;US8936411003;893641100;
+Ping An Insurance Group Co of China Ltd;601318.SS;Shanghai Stock Exchange;Life Insurance;Ordinary Share;Chinese Yuan;24/10/2023;CNE000001R84;Y69790114;B1SVWB6
+Workday Inc;WDAY.O;NASDAQ Global Select Consolidated;Application Software;Ordinary Share;US Dollar;;US98138H1014;98138H101;
+Sony Group Corp;6758.T;Tokyo Stock Exchange;Household Electronics (NEC);Ordinary Share;Japanese Yen;27/09/2023;JP3435000009;J76379106;6821506
+Constellation Brands Inc;STZ;NYSE Consolidated;Brewers (NEC);Ordinary Share;US Dollar;1/11/2023;US21036P1084;21036P108;
+Waste Management Inc;WM;NYSE Consolidated;Environmental Services & Equipment (NEC);Ordinary Share;US Dollar;29/11/2023;US94106L1098;94106L109;
+Kroger Co;KR;NYSE Consolidated;Food Retail & Distribution (NEC);Ordinary Share;US Dollar;13/11/2023;US5010441013;501044101;
+Sempra;SRE;NYSE Consolidated;Multiline Utilities;Ordinary Share;US Dollar;4/12/2023;US8168511090;816851109;
+Rockwell Automation Inc;ROK;NYSE Consolidated;Electrical Components & Equipment (NEC);Ordinary Share;US Dollar;9/11/2023;US7739031091;773903109;
+ETSY Inc;ETSY.O;NASDAQ Global Select Consolidated;Internet & Mail Order Department Stores;Ordinary Share;US Dollar;;US29786A1060;29786A106;
+Carvana Co;CVNA.K;NYSE Consolidated;Used Car Dealers;Ordinary Share;US Dollar;;US1468691027;146869102;
+Copart Inc;CPRT.O;NASDAQ Global Select Consolidated;E-commerce & Auction Services;Ordinary Share;US Dollar;;US2172041061;217204106;
+Marriott International Inc;MAR.O;NASDAQ Global Select Consolidated;Hotels, Motels & Cruise Lines (NEC);Ordinary Share;US Dollar;20/11/2023;US5719032022;571903202;
+Zimmer Biomet Holdings Inc;ZBH;NYSE Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;27/09/2023;US98956P1021;98956P102;
+Shenzhen Mason Technologies Co Ltd;002654.SZ;Shenzhen Stock Exchange;Advertising & Marketing (NEC);Ordinary Share;Chinese Yuan;28/05/2018;CNE100001C48;Y7746E106;B7CLKG5
+Equinix Inc;EQIX.O;NASDAQ Global Select Consolidated;Specialized REITs (NEC);Ordinary Share;US Dollar;13/11/2023;US29444U7000;29444U700;
+Xcel Energy Inc;XEL.O;NASDAQ Global Select Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;13/09/2023;US98389B1008;98389B100;
+Southern Co;SO;NYSE Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;16/11/2023;US8425871071;842587107;
+HubSpot Inc;HUBS.K;NYSE Consolidated;Enterprise Software;Ordinary Share;US Dollar;;US4435731009;443573100;
+Baker Hughes Co;BKR.O;NASDAQ Global Select Consolidated;Oil Related Services and Equipment (NEC);Ordinary Share;US Dollar;2/11/2023;US05722G1004;05722G100;
+Keyence Corp;6861.T;Tokyo Stock Exchange;Electrical Components & Equipment (NEC);Ordinary Share;Japanese Yen;17/03/2024;JP3236200006;J32491102;6490995
+Williams Companies Inc;WMB;NYSE Consolidated;Oil & Gas Transportation Services (NEC);Ordinary Share;US Dollar;6/12/2023;US9694571004;969457100;
+SAP SE;SAPG.DE;Xetra;Enterprise Software;Ordinary Share;Euro;11/05/2023;DE0007164600;D66992104;
+Align Technology Inc;ALGN.O;NASDAQ Global Select Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;;US0162551016;016255101;
+Cloudflare Inc;NET;NYSE Consolidated;Cloud Computing Services;Ordinary Share;US Dollar;;US18915M1071;18915M107;
+Shell PLC;SHEL.L;London Stock Exchange;Integrated Oil & Gas;Ordinary Share;British Penny;13/11/2024;GB00BP6MXD84;G80827101;BP6MXD8
+HP Inc;HPQ;NYSE Consolidated;Computer Hardware (NEC);Ordinary Share;US Dollar;11/12/2023;US40434L1052;40434L105;
+Dominion Energy Inc;D;NYSE Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;29/11/2023;US25746U1097;25746U109;
+Capital One Financial Corp;COF;NYSE Consolidated;Consumer Credit Cards Services;Ordinary Share;US Dollar;9/11/2023;US14040H1059;14040H105;
+Truist Financial Corp;TFC;NYSE Consolidated;Banks (NEC);Ordinary Share;US Dollar;8/11/2023;US89832Q1094;89832Q109;
+SK Hynix Inc;000660.KS;Korea Exchange - KSE;Semiconductors (NEC);Ordinary Share;South Korean Won;25/09/2023;KR7000660001;Y8085F100;6450267
+Guangdong Tloong Technology Group Co Ltd;300063.SZ;Shenzhen Stock Exchange;Advertising Agency;Ordinary Share;Chinese Yuan;22/06/2017;CNE100000MS2;Y2931J101;B65CFW9
+Emerson Electric Co;EMR;NYSE Consolidated;Electrical Components & Equipment (NEC);Ordinary Share;US Dollar;15/11/2023;US2910111044;291011104;
+Cardinal Health Inc;CAH;NYSE Consolidated;Pharmaceuticals Wholesale;Ordinary Share;US Dollar;28/12/2023;US14149Y1082;14149Y108;
+Monolithic Power Systems Inc;MPWR.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;27/09/2023;US6098391054;609839105;
+Hershey Co;HSY;NYSE Consolidated;Food Processing (NEC);Ordinary Share;US Dollar;15/11/2023;US4278661081;427866108;
+Parker-Hannifin Corp;PH;NYSE Consolidated;Industrial Machinery & Equipment (NEC);Ordinary Share;US Dollar;9/11/2023;US7010941042;701094104;
+Moderna Inc;MRNA.O;NASDAQ Global Select Consolidated;Biotechnology & Medical Research (NEC);Ordinary Share;US Dollar;;US60770K1079;60770K107;
+Riot Platforms Inc;RIOT.O;NASDAQ Capital Market Consolidated;Cryptocurrency Mining;Ordinary Share;US Dollar;11/10/2017;US7672921050;767292105;
+HDFC Bank Ltd;HDBK.NS;National Stock Exchange of India;Banks (NEC);Fully Paid Ordinary Share;Indian Rupee;15/05/2023;INE040A01034;Y3119P190;
+Wuhan P&S Information Technology Co Ltd;300184.SZ;Shenzhen Stock Exchange;Semiconductor Wholesale;Ordinary Share;Chinese Yuan;7/05/2019;CNE1000010D3;Y9714F107;B61J728
+Luxshare Precision Industry Co Ltd;002475.SZ;Shenzhen Stock Exchange;Electronic Components;Ordinary Share;Chinese Yuan;14/06/2023;CNE100000TP3;Y7744X106;B64QPN3
+Seagen Inc;SGEN.O;NASDAQ Global Select Consolidated;Biotechnology & Medical Research (NEC);Ordinary Share;US Dollar;;US81181C1045;81181C104;
+Jiangsu Chuanzhiboke Education Technology Co Ltd;003032.SZ;Shenzhen Stock Exchange;Professional & Business Education;Ordinary Share;Chinese Yuan;12/06/2022;CNE1000049R1;Y44566100;BN73GX7
+Vertiv Holdings Co;VRT;NYSE Consolidated;Electrical Components & Equipment (NEC);Ordinary Share;US Dollar;28/11/2022;US92537N1081;92537N108;
+Keysight Technologies Inc;KEYS.K;NYSE Consolidated;Advanced Electronic Equipment;Ordinary Share;US Dollar;;US49338L1035;49338L103;
+Northrop Grumman Corp;NOC;NYSE Consolidated;Aerospace & Defense (NEC);Ordinary Share;US Dollar;23/11/2023;US6668071029;666807102;
+DBG Technology Co Ltd;300735.SZ;Shenzhen Stock Exchange;Electronic Components;Ordinary Share;Chinese Yuan;25/05/2023;CNE1000035T6;Y202HK102;BF1BZ34
+AerCap Holdings NV;AER;NYSE Consolidated;Industrial Equipment Rental;Ordinary Share;US Dollar;;NL0000687663;N00985106;
+PNC Financial Services Group Inc;PNC;NYSE Consolidated;Banks (NEC);Ordinary Share;US Dollar;15/10/2023;US6934751057;693475105;
+CIG ShangHai Co Ltd;603083.SS;Shanghai Stock Exchange;Communications & Networking (NEC);Ordinary Share;Chinese Yuan;12/08/2020;CNE100002TS3;Y163D9105;BF9Y9N3
+IQVIA Holdings Inc;IQV;NYSE Consolidated;Biotechnology & Medical Research (NEC);Ordinary Share;US Dollar;;US46266C1053;46266C105;
+Shanghai Stonehill Technology Co Ltd;002195.SZ;Shenzhen Stock Exchange;Software (NEC);Ordinary Share;Chinese Yuan;27/06/2023;CNE1000008K2;Y7683P106;B29LC34
+Haima Automobile Co Ltd;000572.SZ;Shenzhen Stock Exchange;Automobiles & Multi Utility Vehicles;Ordinary Share;Chinese Yuan;26/06/2016;CNE0000006L6;Y2981X109;6425276
+United Airlines Holdings Inc;UAL.O;NASDAQ Global Select Consolidated;Airlines (NEC);Ordinary Share;US Dollar;6/01/2008;US9100471096;910047109;
+Johnson Controls International PLC;JCI;NYSE Consolidated;Heating, Ventilation & Air Conditioning Systems;Ordinary Share;US Dollar;21/09/2023;IE00BY7QL619;G51502105;
+Genimous Technology Co Ltd;000676.SZ;Shenzhen Stock Exchange;Advertising & Marketing (NEC);Ordinary Share;Chinese Yuan;12/07/2020;CNE000000NN2;Y3121S109;6420464
+Halliburton Co;HAL;NYSE Consolidated;Oil Related Services and Equipment (NEC);Ordinary Share;US Dollar;5/12/2023;US4062161017;406216101;
+Digital China Group Co Ltd;000034.SZ;Shenzhen Stock Exchange;Consumer Electronic Wholesale;Ordinary Share;Chinese Yuan;9/05/2023;CNE000000DQ6;Y77411109;6802329
+Shenzhen Topway Video Communication Co Ltd;002238.SZ;Shenzhen Stock Exchange;Cable Service Providers;Ordinary Share;Chinese Yuan;13/06/2023;CNE100000BM8;Y7743X107;B2R9WP2
+Sysco Corp;SYY;NYSE Consolidated;Food Retail & Distribution (NEC);Ordinary Share;US Dollar;3/01/2024;US8718291078;871829107;
+Kraft Heinz Co;KHC.O;NASDAQ Global Select Consolidated;Food Processing (NEC);Ordinary Share;US Dollar;29/11/2023;US5007541064;500754106;
+Illinois Tool Works Inc;ITW;NYSE Consolidated;Consumer Goods Conglomerates;Ordinary Share;US Dollar;27/12/2023;US4523081093;452308109;
+Jiangyin Hengrun Heavy Industries Co Ltd;603985.SS;Shanghai Stock Exchange;Industrial Components;Ordinary Share;Chinese Yuan;13/06/2023;CNE100002XL0;Y444TR102;BD2PFW0
+Advance Auto Parts Inc;AAP;NYSE Consolidated;Automotive Parts & Accessories Retailers;Ordinary Share;US Dollar;10/01/2024;US00751Y1064;00751Y106;
+MetLife Inc;MET;NYSE Consolidated;Life & Health Insurance (NEC);Ordinary Share;US Dollar;7/11/2023;US59156R1086;59156R108;
+Atlassian Corp;TEAM.O;NASDAQ Global Select Consolidated;Software (NEC);Ordinary Share;US Dollar;;US0494681010;049468101;
+Kimberly-Clark Corp;KMB;NYSE Consolidated;Sanitary Products;Ordinary Share;US Dollar;6/12/2023;US4943681035;494368103;
+Infineon Technologies AG;IFXGn.DE;Xetra;Semiconductors (NEC);Ordinary Share;Euro;25/02/2024;DE0006231004;D35415104;
+BYD Co Ltd;002594.SZ;Shenzhen Stock Exchange;Automobiles & Multi Utility Vehicles;Ordinary Share;Chinese Yuan;27/07/2023;CNE100001526;Y1023R120;B466322
+Biogen Inc;BIIB.O;NASDAQ Global Select Consolidated;Biopharmaceuticals;Ordinary Share;US Dollar;;US09062X1037;09062X103;
+Recruit Holdings Co Ltd;6098.T;Tokyo Stock Exchange;Outsourcing & Staffing Services;Ordinary Share;Japanese Yen;27/03/2024;JP3970300004;J6433A101;BQRRZ00
+Wuliangye Yibin Co Ltd;000858.SZ;Shenzhen Stock Exchange;Distilleries;Ordinary Share;Chinese Yuan;26/06/2023;CNE000000VQ8;Y9718N106;6109901
+Kawasaki Kisen Kaisha Ltd;9107.T;Tokyo Stock Exchange;Marine Freight & Logistics (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3223800008;J31588148;6484686
+Nanjing Panda Electronics Co Ltd;600775.SS;Shanghai Stock Exchange;Electronic Equipment & Parts (NEC);Ordinary Share;Chinese Yuan;11/07/2023;CNE000000NB7;Y6204F118;6617567
+Hwa Create Corp;300045.SZ;Shenzhen Stock Exchange;Communications & Networking (NEC);Ordinary Share;Chinese Yuan;21/07/2021;CNE100000KL1;Y3793G102;B5KQ4C2
+Intercontinental Exchange Inc;ICE;NYSE Consolidated;Financial & Commodity Market Operators & Service Providers (NEC);Ordinary Share;US Dollar;12/12/2023;US45866F1049;45866F104;
+Kinder Morgan Inc;KMI;NYSE Consolidated;Oil & Gas Transportation Services (NEC);Ordinary Share;US Dollar;29/10/2023;US49456B1017;49456B101;
+General Dynamics Corp;GD;NYSE Consolidated;Aerospace & Defense (NEC);Ordinary Share;US Dollar;4/10/2023;US3695501086;369550108;
+Welltower Inc;WELL.K;NYSE Consolidated;Healthcare REITs;Ordinary Share;US Dollar;12/11/2023;US95040Q1040;95040Q104;
+IDEXX Laboratories Inc;IDXX.O;NASDAQ Global Select Consolidated;Veterinary Medical Equipment & Supplies;Ordinary Share;US Dollar;;US45168D1046;45168D104;
+Spotify Technology SA;SPOT.K;NYSE Consolidated;Online Services (NEC);Ordinary Share;US Dollar;;LU1778762911;L8681T102;
+Solaredge Technologies Inc;SEDG.O;NASDAQ Global Select Consolidated;Photovoltaic Solar Systems & Equipment;Ordinary Share;US Dollar;;US83417M1045;83417M104;
+Shin-Etsu Chemical Co Ltd;4063.T;Tokyo Stock Exchange;Diversified Chemicals;Ordinary Share;Japanese Yen;27/03/2024;JP3371200001;J72810120;6804585
+Archer-Daniels-Midland Co;ADM;NYSE Consolidated;Food Processing (NEC);Ordinary Share;US Dollar;13/11/2023;US0394831020;039483102;
+Tractor Supply Co;TSCO.O;NASDAQ Global Select Consolidated;Miscellaneous Specialty Retailers (NEC);Ordinary Share;US Dollar;23/11/2023;US8923561067;892356106;
+Marathon Oil Corp;MRO;NYSE Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;13/11/2023;US5658491064;565849106;
+Public Storage;PSA;NYSE Consolidated;Self-Storage REITs;Ordinary Share;US Dollar;11/12/2023;US74460D1090;74460D109;
+Abercrombie & Fitch Co;ANF;NYSE Consolidated;Apparel & Accessories Retailers (NEC);Ordinary Share;US Dollar;4/03/2020;US0028962076;002896207;
+Sungrow Power Supply Co Ltd;300274.SZ;Shenzhen Stock Exchange;Renewable Energy Equipment & Services (NEC);Ordinary Share;Chinese Yuan;6/06/2023;CNE1000018M7;Y8211M102;B40J509
+Sharetronic Data Technology Co Ltd;300857.SZ;Shenzhen Stock Exchange;Computer Hardware (NEC);Ordinary Share;Chinese Yuan;15/05/2023;CNE100004173;Y7T0JR107;BMVF773
+Kohls Corp;KSS;NYSE Consolidated;General Department Stores;Ordinary Share;US Dollar;4/12/2023;US5002551043;500255104;
+Walgreens Boots Alliance Inc;WBA.O;NASDAQ Global Select Consolidated;Drug Retailers (NEC);Ordinary Share;US Dollar;12/11/2023;US9314271084;931427108;
+Arthur J. Gallagher & Co.;AJG;NYSE Consolidated;Insurance Brokers;Ordinary Share;US Dollar;29/11/2023;US3635761097;363576109;
+Snap Inc;SNAP.K;NYSE Consolidated;Mobile Application Software;Ordinary Share;US Dollar;;US83304A1060;83304A106;
+Carrier Global Corp;CARR.K;NYSE Consolidated;Heating, Ventilation & Air Conditioning Systems;Ordinary Share;US Dollar;25/10/2023;US14448C1045;14448C104;
+Mitsubishi Corp;8058.T;Tokyo Stock Exchange;Diversified Industrial Goods Wholesale;Ordinary Share;Japanese Yen;27/03/2024;JP3898400001;J43830116;6596785
+Shanghai Runda Medical Technology Co Ltd;603108.SS;Shanghai Stock Exchange;Laboratory Diagnostic & Testing Substances;Ordinary Share;Chinese Yuan;17/07/2023;CNE100002318;Y7T88T108;BXN6276
+Manulife Financial Corp;MFC.TO;The Toronto Stock Exchange;Life & Health Insurance (NEC);Ordinary Share;Canadian Dollar;20/11/2023;CA56501R1064;56501R106;2492519
+Biomarin Pharmaceutical Inc;BMRN.O;NASDAQ Global Select Consolidated;Biopharmaceuticals;Ordinary Share;US Dollar;;US09061G1013;09061G101;
+JD.Com Inc;9618.HK;The Stock Exchange of Hong Kong Ltd;Internet & Mail Order Department Stores;Ordinary Share;Hong Kong Dollar;3/04/2023;KYG8208B1014;G8208B101;BKPQZT6
+Verisk Analytics Inc;VRSK.O;NASDAQ Global Select Consolidated;Technology Consulting & Outsourcing Services;Ordinary Share;US Dollar;13/12/2023;US92345Y1064;92345Y106;
+Amphenol Corp;APH;NYSE Consolidated;Electronic Components;Ordinary Share;US Dollar;17/12/2023;US0320951017;032095101;
+Entergy Corp;ETR;NYSE Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;12/11/2023;US29364G1031;29364G103;
+Beijing Transtrue Technology Inc;002771.SZ;Shenzhen Stock Exchange;IT Services & Consulting (NEC);Ordinary Share;Chinese Yuan;4/07/2023;CNE1000021S8;Y07776100;BZ0HMQ5
+Xpeng Inc;XPEV.K;NYSE Consolidated;Electric (Alternative) Vehicles;American Depository Receipt;US Dollar;;US98422D1054;98422D105;
+Cheniere Energy Inc;LNG;NYSE American Consolidated;LNG Transportation & Storage;Ordinary Share;US Dollar;7/11/2023;US16411R2085;16411R208;
+Motorola Solutions Inc;MSI;NYSE Consolidated;Communications & Networking (NEC);Ordinary Share;US Dollar;13/12/2023;US6200763075;620076307;
+Doosan Robotics Inc;454910.KS;Korea Exchange - KSE;Industrial Machinery & Equipment (NEC);Ordinary Share;South Korean Won;;KR7454910001;Y2R0TK104;BN4P528
+Cognizant Technology Solutions Corp;CTSH.O;NASDAQ Global Select Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;19/11/2023;US1924461023;192446102;
+BILL Holdings Inc;BILL.K;NYSE Consolidated;Software (NEC);Ordinary Share;US Dollar;;US0900431000;090043100;
+Foshan Yowant Technology Co Ltd;002291.SZ;Shenzhen Stock Exchange;Online Services (NEC);Ordinary Share;Chinese Yuan;19/05/2015;CNE100000FS6;Y261DZ109;B41F1X1
+Huagong Tech Co Ltd;000988.SZ;Shenzhen Stock Exchange;Electronic Components;Ordinary Share;Chinese Yuan;15/05/2023;CNE000001303;Y3740C105;6248008
+Hilton Worldwide Holdings Inc;HLT;NYSE Consolidated;Hotels, Motels & Cruise Lines (NEC);Ordinary Share;US Dollar;15/11/2023;US43300A2033;43300A203;
+Cintas Corp;CTAS.O;NASDAQ Global Select Consolidated;Business Support Services (NEC);Ordinary Share;US Dollar;13/11/2023;US1729081059;172908105;
+Aptiv PLC;APTV.K;NYSE Consolidated;Auto, Truck & Motorcycle Parts (NEC);Ordinary Share;US Dollar;3/02/2020;JE00B783TY65;G6095L109;
+China Galaxy Securities Co Ltd;601881.SS;Shanghai Stock Exchange;Brokerage Services;Ordinary Share;Chinese Yuan;16/07/2023;CNE100002FG7;Y1R92J117;BYVJP97
+Cover Corp;5253.T;Tokyo Stock Exchange;Entertainment Production (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3218500001;J0R95K102;BNDTKL5
+Builders FirstSource Inc;BLDR.K;NYSE Consolidated;Construction Supplies & Fixtures (NEC);Ordinary Share;US Dollar;;US12008R1077;12008R107;
+Mizuho Financial Group Inc;8411.T;Tokyo Stock Exchange;Banks (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3885780001;J4599L102;6591014
+Shijiazhuang ChangShan BeiMing Technology Co Ltd;000158.SZ;Shenzhen Stock Exchange;IT Services & Consulting (NEC);Ordinary Share;Chinese Yuan;28/06/2018;CNE0000013X7;Y7789J103;6276968
+China Greatwall Technology Group Co Ltd;000066.SZ;Shenzhen Stock Exchange;Computer Hardware (NEC);Ordinary Share;Chinese Yuan;18/07/2023;CNE000000RL7;Y14392107;6112095
+Republic Services Inc;RSG;NYSE Consolidated;Environmental Services & Equipment (NEC);Ordinary Share;US Dollar;28/12/2023;US7607591002;760759100;
+Clorox Co;CLX;NYSE Consolidated;Household Products (NEC);Ordinary Share;US Dollar;22/01/2024;US1890541097;189054109;
+Bajaj Finance Ltd;BJFN.NS;National Stock Exchange of India;Consumer Lending (NEC);Fully Paid Ordinary Share;Indian Rupee;29/06/2023;INE296A01024;Y0547D112;
+NetEase Inc;NTES.O;NASDAQ Global Select Consolidated;Internet Gaming;American Depository Receipt;US Dollar;29/11/2023;US64110W1027;64110W102;
+Dow Inc;DOW;NYSE Consolidated;Plastics;Ordinary Share;US Dollar;28/11/2023;US2605571031;260557103;
+Ningbo Shenglong Automotive Powertrain System Co Ltd;603178.SS;Shanghai Stock Exchange;Engine & Powertrain Systems;Ordinary Share;Chinese Yuan;12/07/2023;CNE100002Y58;Y6S9EU109;BDV0V62
+Teck Resources Ltd;TECK.K;NYSE Consolidated;Diversified Mining;Ordinary Share;US Dollar;13/12/2023;CA8787422044;878742204;
+Keurig Dr Pepper Inc;KDP.O;NASDAQ Global Select Consolidated;Non-Alcoholic Beverages (NEC);Ordinary Share;US Dollar;27/09/2023;US49271V1008;49271V100;
+Lennar Corp;LEN;NYSE Consolidated;Residential Builders - Single Homes;Ordinary Share;US Dollar;10/10/2023;US5260571048;526057104;
+BJ's Wholesale Club Holdings Inc;BJ;NYSE Consolidated;Discount Stores (NEC);Ordinary Share;US Dollar;;US05550J1016;05550J101;
+LyondellBasell Industries NV;LYB;NYSE Consolidated;Commodity Chemicals (NEC);Ordinary Share;US Dollar;23/11/2023;NL0009434992;N53745100;
+Deckers Outdoor Corp;DECK.K;NYSE Consolidated;Footwear (NEC);Ordinary Share;US Dollar;;US2435371073;243537107;
+Tianqi Lithium Corp;002466.SZ;Shenzhen Stock Exchange;Commodity Chemicals (NEC);Ordinary Share;Chinese Yuan;29/06/2023;CNE100000T32;Y79327105;B52KSP3
+Veeva Systems Inc;VEEV.K;NYSE Consolidated;Medical Software & Technology Services;Ordinary Share;US Dollar;;US9224751084;922475108;
+Equifax Inc;EFX;NYSE Consolidated;Professional Information Services (NEC);Ordinary Share;US Dollar;21/11/2023;US2944291051;294429105;
+ONEOK Inc;OKE;NYSE Consolidated;Oil & Gas Transportation Services (NEC);Ordinary Share;US Dollar;30/10/2023;US6826801036;682680103;
+Paramount Global;PARA.O;NASDAQ Global Select Consolidated;Broadcasting (NEC);Ordinary Share;US Dollar;13/12/2023;US92556H2067;92556H206;
+Great-West Lifeco Inc;GWO.TO;The Toronto Stock Exchange;Life & Health Insurance (NEC);Ordinary Share;Canadian Dollar;28/11/2023;CA39138C1068;39138C106;2384951
+Digital Realty Trust Inc;DLR;NYSE Consolidated;Specialized REITs (NEC);Ordinary Share;US Dollar;13/09/2023;US2538681030;253868103;
+American International Group Inc;AIG;NYSE Consolidated;Property & Casualty Insurance (NEC);Ordinary Share;US Dollar;12/12/2023;US0268747849;026874784;
+Eversource Energy;ES;NYSE Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;21/09/2023;US30040W1080;30040W108;
+AIA Group Ltd;1299.HK;The Stock Exchange of Hong Kong Ltd;Life Insurance;Ordinary Share;Hong Kong Dollar;10/09/2023;HK0000069689;Y002A1105;B4TX8S1
+Take-Two Interactive Software Inc;TTWO.O;NASDAQ Global Select Consolidated;Software (NEC);Ordinary Share;US Dollar;24/09/2008;US8740541094;874054109;
+Tatwah Smartech Co Ltd;002512.SZ;Shenzhen Stock Exchange;Display Screens;Ordinary Share;Chinese Yuan;8/07/2018;CNE100000XN0;Y854AE101;B676XY7
+Roper Technologies Inc;ROP.O;NASDAQ Global Select Consolidated;Application Software;Ordinary Share;US Dollar;7/01/2024;US7766961061;776696106;
+Beijing Oriental Yuhong Waterproof Technology Co Ltd;002271.SZ;Shenzhen Stock Exchange;Tile & Paving Material Manufacturing;Ordinary Share;Chinese Yuan;18/05/2023;CNE100000CS3;Y07729109;B3CTJX1
+Domino's Pizza Inc;DPZ;NYSE Consolidated;Quick Service Restaurants;Ordinary Share;US Dollar;13/12/2023;US25754A2015;25754A201;
+Paychex Inc;PAYX.O;NASDAQ Global Select Consolidated;Outsourcing & Staffing Services;Ordinary Share;US Dollar;12/11/2023;US7043261079;704326107;
+NRG Energy Inc;NRG;NYSE Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;30/10/2023;US6293775085;629377508;
+Warner Bros Discovery Inc;WBD.O;NASDAQ Global Select Consolidated;Television Broadcasting;Ordinary Share;US Dollar;6/08/2014;US9344231041;934423104;
+Posco Holdings Inc;005490.KS;Korea Exchange - KSE;Iron & Steel (NEC);Ordinary Share;South Korean Won;25/09/2023;KR7005490008;Y70750115;6693233
+EQT Corp;EQT;NYSE Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;6/11/2023;US26884L1098;26884L109;
+Gartner Inc;IT;NYSE Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;18/07/1999;US3666511072;366651107;
+Mechel PAO;MTLR.MM;Moscow Interbank Currency Exchange (MICEX);Iron & Steel (NEC);Ordinary Share;Russian Ruble;22/05/2012;RU000A0DKXV5;X8487H101;B5960H0
+L3Harris Technologies Inc;LHX;NYSE Consolidated;Aerospace & Defense (NEC);Ordinary Share;US Dollar;15/11/2023;US5024311095;502431109;
+Kuaishou Technology;1024.HK;The Stock Exchange of Hong Kong Ltd;Social Media & Networking;Ordinary Share;Hong Kong Dollar;;KYG532631028;G53263102;BLC90T0
+Allstate Corp;ALL;NYSE Consolidated;Property & Casualty Insurance (NEC);Ordinary Share;US Dollar;28/11/2023;US0200021014;020002101;
+Dawning Information Industry Co Ltd;603019.SS;Shanghai Stock Exchange;Computer Hardware (NEC);Ordinary Share;Chinese Yuan;22/10/2023;CNE100001TW7;Y2022K108;BRKB8G3
+Sinodata Co Ltd;002657.SZ;Shenzhen Stock Exchange;Computer Programming;Ordinary Share;Chinese Yuan;11/07/2021;CNE100001C71;Y7762H108;B6S7CR5
+Foxconn Industrial Internet Co Ltd;601138.SS;Shanghai Stock Exchange;Communications & Networking (NEC);Ordinary Share;Chinese Yuan;27/07/2023;CNE1000031P3;Y2620V100;BFZ7XB2
+Tonghua Golden-Horse Pharmaceutical Industry Co Ltd;000766.SZ;Shenzhen Stock Exchange;Pharmaceuticals (NEC);Ordinary Share;Chinese Yuan;24/05/2001;CNE000000735;Y8865A107;6893099
+Norwegian Cruise Line Holdings Ltd;NCLH.K;NYSE Consolidated;Cruise Lines;Ordinary Share;US Dollar;;BMG667211046;G66721104;
+NiSource Inc;NI;NYSE Consolidated;Multiline Utilities;Ordinary Share;US Dollar;29/10/2023;US65473P1057;65473P105;
+Wynn Resorts Ltd;WYNN.O;NASDAQ Global Select Consolidated;Casinos;Ordinary Share;US Dollar;16/11/2023;US9831341071;983134107;
+Li Auto Inc;2015.HK;The Stock Exchange of Hong Kong Ltd;Electric (Alternative) Vehicles;Ordinary Share;Hong Kong Dollar;;KYG5479M1050;G5479M105;BMW5M00
+HSBC Holdings PLC;HSBA.L;London Stock Exchange;Banks (NEC);Ordinary Share;British Penny;8/11/2023;GB0005405286;G4634U169;0540528
+Old Dominion Freight Line Inc;ODFL.O;NASDAQ Global Select Consolidated;Freight Trucking;Ordinary Share;US Dollar;4/12/2023;US6795801009;679580100;
+Duolun Technology Corp Ltd;603528.SS;Shanghai Stock Exchange;Integrated Hardware & Software;Ordinary Share;Chinese Yuan;19/06/2023;CNE100002BD3;Y62043107;BYZ31X1
+CITIC Securities Co Ltd;600030.SS;Shanghai Stock Exchange;Investment Banking & Brokerage Services (NEC);Ordinary Share;Chinese Yuan;24/08/2023;CNE000001DB6;Y1639N109;6579355
+Travelers Companies Inc;TRV;NYSE Consolidated;Property & Casualty Insurance (NEC);Ordinary Share;US Dollar;6/12/2023;US89417E1091;89417E109;
+CF Industries Holdings Inc;CF;NYSE Consolidated;Fertilizers;Ordinary Share;US Dollar;13/11/2023;US1252691001;125269100;
+elf Beauty Inc;ELF;NYSE Consolidated;Personal Care Products Retailers;Ordinary Share;US Dollar;;US26856L1035;26856L103;
+China Merchants Bank Co Ltd;600036.SS;Shanghai Stock Exchange;Banks (NEC);Ordinary Share;Chinese Yuan;12/07/2023;CNE000001B33;Y14896107;6518723
+Mitsubishi Heavy Industries Ltd;7011.T;Tokyo Stock Exchange;Consumer Goods Conglomerates;Ordinary Share;Japanese Yen;27/03/2024;JP3900000005;J44002178;6597067
+Panasonic Holdings Corp;6752.T;Tokyo Stock Exchange;Household Electronics (NEC);Ordinary Share;Japanese Yen;27/09/2023;JP3866800000;J6354Y104;6572707
+VICI Properties Inc;VICI.K;NYSE Consolidated;Hospitality REITs;Ordinary Share;US Dollar;19/09/2023;US9256521090;925652109;
+Aflac Inc;AFL;NYSE Consolidated;Life & Health Insurance (NEC);Ordinary Share;US Dollar;19/02/2024;US0010551028;001055102;
+BlueFocus Intelligent Communications Group Co Ltd;300058.SZ;Shenzhen Stock Exchange;Media Buying Agency;Ordinary Share;Chinese Yuan;6/06/2022;CNE100000LV8;Y091AZ103;B3N1WC6
+Twilio Inc;TWLO.K;NYSE Consolidated;Software (NEC);Ordinary Share;US Dollar;;US90138F1021;90138F102;
+Itau Unibanco Holding SA;ITUB4.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros;Banks (NEC);Preference Share;Brazilian Real;30/11/2023;BRITUBACNPR1;P5968U113;B037HR3
+Energy Transfer LP;ET;NYSE Consolidated;Natural Gas Pipeline Transportation;Unit;US Dollar;26/10/2023;US29273V1008;29273V100;
+Paycom Software Inc;PAYC.K;NYSE Consolidated;Enterprise Software;Ordinary Share;US Dollar;23/11/2023;US70432V1026;70432V102;
+Pacific Securities Co Ltd;601099.SS;Shanghai Stock Exchange;Brokerage Services;Ordinary Share;Chinese Yuan;6/05/2018;CNE1000008V9;Y6S73B107;B2NBQM7
+MGM Resorts International;MGM;NYSE Consolidated;Casinos;Ordinary Share;US Dollar;7/12/2022;US5529531015;552953101;
+Laboratory Corporation of America Holdings;LH;NYSE Consolidated;Healthcare Facilities & Services (NEC);Ordinary Share;US Dollar;6/11/2023;US50540R4092;50540R409;
+Apollo Global Management Inc;APO;NYSE Consolidated;Investment Management & Fund Operators (NEC);Ordinary Share;US Dollar;15/11/2023;US03769M1062;03769M106;
+Lamb Weston Holdings Inc;LW;NYSE Consolidated;Food Processing (NEC);Ordinary Share;US Dollar;1/11/2023;US5132721045;513272104;
+Live Nation Entertainment Inc;LYV;NYSE Consolidated;Plays & Concert Production;Ordinary Share;US Dollar;;US5380341090;538034109;
+TE Connectivity Ltd;TEL;NYSE Consolidated;Electrical Components;Ordinary Share;US Dollar;14/02/2024;CH0102993182;H84989104;
+Monday.Com Ltd;MNDY.O;NASDAQ Global Select Consolidated;System Software;Ordinary Share;US Dollar;;IL0011762130;M7S64H106;
+WW Grainger Inc;GWW;NYSE Consolidated;Industrial Machinery & Equipment Wholesale;Ordinary Share;US Dollar;9/11/2023;US3848021040;384802104;
+China Science Publishing & Media Ltd;601858.SS;Shanghai Stock Exchange;Book Publishing;Ordinary Share;Chinese Yuan;17/07/2023;CNE100002R99;Y1R11S107;BZBYDZ1
+Honda Motor Co Ltd;7267.T;Tokyo Stock Exchange;Auto & Truck Manufacturers (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3854600008;J22302111;6435145
+Socionext Inc;6526.T;Tokyo Stock Exchange;IT Services & Consulting (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3433500000;J75866103;BMTVX75
+Cinda Securities Co Ltd;601059.SS;Shanghai Stock Exchange;Brokerage Services;Ordinary Share;Chinese Yuan;17/08/2023;CNE100005VS2;Y163CL109;BM8NNM7
+Match Group Inc;MTCH.O;NASDAQ Global Select Consolidated;Social Media & Networking;Ordinary Share;US Dollar;3/12/2018;US57667L1070;57667L107;
+American Eagle Outfitters Inc;AEO;NYSE Consolidated;Apparel & Accessories Retailers (NEC);Ordinary Share;US Dollar;11/10/2023;US02553E1064;02553E106;
+Paccar Inc;PCAR.O;NASDAQ Global Select Consolidated;Heavy Machinery & Vehicles (NEC);Ordinary Share;US Dollar;13/11/2023;US6937181088;693718108;
+Dynatrace Inc;DT;NYSE Consolidated;Cloud Computing Services;Ordinary Share;US Dollar;;US2681501092;268150109;
+Zhuhai Aerospace Microchips Science & Technology Co Ltd;300053.SZ;Shenzhen Stock Exchange;Integrated Circuits;Ordinary Share;Chinese Yuan;5/06/2019;CNE100000LL9;Y9893S102;B3MH474
+Extra Space Storage Inc;EXR;NYSE Consolidated;Self-Storage REITs;Ordinary Share;US Dollar;13/12/2023;US30225T1025;30225T102;
+PPL Corp;PPL;NYSE Consolidated;Multiline Utilities;Ordinary Share;US Dollar;6/12/2023;US69351T1060;69351T106;
+Shenzhen Fastprint Circuit Tech Co Ltd;002436.SZ;Shenzhen Stock Exchange;Integrated Circuits;Ordinary Share;Chinese Yuan;15/06/2023;CNE100000QD5;Y7744R109;B5758F3
+Las Vegas Sands Corp;LVS;NYSE Consolidated;Casinos;Ordinary Share;US Dollar;5/11/2023;US5178341070;517834107;
+Centene Corp;CNC;NYSE Consolidated;Managed Healthcare (NEC);Ordinary Share;US Dollar;;US15135B1017;15135B101;
+Ferguson PLC;FERG.K;NYSE Consolidated;Construction Supplies & Fixtures Wholesale;Ordinary Share;US Dollar;4/10/2023;JE00BJVNSS43;G3421J106;
+Public Service Enterprise Group Inc;PEG;NYSE Consolidated;Multiline Utilities;Ordinary Share;US Dollar;6/12/2023;US7445731067;744573106;
+Bath & Body Works Inc;BBWI.K;NYSE Consolidated;Personal Care Products Retailers;Ordinary Share;US Dollar;15/11/2023;US0708301041;070830104;
+Fox Corp;FOXA.O;NASDAQ Global Select Consolidated;Television Broadcasting;Ordinary Share;US Dollar;28/08/2023;US35137L1052;35137L105;
+Goertek Inc;002241.SZ;Shenzhen Stock Exchange;Electronic Components;Ordinary Share;Chinese Yuan;30/05/2023;CNE100000BP1;Y27360109;B2R9WZ2
+Qiming Information Technology Co Ltd;002232.SZ;Shenzhen Stock Exchange;IT Services & Consulting (NEC);Ordinary Share;Chinese Yuan;25/05/2023;CNE100000B73;Y71635109;B2R33J5
+GE Healthcare Technologies Inc;GEHC.O;NASDAQ Global Select Consolidated;Advanced Medical Equipment & Technology (NEC);Ordinary Share;US Dollar;18/10/2023;US36266G1076;36266G107;
+Duolingo Inc;DUOL.O;NASDAQ Global Select Consolidated;Online Services (NEC);Ordinary Share;US Dollar;;US26603R1068;26603R106;
+Posco Future M Co Ltd;003670.KS;Korea Exchange - KSE;Construction Materials (NEC);Ordinary Share;South Korean Won;27/12/2022;KR7003670007;Y70754109;6419451
+Ganfeng Lithium Group Co Ltd;002460.SZ;Shenzhen Stock Exchange;Commodity Chemicals (NEC);Ordinary Share;Chinese Yuan;11/07/2023;CNE100000SF6;Y444B3104;B41CNM5
+Western Digital Corp;WDC.O;NASDAQ Global Select Consolidated;Storage Devices;Ordinary Share;US Dollar;1/04/2020;US9581021055;958102105;
+Resmed Inc;RMD;NYSE Consolidated;Advanced Medical Equipment & Technology (NEC);Ordinary Share;US Dollar;7/11/2023;US7611521078;761152107;
+Jacobs Solutions Inc;J;NYSE Consolidated;Business Support Services (NEC);Ordinary Share;US Dollar;25/10/2023;US46982L1089;46982L108;
+WEC Energy Group Inc;WEC;NYSE Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;12/11/2023;US92939U1060;92939U106;
+CDW Corp;CDW.O;NASDAQ Global Select Consolidated;Integrated Hardware & Software;Ordinary Share;US Dollar;21/11/2023;US12514G1085;12514G108;
+Southwest Airlines Co;LUV;NYSE Consolidated;Regional Airlines;Ordinary Share;US Dollar;19/12/2023;US8447411088;844741108;
+American Water Works Company Inc;AWK;NYSE Consolidated;Water Supply & Irrigation Systems;Ordinary Share;US Dollar;12/11/2023;US0304201033;030420103;
+Willis Towers Watson PLC;WTW.O;NASDAQ Global Select Consolidated;Insurance Brokers;Ordinary Share;US Dollar;27/09/2023;IE00BDB6Q211;G96629103;
+Hubbell Inc;HUBB.K;NYSE Consolidated;Electrical Components & Equipment (NEC);Ordinary Share;US Dollar;28/11/2023;US4435106079;443510607;
+Martin Marietta Materials Inc;MLM;NYSE Consolidated;Construction Materials (NEC);Ordinary Share;US Dollar;29/11/2023;US5732841060;573284106;
+Globant SA;GLOB.K;NYSE Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;;LU0974299876;L44385109;
+Allianz SE;ALVG.DE;Xetra;Multiline Insurance & Brokers (NEC);Ordinary Share;Euro;4/05/2023;DE0008404005;D03080112;
+Constellation Energy Corp;CEG.O;NASDAQ Global Select Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;15/11/2023;US21037T1097;21037T109;
+Shenzhen Wongtee International Enterprise Co Ltd;000056.SZ;Shenzhen Stock Exchange;Real Estate Services (NEC);Ordinary Share;Chinese Yuan;8/07/2019;CNE000000297;Y7741Q112;6802318
+PPG Industries Inc;PPG;NYSE Consolidated;Paints & Coatings;Ordinary Share;US Dollar;8/11/2023;US6935061076;693506107;
+Winner Technology Co Inc;300609.SZ;Shenzhen Stock Exchange;IT Services & Consulting (NEC);Ordinary Share;Chinese Yuan;30/05/2022;CNE100002PV5;Y9585B102;BYMLWY6
+KKR & Co Inc;KKR;NYSE Consolidated;Investment Management;Ordinary Share;US Dollar;15/11/2023;US48251W1045;48251W104;
+Japan Tobacco Inc;2914.T;Tokyo Stock Exchange;Cigars & Cigarette Manufacturing;Ordinary Share;Japanese Yen;27/12/2023;JP3726800000;J27869106;6474535
+People.cn Co Ltd;603000.SS;Shanghai Stock Exchange;Advertising & Marketing (NEC);Ordinary Share;Chinese Yuan;18/07/2023;CNE100001FP0;Y6788E107;B7GX3Z7
+GigaDevice Semiconductor Inc;603986.SS;Shanghai Stock Exchange;Semiconductors (NEC);Ordinary Share;Chinese Yuan;19/06/2023;CNE1000030S9;Y270BL103;BYM9X70
+Arch Capital Group Ltd;ACGL.O;NASDAQ Global Select Consolidated;Property & Casualty Insurance (NEC);Ordinary Share;US Dollar;;BMG0450A1053;G0450A105;
+RH;RH;NYSE Consolidated;Home Furnishings Retailers (NEC);Ordinary Share;US Dollar;;US74967X1037;74967X103;
+Schneider Electric SE;SCHN.PA;Euronext Paris;Electrical Components & Equipment (NEC);Ordinary Share;Euro;8/05/2023;FR0000121972;F86921107;4834108
+Consolidated Edison Inc;ED;NYSE Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;13/11/2023;US2091151041;209115104;
+Quanta Services Inc;PWR;NYSE Consolidated;Construction & Engineering (NEC);Ordinary Share;US Dollar;28/09/2023;US74762E1029;74762E102;
+TransUnion;TRU;NYSE Consolidated;Professional Information Services (NEC);Ordinary Share;US Dollar;15/11/2023;US89400J1079;89400J107;
+Nintendo Co Ltd;7974.T;Tokyo Stock Exchange;Games, Toys & Children's Vehicles;Ordinary Share;Japanese Yen;27/03/2024;JP3756600007;J51699106;6639550
+Itochu Corp;8001.T;Tokyo Stock Exchange;Diversified Industrial Goods Wholesale;Ordinary Share;Japanese Yen;27/03/2024;JP3143600009;J2501P104;6467803
+Expeditors International of Washington Inc;EXPD.K;NYSE Consolidated;Courier, Postal, Air Freight & Land-based Logistics (NEC);Ordinary Share;US Dollar;29/11/2023;US3021301094;302130109;
+Fastenal Co;FAST.O;NASDAQ Global Select Consolidated;Industrial Machinery & Equipment Wholesale;Ordinary Share;US Dollar;4/12/2023;US3119001044;311900104;
+Edifier Technology Co Ltd;002351.SZ;Shenzhen Stock Exchange;Home Audio;Ordinary Share;Chinese Yuan;14/05/2023;CNE100000L71;Y2249H102;B5NZT54
+Wuxi Taiji Industry Ltd Corp;600667.SS;Shanghai Stock Exchange;Construction & Engineering (NEC);Ordinary Share;Chinese Yuan;29/06/2022;CNE000000B00;Y97185105;6874061
+Suzhou TFC Optical Communication Co Ltd;300394.SZ;Shenzhen Stock Exchange;Electronic Components;Ordinary Share;Chinese Yuan;6/06/2023;CNE100001XQ1;Y831BY104;BVV7ZP6
+Keli Motor Group Co Ltd;002892.SZ;Shenzhen Stock Exchange;Electrical Components & Equipment (NEC);Ordinary Share;Chinese Yuan;5/06/2023;CNE1000032M8;Y3766T107;BDTYYS9
+Dupont De Nemours Inc;DD;NYSE Consolidated;Diversified Chemicals;Ordinary Share;US Dollar;28/11/2023;US26614N1028;26614N102;
+Global Payments Inc;GPN;NYSE Consolidated;Transaction & Payment Services;Ordinary Share;US Dollar;13/12/2023;US37940X1028;37940X102;
+Jabil Inc;JBL;NYSE Consolidated;Electronic Components;Ordinary Share;US Dollar;13/11/2023;US4663131039;466313103;
+Targa Resources Corp;TRGP.K;NYSE Consolidated;Oil & Gas Transportation Services (NEC);Ordinary Share;US Dollar;29/10/2023;US87612G1013;87612G101;
+PENN Entertainment Inc;PENN.O;NASDAQ Global Select Consolidated;Casinos & Gaming (NEC);Ordinary Share;US Dollar;;US7075691094;707569109;
+Hormel Foods Corp;HRL;NYSE Consolidated;Meat Processing;Ordinary Share;US Dollar;11/01/2024;US4404521001;440452100;
+Ecolab Inc;ECL;NYSE Consolidated;Specialty Chemicals (NEC);Ordinary Share;US Dollar;17/09/2023;US2788651006;278865100;
+WuXi AppTec Co Ltd;603259.SS;Shanghai Stock Exchange;Bio Therapeutic Drugs;Ordinary Share;Chinese Yuan;13/06/2023;CNE1000031K4;Y971B1100;BFXNP16
+Tokio Marine Holdings Inc;8766.T;Tokyo Stock Exchange;Property & Casualty Insurance (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3910660004;J86298106;6513126
+Waters Corp;WAT;NYSE Consolidated;Advanced Medical Equipment & Technology (NEC);Ordinary Share;US Dollar;;US9418481035;941848103;
+SI-TECH Information Technology Co Ltd;300608.SZ;Shenzhen Stock Exchange;IT Services & Consulting (NEC);Ordinary Share;Chinese Yuan;25/05/2023;CNE100002PW3;Y8T35W103;BYXM1Q3
+China Tourism Group Duty Free Corp Ltd;601888.SS;Shanghai Stock Exchange;Duty Free Shops;Ordinary Share;Chinese Yuan;20/07/2023;CNE100000G29;Y149A3100;B42G7J1
+Lyft Inc;LYFT.O;NASDAQ Global Select Consolidated;Online Services (NEC);Ordinary Share;US Dollar;;US55087P1049;55087P104;
+China Vanke Co Ltd;000002.SZ;Shenzhen Stock Exchange;Residential Real Estate Rental & Development;Ordinary Share;Chinese Yuan;24/08/2023;CNE0000000T2;Y77421116;6803708
+Everest Group Ltd;EG;NYSE Consolidated;Property & Casualty Reinsurance;Ordinary Share;US Dollar;27/11/2023;BMG3223R1088;G3223R108;
+Plug Power Inc;PLUG.O;NASDAQ Capital Market Consolidated;Stationary Fuel Cells;Ordinary Share;US Dollar;;US72919P2020;72919P202;
+Entegris Inc;ENTG.O;NASDAQ Global Select Consolidated;Semiconductor Equipment & Testing (NEC);Ordinary Share;US Dollar;30/10/2023;US29362U1043;29362U104;
+Shenzhen Sunway Communication Co Ltd;300136.SZ;Shenzhen Stock Exchange;Electronic Components;Ordinary Share;Chinese Yuan;15/06/2023;CNE100000W94;Y77453101;B4XT6X6
+Pultegroup Inc;PHM;NYSE Consolidated;Homebuilding (NEC);Ordinary Share;US Dollar;17/12/2023;US7458671010;745867101;
+Ningbo Tianlong Electronics Co Ltd;603266.SS;Shanghai Stock Exchange;Auto, Truck & Motorcycle Parts (NEC);Ordinary Share;Chinese Yuan;25/06/2023;CNE100002ZF7;Y6299B105;BYNWH09
+Unisplendour Corp Ltd;000938.SZ;Shenzhen Stock Exchange;Integrated Hardware & Software;Ordinary Share;Chinese Yuan;7/08/2022;CNE0000010T1;Y8997B106;6172561
+Simon Property Group Inc;SPG;NYSE Consolidated;Retail REITs;Ordinary Share;US Dollar;6/12/2023;US8288061091;828806109;
+Veralto Corp;VLTO.K;NYSE Consolidated;Water & Related Utilities (NEC);Ordinary Share;US Dollar;;US92338C1036;92338C103;
+Nucor Corp;NUE;NYSE Consolidated;Iron & Steel (NEC);Ordinary Share;US Dollar;27/09/2023;US6703461052;670346105;
+Unilever PLC;ULVR.L;London Stock Exchange;Personal Products (NEC);Ordinary Share;British Penny;15/11/2023;GB00B10RZP78;G92087165;B10RZP7
+ING Groep NV;INGA.AS;Euronext Amsterdam;Banks (NEC);Ordinary Share;Euro;6/08/2023;NL0011821202;N4578E595;BZ57390
+Baxter International Inc;BAX;NYSE Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;29/11/2023;US0718131099;071813109;
+KeyCorp;KEY;NYSE Consolidated;Banks (NEC);Ordinary Share;US Dollar;26/11/2023;US4932671088;493267108;
+Zhewen Interactive Group Co Ltd;600986.SS;Shanghai Stock Exchange;Digital Media Agencies;Ordinary Share;Chinese Yuan;24/07/2019;CNE000001HF8;Y45915116;B00VWB7
+Vulcan Materials Co;VMC;NYSE Consolidated;Construction Materials (NEC);Ordinary Share;US Dollar;9/11/2023;US9291601097;929160109;
+Skyworks Solutions Inc;SWKS.O;NASDAQ Global Select Consolidated;Integrated Circuits;Ordinary Share;US Dollar;19/11/2023;US83088M1027;83088M102;
+Coterra Energy Inc;CTRA.K;NYSE Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;14/11/2023;US1270971039;127097103;
+SBA Communications Corp;SBAC.O;NASDAQ Global Select Consolidated;Specialized REITs (NEC);Ordinary Share;US Dollar;14/11/2023;US78410G1040;78410G104;
+Sanofi SA;SASY.PA;Euronext Paris;Pharmaceuticals (NEC);Ordinary Share;Euro;29/05/2023;FR0000120578;F5548N101;5671735
+J M Smucker Co;SJM;NYSE Consolidated;Food Processing (NEC);Ordinary Share;US Dollar;15/11/2023;US8326964058;832696405;
+Hologic Inc;HOLX.O;NASDAQ Global Select Consolidated;Advanced Medical Equipment & Technology (NEC);Ordinary Share;US Dollar;;US4364401012;436440101;
+ICICI Bank Ltd;ICBK.NS;National Stock Exchange of India;Banks (NEC);Fully Paid Ordinary Share;Indian Rupee;8/08/2023;INE090A01021;Y3860Z132;
+AMETEK Inc;AME;NYSE Consolidated;Electrical Components & Equipment (NEC);Ordinary Share;US Dollar;6/12/2023;US0311001004;031100100;
+Southwestern Energy Co;SWN;NYSE Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;17/04/2000;US8454671095;845467109;
+Troy Information Technology Co Ltd;300366.SZ;Shenzhen Stock Exchange;IT Services & Consulting (NEC);Ordinary Share;Chinese Yuan;5/06/2018;CNE100001RX9;Y7938M106;BHZ3GL5
+LPL Financial Holdings Inc;LPLA.O;NASDAQ Global Select Consolidated;Investment Banking & Brokerage Services (NEC);Ordinary Share;US Dollar;7/11/2023;US50212V1008;50212V100;
+Kellanova;K;NYSE Consolidated;Food Processing (NEC);Ordinary Share;US Dollar;29/11/2023;US4878361082;487836108;
+Ameriprise Financial Inc;AMP;NYSE Consolidated;Investment Management & Fund Operators (NEC);Ordinary Share;US Dollar;2/11/2023;US03076C1062;03076C106;
+Tsinghua Tongfang Co Ltd;600100.SS;Shanghai Stock Exchange;Integrated Hardware & Software;Ordinary Share;Chinese Yuan;1/06/2021;CNE000000RK9;Y8997R119;6093060
+NAURA Technology Group Co Ltd;002371.SZ;Shenzhen Stock Exchange;Semiconductor Machinery Manufacturing;Ordinary Share;Chinese Yuan;12/07/2023;CNE100000ML7;Y0772M100;B66DNR2
+Toronto-Dominion Bank;TD.TO;The Toronto Stock Exchange;Banks (NEC);Ordinary Share;Canadian Dollar;4/10/2023;CA8911605092;891160509;2897222
+AstraZeneca PLC;AZN.L;London Stock Exchange;Pharmaceuticals (NEC);Ordinary Share;British Penny;9/08/2023;GB0009895292;G0593M107;0989529
+China Yangtze Power Co Ltd;600900.SS;Shanghai Stock Exchange;Hydroelectric & Tidal Utilities;Ordinary Share;Chinese Yuan;20/07/2023;CNE000001G87;Y1516Q142;6711630
+Floor & Decor Holdings Inc;FND;NYSE Consolidated;Builder Merchants;Ordinary Share;US Dollar;;US3397501012;339750101;
+Shanghai Yanhua Smartech Group Co Ltd;002178.SZ;Shenzhen Stock Exchange;Building Contractors;Ordinary Share;Chinese Yuan;4/07/2017;CNE1000007S7;Y76920100;B28M3K2
+BP PLC;BP.L;London Stock Exchange;Oil & Gas Refining and Marketing (NEC);Ordinary Share;British Penny;8/11/2023;GB0007980591;G12793108;0798059
+Ares Management Corp;ARES.K;NYSE Consolidated;Investment Management;Ordinary Share;US Dollar;13/12/2023;US03990B1017;03990B101;
+Ameren Corp;AEE;NYSE Consolidated;Multiline Utilities;Ordinary Share;US Dollar;11/12/2023;US0236081024;023608102;
+Changzhou Tronly New Electronic Materials Co Ltd;300429.SZ;Shenzhen Stock Exchange;Specialty Chemicals (NEC);Ordinary Share;Chinese Yuan;16/06/2022;CNE100001YR7;Y12995109;BW9LDY2
+Beijing E-hualu Information Technology Co Ltd;300212.SZ;Shenzhen Stock Exchange;IT Services & Consulting (NEC);Ordinary Share;Chinese Yuan;27/12/2021;CNE1000012M0;Y07737102;B4L7QL0
+Hongbo Co Ltd;002229.SZ;Shenzhen Stock Exchange;Commercial Printing Services (NEC);Ordinary Share;Chinese Yuan;12/06/2019;CNE100000B65;Y2654E107;B2QR2Z7
+KAISA JiaYun Technology Inc;300242.SZ;Shenzhen Stock Exchange;Advertising & Marketing (NEC);Ordinary Share;Chinese Yuan;9/05/2018;CNE1000015H3;Y6031M104;B514016
+Zijin Mining Group Co Ltd;601899.SS;Shanghai Stock Exchange;Gold Refining;Ordinary Share;Chinese Yuan;14/06/2023;CNE100000B24;Y9892H115;B2QZ4S8
+Yum! Brands Inc;YUM;NYSE Consolidated;Quick Service Restaurants;Ordinary Share;US Dollar;26/11/2023;US9884981013;988498101;
+APA Corp (US);APA.O;NASDAQ Global Select Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;19/10/2023;US03743Q1085;03743Q108;
+SMC Corp;6273.T;Tokyo Stock Exchange;Testing & Measuring Equipment;Ordinary Share;Japanese Yen;27/03/2024;JP3162600005;J75734103;6763965
+Mitsui & Co Ltd;8031.T;Tokyo Stock Exchange;Diversified Industrial Goods Wholesale;Ordinary Share;Japanese Yen;27/03/2024;JP3893600001;J44690139;6597302
+Five9 Inc;FIVN.O;NASDAQ Global Market Consolidated;Application Software;Ordinary Share;US Dollar;;US3383071012;338307101;
+Hebei Changshan Biochemical Pharmaceutical Co Ltd;300255.SZ;Shenzhen Stock Exchange;Biopharmaceuticals;Ordinary Share;Chinese Yuan;26/06/2023;CNE1000016C2;Y31202107;B3XDZ23
+Church & Dwight Co Inc;CHD;NYSE Consolidated;Household Products (NEC);Ordinary Share;US Dollar;13/11/2023;US1713401024;171340102;
+Hong Kong Exchanges and Clearing Ltd;0388.HK;The Stock Exchange of Hong Kong Ltd;Financial & Commodity Market Operators & Service Providers (NEC);Ordinary Share;Hong Kong Dollar;28/08/2023;HK0388045442;Y3506N139;6267359
+Global-E Online Ltd;GLBE.O;NASDAQ Global Select Consolidated;E-commerce & Auction Services;Ordinary Share;US Dollar;;IL0011741688;M5216V106;
+Banco Santander SA;SAN.MC;BME SPANISH EXCHANGE;Banks (NEC);Ordinary Share;Euro;30/10/2023;ES0113900J37;E19790109;5705946
+Symbotic Inc;SYM.O;NASDAQ Global Market Consolidated;Industrial Machinery & Equipment (NEC);Ordinary Share;US Dollar;;US87151X1019;87151X101;
+Jiangxi Special Electric Motor Co Ltd;002176.SZ;Shenzhen Stock Exchange;Specialty Mining & Metals (NEC);Ordinary Share;Chinese Yuan;24/05/2018;CNE1000007F4;Y4448B100;B24HVJ6
+Upstart Holdings Inc;UPST.O;NASDAQ Global Select Consolidated;Consumer Leasing;Ordinary Share;US Dollar;;US91680M1071;91680M107;
+VF Corp;VFC;NYSE Consolidated;Apparel & Accessories (NEC);Ordinary Share;US Dollar;7/12/2023;US9182041080;918204108;
+Akamai Technologies Inc;AKAM.O;NASDAQ Global Select Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;;US00971T1016;00971T101;
+Mercedes Benz Group AG;MBGn.DE;Xetra;Auto & Truck Manufacturers (NEC);Ordinary Share;Euro;3/05/2023;DE0007100000;D1668R123;
+Zhejiang Shibao Co Ltd;002703.SZ;Shenzhen Stock Exchange;Engine & Powertrain Systems;Ordinary Share;Chinese Yuan;30/07/2017;CNE100001MJ9;Y98927117;B83V1G8
+Luzhou Laojiao Co Ltd;000568.SZ;Shenzhen Stock Exchange;Distilleries;Ordinary Share;Chinese Yuan;27/08/2023;CNE000000GF2;Y5347R104;6517485
+Hybio Pharmaceutical Co Ltd;300199.SZ;Shenzhen Stock Exchange;Generic Pharmaceuticals;Ordinary Share;Chinese Yuan;18/04/2018;CNE1000011T7;Y3813D105;B3V37B8
+China Reform Health Management and Services Group Co Ltd;000503.SZ;Shenzhen Stock Exchange;Business Support Services (NEC);Ordinary Share;Chinese Yuan;30/05/2004;CNE000000255;Y29815100;6803106
+Tenet Healthcare Corp;THC;NYSE Consolidated;Healthcare Facilities & Services (NEC);Ordinary Share;US Dollar;12/03/2000;US88033G4073;88033G407;
+Huizhou Desay SV Automotive Co Ltd;002920.SZ;Shenzhen Stock Exchange;Electronic Equipment & Parts (NEC);Ordinary Share;Chinese Yuan;9/05/2023;CNE1000033C7;Y374EM108;BZ3ZWJ9
+DTE Energy Co;DTE;NYSE Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;14/09/2023;US2333311072;233331107;
+Towa Corp;6315.T;Tokyo Stock Exchange;Semiconductor Machinery Manufacturing;Ordinary Share;Japanese Yen;27/03/2024;JP3555700008;J9042T107;6878665
+Quest Diagnostics Inc;DGX;NYSE Consolidated;Healthcare Facilities & Services (NEC);Ordinary Share;US Dollar;15/01/2024;US74834L1008;74834L100;
+Runjian Co Ltd;002929.SZ;Shenzhen Stock Exchange;Telecommunication Construction;Ordinary Share;Chinese Yuan;13/06/2023;CNE1000033M6;Y7S55A109;BZ19C15
+Jiangsu Dagang Co Ltd;002077.SZ;Shenzhen Stock Exchange;Integrated Circuits;Ordinary Share;Chinese Yuan;14/07/2015;CNE000001P45;Y4439G118;B1GGXV0
+Huafon Microfibre Shanghai Co Ltd;300180.SZ;Shenzhen Stock Exchange;Synthetic Fibers;Ordinary Share;Chinese Yuan;1/07/2020;CNE100001088;Y3735L102;B6008N0
+Teradyne Inc;TER.O;NASDAQ Global Select Consolidated;Semiconductor Testing Equipment & Service;Ordinary Share;US Dollar;23/11/2023;US8807701029;880770102;
+Capitalonline Data Service Co Ltd;300846.SZ;Shenzhen Stock Exchange;IT Services & Consulting (NEC);Ordinary Share;Chinese Yuan;19/10/2020;CNE1000040X8;Y1R09S119;BMQBHS7
+Vistra Corp;VST;NYSE Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;18/12/2023;US92840M1027;92840M102;
+Generac Holdings Inc;GNRC.K;NYSE Consolidated;Portable Motors & Generators;Ordinary Share;US Dollar;9/06/2013;US3687361044;368736104;
+Corteva Inc;CTVA.K;NYSE Consolidated;Agricultural Chemicals (NEC);Ordinary Share;US Dollar;29/11/2023;US22052L1044;22052L104;
+Nippon Telegraph and Telephone Corp;9432.T;Tokyo Stock Exchange;Integrated Telecommunications Services (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3735400008;J59396101;6641373
+Shenzhen Kaifa Technology Co Ltd;000021.SZ;Shenzhen Stock Exchange;Computer Hardware (NEC);Ordinary Share;Chinese Yuan;25/07/2023;CNE000000FK4;Y7740Z105;6802534
+Fair Isaac Corp;FICO.K;NYSE Consolidated;Enterprise Software;Ordinary Share;US Dollar;28/02/2017;US3032501047;303250104;
+Five Below Inc;FIVE.O;NASDAQ Global Select Consolidated;Department Stores (NEC);Ordinary Share;US Dollar;;US33829M1018;33829M101;
+Pharmaron Beijing Co Ltd;300759.SZ;Shenzhen Stock Exchange;Biotechnology & Medical Research (NEC);Ordinary Share;Chinese Yuan;26/07/2023;CNE100003JW4;Y989K6101;BJ1FCY4
+WuXi Biologics (Cayman) Inc;2269.HK;The Stock Exchange of Hong Kong Ltd;Biopharmaceuticals;Ordinary Share;Hong Kong Dollar;;KYG970081173;G97008117;BL6B9P1
+Ingersoll Rand Inc;IR;NYSE Consolidated;Industrial Machinery & Equipment (NEC);Ordinary Share;US Dollar;16/11/2023;US45687V1061;45687V106;
+Prosus NV;PRX.AS;Euronext Amsterdam;Online Services (NEC);Ordinary Share;Euro;1/11/2023;NL0013654783;N7163R103;BJDS7L3
+POCO Holding Co Ltd;300811.SZ;Shenzhen Stock Exchange;Electronic Equipment & Parts (NEC);Ordinary Share;Chinese Yuan;15/06/2023;CNE100003R31;Y6S9JV102;BKX8WR1
+Hewlett Packard Enterprise Co;HPE;NYSE Consolidated;Computer Hardware (NEC);Ordinary Share;US Dollar;12/09/2023;US42824C1099;42824C109;
+On Holding AG;ONON.K;NYSE Consolidated;Sports & Outdoor Footwear;Ordinary Share;US Dollar;;CH1134540470;H5919C104;
+Fujian Zitian Media Technology Co Ltd;300280.SZ;Shenzhen Stock Exchange;Advertising Agency;Ordinary Share;Chinese Yuan;13/07/2023;CNE100001B23;Y619A9117;B75LHH2
+Shenzhen Sunwin Intelligent Co Ltd;300044.SZ;Shenzhen Stock Exchange;Technology Consulting & Outsourcing Services;Ordinary Share;Chinese Yuan;8/07/2019;CNE100000KM9;Y7744B104;B5L04S9
+Verisign Inc;VRSN.O;NASDAQ Global Select Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;4/05/2011;US92343E1029;92343E102;
+China Wafer Level CSP Co Ltd;603005.SS;Shanghai Stock Exchange;Semiconductor Equipment & Testing (NEC);Ordinary Share;Chinese Yuan;9/07/2023;CNE100001SM0;Y7748D106;BJ0FZD5
+Ovintiv Inc;OVV;NYSE Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;13/12/2023;US69047Q1022;69047Q102;
+CPT Technology Group Co Ltd;000536.SZ;Shenzhen Stock Exchange;Display Screens;Ordinary Share;Chinese Yuan;21/05/2018;CNE0000002D2;Y1772P101;6581736
+National Grid PLC;NG.L;London Stock Exchange;Multiline Utilities;Ordinary Share;British Penny;22/11/2023;GB00BDR05C01;G6S9A7120;BDR05C0
+Banco do Brasil SA;BBAS3.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros;Banks (NEC);Ordinary Share;Brazilian Real;21/11/2023;BRBBASACNOR3;P11427112;2328595
+West Pharmaceutical Services Inc;WST;NYSE Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;6/11/2023;US9553061055;955306105;
+Changsha Jingjia Microelectronics Co Ltd;300474.SZ;Shenzhen Stock Exchange;Semiconductors (NEC);Ordinary Share;Chinese Yuan;25/05/2023;CNE100002664;Y1299Z103;BYNSFF8
+NVR Inc;NVR;NYSE Consolidated;Residential Builders - Single Homes;Ordinary Share;US Dollar;;US62944T1051;62944T105;
+Accelink Technologies Co Ltd;002281.SZ;Shenzhen Stock Exchange;Electronic Components;Ordinary Share;Chinese Yuan;6/07/2023;CNE100000F87;Y00060106;B43J9J3
+Otis Worldwide Corp;OTIS.K;NYSE Consolidated;Elevator & Conveying Equipment;Ordinary Share;US Dollar;15/11/2023;US68902V1070;68902V107;
+Changshu Tianyin Electromechanical Co Ltd;300342.SZ;Shenzhen Stock Exchange;Electrical Components;Ordinary Share;Chinese Yuan;26/05/2022;CNE100001JY4;Y12988104;B8376P0
+Carmax Inc;KMX;NYSE Consolidated;Used Car Dealers;Ordinary Share;US Dollar;;US1431301027;143130102;
+Diageo PLC;DGE.L;London Stock Exchange;Distillers & Wineries (NEC);Ordinary Share;British Penny;23/08/2023;GB0002374006;G42089113;0237400
+VT Industrial Technology Co Ltd;300707.SZ;Shenzhen Stock Exchange;Auto, Truck & Motorcycle Parts (NEC);Ordinary Share;Chinese Yuan;1/06/2023;CNE100003514;Y9386R108;BF2HBJ9
+L'Oreal SA;OREP.PA;Euronext Paris;Cosmetics & Perfumes;Ordinary Share;Euro;25/04/2023;FR0000120321;F58149133;4057808
+Hoya Corp;7741.T;Tokyo Stock Exchange;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;Japanese Yen;27/09/2023;JP3837800006;J22848105;6441506
+Daikin Industries Ltd;6367.T;Tokyo Stock Exchange;Heating, Ventilation & Air Conditioning Systems;Ordinary Share;Japanese Yen;27/03/2024;JP3481800005;J10038115;6250724
+Futu Holdings Ltd;FUTU.O;NASDAQ Global Market Consolidated;Financial Technology (Fintech) (NEC);American Depository Receipt;US Dollar;;US36118L1061;36118L106;
+CoStar Group Inc;CSGP.O;NASDAQ Global Select Consolidated;Online Services (NEC);Ordinary Share;US Dollar;;US22160N1090;22160N109;
+Deutsche Bank AG;DBKGn.DE;Xetra;Banks (NEC);Ordinary Share;Euro;17/05/2023;DE0005140008;D18190898;
+Cummins Inc;CMI;NYSE Consolidated;Engine & Powertrain Systems;Ordinary Share;US Dollar;21/11/2023;US2310211063;231021106;
+Nissan Motor Co Ltd;7201.T;Tokyo Stock Exchange;Auto & Truck Manufacturers (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3672400003;J57160129;6642860
+Screen Holdings Co Ltd;7735.T;Tokyo Stock Exchange;Semiconductor Equipment & Testing (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3494600004;J6988U114;6251028
+Jiangsu Yoke Technology Co Ltd;002409.SZ;Shenzhen Stock Exchange;Commodity Chemicals (NEC);Ordinary Share;Chinese Yuan;30/05/2023;CNE100000PG0;Y444AX109;B3Q8P92
+Jiangsu Yawei Machine Tool Co Ltd;002559.SZ;Shenzhen Stock Exchange;Machine Tools;Ordinary Share;Chinese Yuan;5/06/2023;CNE1000010S1;Y444BV102;B416RM5
+ICON PLC;ICLR.O;NASDAQ Global Select Consolidated;Biotechnology & Medical Research (NEC);Ordinary Share;US Dollar;;IE0005711209;G4705A100;
+Japan Post Bank Co Ltd;7182.T;Tokyo Stock Exchange;Corporate Banks;Ordinary Share;Japanese Yen;27/03/2024;JP3946750001;J2800C101;BYT8165
+Atmos Energy Corp;ATO;NYSE Consolidated;Natural Gas Utilities (NEC);Ordinary Share;US Dollar;23/11/2023;US0495601058;049560105;
+TCL Zhonghuan Renewable Energy Technology Co Ltd;002129.SZ;Shenzhen Stock Exchange;Photovoltaic Solar Systems & Equipment;Ordinary Share;Chinese Yuan;15/06/2023;CNE1000000B8;Y88171106;B1VKWZ4
+Visual China Group Co Ltd;000681.SZ;Shenzhen Stock Exchange;Business Support Services (NEC);Ordinary Share;Chinese Yuan;6/08/2023;CNE000000BW8;Y75408107;6332291
+Avalonbay Communities Inc;AVB;NYSE Consolidated;Residential REITs;Ordinary Share;US Dollar;27/12/2023;US0534841012;053484101;
+Discover Financial Services;DFS;NYSE Consolidated;Retail & Mortgage Banks;Ordinary Share;US Dollar;20/11/2023;US2547091080;254709108;
+Nippon Steel Corp;5401.T;Tokyo Stock Exchange;Iron & Steel (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3381000003;J55678106;6642569
+China Pacific Insurance Group Co Ltd;601601.SS;Shanghai Stock Exchange;Life Insurance;Ordinary Share;Chinese Yuan;28/06/2023;CNE1000008M8;Y1505Z111;B29WFR2
+Yuancheng Environment Co Ltd;603388.SS;Shanghai Stock Exchange;Civil Engineers & Architects;Ordinary Share;Chinese Yuan;8/07/2021;CNE100002Y66;Y989EM103;BD4D3J5
+Bank of Nova Scotia;BNS.TO;The Toronto Stock Exchange;Banks (NEC);Ordinary Share;Canadian Dollar;28/09/2023;CA0641491075;064149107;2076281
+MSCI Inc;MSCI.K;NYSE Consolidated;Professional Information Services (NEC);Ordinary Share;US Dollar;7/11/2023;US55354G1004;55354G100;
+Jiangling Motors Corp Ltd;000550.SZ;Shenzhen Stock Exchange;Automobiles & Multi Utility Vehicles;Ordinary Share;Chinese Yuan;20/07/2023;CNE000000CV8;Y4442C104;6475282
+Magazine Luiza SA;MGLU3.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros;Department Stores (NEC);Ordinary Share;Brazilian Real;5/07/2021;BRMGLUACNOR2;P6425Q109;B4975P9
+Coupang Inc;CPNG.K;NYSE Consolidated;Internet & Mail Order Department Stores;Ordinary Share;US Dollar;;US22266T1097;22266T109;
+Ping An Bank Co Ltd;000001.SZ;Shenzhen Stock Exchange;Banks (NEC);Ordinary Share;Chinese Yuan;13/06/2023;CNE000000040;Y6896T103;6802006
+Crocs Inc;CROX.O;NASDAQ Global Select Consolidated;Footwear (NEC);Ordinary Share;US Dollar;;US2270461096;227046109;
+UniTTEC Co Ltd;000925.SZ;Shenzhen Stock Exchange;Integrated Hardware & Software;Ordinary Share;Chinese Yuan;22/06/2022;CNE000000Z93;Y9891U109;6154901
+Mosaic Co;MOS;NYSE Consolidated;Fertilizers;Ordinary Share;US Dollar;5/12/2023;US61945C1036;61945C103;
+Rio Tinto PLC;RIO.L;London Stock Exchange;Diversified Mining;Ordinary Share;British Penny;9/08/2023;GB0007188757;G75754104;0718875
+Ajinomoto Co Inc;2802.T;Tokyo Stock Exchange;Food Processing (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3119600009;J00882126;6010906
+Mid-America Apartment Communities Inc;MAA;NYSE Consolidated;Residential REITs;Ordinary Share;US Dollar;11/10/2023;US59522J1034;59522J103;
+Tianjin Pengling Group Co Ltd;300375.SZ;Shenzhen Stock Exchange;Tires & Rubber Products (NEC);Ordinary Share;Chinese Yuan;4/07/2023;CNE100001RV3;Y8810F102;BHZG001
+Toast Inc;TOST.K;NYSE Consolidated;Enterprise Software;Ordinary Share;US Dollar;;US8887871080;888787108;
+Reliance Industries Ltd;RELI.NS;National Stock Exchange of India;Oil & Gas Refining and Marketing (NEC);Fully Paid Ordinary Share;Indian Rupee;20/08/2023;INE002A01018;Y72596102;
+J B Hunt Transport Services Inc;JBHT.O;NASDAQ Global Select Consolidated;Freight Trucking;Ordinary Share;US Dollar;8/11/2023;US4456581077;445658107;
+GoDaddy Inc;GDDY.K;NYSE Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;;US3802371076;380237107;
+CMS Energy Corp;CMS;NYSE Consolidated;Multiline Utilities;Ordinary Share;US Dollar;1/11/2023;US1258961002;125896100;
+Dongguan Chitwing Technology Co Ltd;002855.SZ;Shenzhen Stock Exchange;Electronic Equipment & Parts (NEC);Ordinary Share;Chinese Yuan;26/05/2021;CNE100002JR6;Y21045102;BDZWVX1
+Jiangsu Lettall Electronic Co Ltd;603629.SS;Shanghai Stock Exchange;Electrical Components;Ordinary Share;Chinese Yuan;7/06/2023;CNE100003J98;Y4456W103;BGS24D0
+Sunrun Inc;RUN.O;NASDAQ Global Select Consolidated;Photovoltaic Solar Systems & Equipment;Ordinary Share;US Dollar;;US86771W1053;86771W105;
+Telling Telecommunication Holding Co Ltd;000829.SZ;Shenzhen Stock Exchange;Mobile Phone Retailers;Ordinary Share;Chinese Yuan;12/06/2023;CNE000000TM1;Y8346M100;6081816
+Enterprise Products Partners LP;EPD;NYSE Consolidated;Oil & Gas Transportation Services (NEC);Unit;US Dollar;29/10/2023;US2937921078;293792107;
+Midea Group Co Ltd;000333.SZ;Shenzhen Stock Exchange;Appliances, Tools & Housewares (NEC);Ordinary Share;Chinese Yuan;31/05/2023;CNE100001QQ5;Y6S40V103;BDVHRJ8
+Citizens Financial Group Inc;CFG;NYSE Consolidated;Banks (NEC);Ordinary Share;US Dollar;30/10/2023;US1746101054;174610105;
+Sun Life Financial Inc;SLF.TO;The Toronto Stock Exchange;Life & Health Insurance (NEC);Ordinary Share;Canadian Dollar;27/11/2023;CA8667961053;866796105;2566124
+Yunnan Energy New Material Co Ltd;002812.SZ;Shenzhen Stock Exchange;Plastics;Ordinary Share;Chinese Yuan;20/09/2023;CNE100002BR3;Y9881M109;BZ6S217
+Xylem Inc;XYL;NYSE Consolidated;Industrial Machinery & Equipment (NEC);Ordinary Share;US Dollar;19/11/2023;US98419M1009;98419M100;
+Xiamen Hongxin Electronics Technology Group Inc;300657.SZ;Shenzhen Stock Exchange;Integrated Circuits;Ordinary Share;Chinese Yuan;12/07/2021;CNE100002NW8;Y971AM105;BF2YLZ6
+Epam Systems Inc;EPAM.K;NYSE Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;;US29414B1044;29414B104;
+Lotus Health Group Co;600186.SS;Shanghai Stock Exchange;Food Ingredients;Ordinary Share;Chinese Yuan;10/07/2002;CNE000000WY0;Y3121N100;6119988
+Genuine Parts Co;GPC;NYSE Consolidated;Auto & Truck Parts Wholesale;Ordinary Share;US Dollar;29/11/2023;US3724601055;372460105;
+FirstEnergy Corp;FE;NYSE Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;5/11/2023;US3379321074;337932107;
+Howmet Aerospace Inc;HWM;NYSE Consolidated;Aircraft Parts Manufacturing;Ordinary Share;US Dollar;8/11/2023;US4432011082;443201108;
+Wolfspeed Inc;WOLF.K;NYSE Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;;US9778521024;977852102;
+XP Inc;XP.O;NASDAQ Global Select Consolidated;Brokerage Services;Ordinary Share;US Dollar;10/09/2023;KYG982391099;G98239109;
+Epoxy Base Electronic Material Corp Ltd;603002.SS;Shanghai Stock Exchange;Adhesive & Epoxy;Ordinary Share;Chinese Yuan;14/06/2023;CNE100001FS4;Y229BA103;B87B186
+Banco Bilbao Vizcaya Argentaria SA;BBVA.MC;BME SPANISH EXCHANGE;Banks (NEC);Ordinary Share;Euro;8/10/2023;ES0113211835;E11805103;5501906
+Seagate Technology Holdings PLC;STX.O;NASDAQ Global Select Consolidated;Computer Hardware (NEC);Ordinary Share;US Dollar;19/12/2023;IE00BKVD2N49;G7997R103;
+Beijing Compass Technology Development Co Ltd;300803.SZ;Shenzhen Stock Exchange;Financial Technology (Fintech) (NEC);Ordinary Share;Chinese Yuan;20/07/2021;CNE000001QQ6;Y0R71G102;BKDQFL0
+Sunwave Communications Co Ltd;002115.SZ;Shenzhen Stock Exchange;Advertising & Marketing (NEC);Ordinary Share;Chinese Yuan;29/06/2020;CNE000001R19;Y9892Q107;B1P7187
+Sinolink Securities Co Ltd;600109.SS;Shanghai Stock Exchange;Brokerage Services;Ordinary Share;Chinese Yuan;11/06/2023;CNE000000SV4;Y8004P106;6093048
+Shenzhen Etmade Automatic Equipment Co Ltd;300812.SZ;Shenzhen Stock Exchange;Electronic Equipment & Parts (NEC);Ordinary Share;Chinese Yuan;20/06/2022;CNE100003S71;Y7T428109;BJBXRT8
+CBRE Group Inc;CBRE.K;NYSE Consolidated;Real Estate Services (NEC);Ordinary Share;US Dollar;;US12504L1098;12504L109;
+Agricultural Bank of China Ltd;601288.SS;Shanghai Stock Exchange;Corporate Banks;Ordinary Share;Chinese Yuan;17/07/2023;CNE100000RJ0;Y00289101;B620Y41
+China Mobile Ltd;600941.SS;Shanghai Stock Exchange;Integrated Telecommunications Services (NEC);Ordinary Share;Chinese Yuan;31/08/2023;CNE1000055G1;;BNC31J3
+Nordstrom Inc;JWN;NYSE Consolidated;General Department Stores;Ordinary Share;US Dollar;26/11/2023;US6556641008;655664100;
+Jiangsu Hengrui Pharmaceuticals Co Ltd;600276.SS;Shanghai Stock Exchange;Pharmaceuticals (NEC);Ordinary Share;Chinese Yuan;7/06/2023;CNE0000014W7;Y4446S105;6288457
+Zhejiang Daily Digital Culture Group Co Ltd;600633.SS;Shanghai Stock Exchange;Internet Gaming;Ordinary Share;Chinese Yuan;7/06/2023;CNE0000007X9;Y9896U104;6817969
+Campbell Soup Co;CPB;NYSE Consolidated;Food Processing (NEC);Ordinary Share;US Dollar;3/10/2023;US1344291091;134429109;
+China CSSC Holdings Ltd;600150.SS;Shanghai Stock Exchange;Shipbuilding (NEC);Ordinary Share;Chinese Yuan;11/07/2023;CNE000000W05;Y1414Q103;6112910
+Glencore PLC;GLEN.L;London Stock Exchange;Diversified Mining;Ordinary Share;British Penny;30/08/2023;JE00B4T3BW64;G39420107;B4T3BW6
+Lattice Semiconductor Corp;LSCC.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;;US5184151042;518415104;
+Hartford Financial Services Group Inc;HIG;NYSE Consolidated;Multiline Insurance & Brokers (NEC);Ordinary Share;US Dollar;29/11/2023;US4165151048;416515104;
+Deutsche Telekom AG;DTEGn.DE;Xetra;Integrated Telecommunications Services (NEC);Ordinary Share;Euro;5/04/2023;DE0005557508;D2035M136;
+Equity Residential;EQR;NYSE Consolidated;Residential REITs;Ordinary Share;US Dollar;24/09/2023;US29476L1070;29476L107;
+Suzhou Secote Precision Electronic Co Ltd;603283.SS;Shanghai Stock Exchange;Electronic Equipment & Parts (NEC);Ordinary Share;Chinese Yuan;27/04/2023;CNE100002T55;Y831EV107;BFDB6W8
+AMC Entertainment Holdings Inc;AMC;NYSE Consolidated;Movie Theaters & Movie Products;Ordinary Share;US Dollar;22/08/2023;US00165C3025;00165C302;
+Nippon Yusen KK;9101.T;Tokyo Stock Exchange;Marine Freight & Logistics (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3753000003;J56515232;6643960
+Reckitt Benckiser Group PLC;RKT.L;London Stock Exchange;Household Products (NEC);Ordinary Share;British Penny;2/08/2023;GB00B24CGK77;G74079107;B24CGK7
+StoneCo Ltd;STNE.O;NASDAQ Global Select Consolidated;Financial Technology (Fintech) (NEC);Ordinary Share;US Dollar;;KYG851581069;G85158106;
+Hitachi Ltd;6501.T;Tokyo Stock Exchange;Consumer Goods Conglomerates;Ordinary Share;Japanese Yen;27/09/2023;JP3788600009;J20454112;6429104
+Prio SA;PRIO3.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros;Oil & Gas Exploration and Production (NEC);Ordinary Share;Brazilian Real;;BRPRIOACNOR1;P7S19Q109;BYY0144
+Airbus SE;AIR.PA;Euronext Paris;Commercial Aircraft Manufacturing;Ordinary Share;Euro;24/04/2023;NL0000235190;N0280G100;4012250
+Fortive Corp;FTV;NYSE Consolidated;Industrial Machinery & Equipment (NEC);Ordinary Share;US Dollar;21/11/2023;US34959J1088;34959J108;
+Prudential Financial Inc;PRU;NYSE Consolidated;Life & Health Insurance (NEC);Ordinary Share;US Dollar;19/11/2023;US7443201022;744320102;
+BOE Technology Group Co Ltd;000725.SZ;Shenzhen Stock Exchange;Electronic Equipment & Parts (NEC);Ordinary Share;Chinese Yuan;6/06/2023;CNE0000016L5;Y0920M101;6314697
+Tyson Foods Inc;TSN;NYSE Consolidated;Meat Processing;Ordinary Share;US Dollar;28/02/2024;US9024941034;902494103;
+JA Solar Technology Co Ltd;002459.SZ;Shenzhen Stock Exchange;Photovoltaic Solar Systems & Equipment;Ordinary Share;Chinese Yuan;24/04/2023;CNE100000SD1;Y7163W100;B65BYW9
+Darden Restaurants Inc;DRI;NYSE Consolidated;Restaurants & Bars (NEC);Ordinary Share;US Dollar;5/10/2023;US2371941053;237194105;
+Isu Petasys Co Ltd;007660.KS;Korea Exchange - KSE;Integrated Circuits;Ordinary Share;South Korean Won;27/12/2022;KR7007660004;Y42113103;6284648
+Huntington Bancshares Inc;HBAN.O;NASDAQ Global Select Consolidated;Banks (NEC);Ordinary Share;US Dollar;14/12/2023;US4461501045;446150104;
+Gen Digital Inc;GEN.O;NASDAQ Global Select Consolidated;Security Software;Ordinary Share;US Dollar;16/11/2023;US6687711084;668771108;
+Zhejiang Jinke Tom Culture Industry Co Ltd;300459.SZ;Shenzhen Stock Exchange;Mobile Application Software;Ordinary Share;Chinese Yuan;30/06/2019;CNE100001ZP8;Y9898K104;BX3J7B4
+Tyler Technologies Inc;TYL;NYSE Consolidated;Software (NEC);Ordinary Share;US Dollar;20/05/1990;US9022521051;902252105;
+Catalent Inc;CTLT.K;NYSE Consolidated;Pharmaceuticals (NEC);Ordinary Share;US Dollar;;US1488061029;148806102;
+Chesapeake Energy Corp;CHK.O;NASDAQ Global Select Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;14/11/2023;US1651677353;165167735;
+Camden Property Trust;CPT;NYSE Consolidated;Residential REITs;Ordinary Share;US Dollar;27/09/2023;US1331311027;133131102;
+CSPC Innovation Pharmaceutical Co Ltd;300765.SZ;Shenzhen Stock Exchange;Special Foods & Wellbeing Products;Ordinary Share;Chinese Yuan;26/04/2023;CNE100003K04;Y1825N103;BJQZLF3
+Wanhua Chemical Group Co Ltd;600309.SS;Shanghai Stock Exchange;Commodity Chemicals (NEC);Ordinary Share;Chinese Yuan;25/05/2023;CNE0000016J9;Y9520G109;6314932
+IReader Technology Co Ltd;603533.SS;Shanghai Stock Exchange;Content & Site Management Services;Ordinary Share;Chinese Yuan;5/06/2023;CNE100002VN0;Y4164L100;BDDXY82
+Hang Zhou Iron & Steel Co Ltd;600126.SS;Shanghai Stock Exchange;Iron, Steel Mills & Foundries;Ordinary Share;Chinese Yuan;18/06/2023;CNE000000V97;Y30422102;6104155
+T Rowe Price Group Inc;TROW.O;NASDAQ Global Select Consolidated;Investment Management & Fund Operators (NEC);Ordinary Share;US Dollar;13/12/2023;US74144T1088;74144T108;
+Dalian Zhiyun Automation Co Ltd;300097.SZ;Shenzhen Stock Exchange;Industrial Machinery;Ordinary Share;Chinese Yuan;11/07/2018;CNE100000S09;Y1967K107;B3ZG962
+Regions Financial Corp;RF;NYSE Consolidated;Banks (NEC);Ordinary Share;US Dollar;6/12/2023;US7591EP1005;7591EP100;
+Brown-Forman Corp;BFb;NYSE Consolidated;Distillers & Wineries (NEC);Ordinary Share;US Dollar;29/11/2023;US1156372096;115637209;
+Inpex Corp;1605.T;Tokyo Stock Exchange;Oil & Gas Exploration and Production (NEC);Ordinary Share;Japanese Yen;27/12/2023;JP3294460005;J2467E101;B10RB15
+Ronglian Group Ltd;002642.SZ;Shenzhen Stock Exchange;IT Services & Consulting (NEC);Ordinary Share;Chinese Yuan;3/07/2017;CNE1000019S2;Y9049L100;B796DY2
+Longzhou Group Co Ltd;002682.SZ;Shenzhen Stock Exchange;Freight Logistics;Ordinary Share;Chinese Yuan;23/06/2020;CNE100001F29;Y2383L109;B7V0319
+Anshan Senyuan Road & Bridge Co Ltd;300210.SZ;Shenzhen Stock Exchange;Heavy Machinery & Vehicles (NEC);Ordinary Share;Chinese Yuan;9/07/2018;CNE1000012F4;Y01605107;B3LKH97
+ANSYS Inc;ANSS.O;NASDAQ Global Select Consolidated;Application Software;Ordinary Share;US Dollar;;US03662Q1058;03662Q105;
+Ball Corp;BALL.K;NYSE Consolidated;Non-Paper Containers & Packaging (NEC);Ordinary Share;US Dollar;29/11/2023;US0584981064;058498106;
+AGNC Investment Corp;AGNC.O;NASDAQ Global Select Consolidated;Mortgage REITs;Ordinary Share;US Dollar;28/11/2023;US00123Q1040;00123Q104;
+Westinghouse Air Brake Technologies Corp;WAB;NYSE Consolidated;Locomotive Engines & Rolling Stock;Ordinary Share;US Dollar;13/11/2023;US9297401088;929740108;
+Bank of Montreal;BMO.TO;The Toronto Stock Exchange;Banks (NEC);Ordinary Share;Canadian Dollar;26/10/2023;CA0636711016;063671101;2076009
+Gree Electric Appliances Inc of Zhuhai;000651.SZ;Shenzhen Stock Exchange;Household Appliances;Ordinary Share;Chinese Yuan;8/08/2023;CNE0000001D4;Y2882R102;6990257
+TongFu Microelectronics Co Ltd;002156.SZ;Shenzhen Stock Exchange;Semiconductor Testing Equipment & Service;Ordinary Share;Chinese Yuan;29/05/2023;CNE1000006C3;Y6199W100;B23K527
+Synchrony Financial;SYF;NYSE Consolidated;Consumer Lending (NEC);Ordinary Share;US Dollar;30/10/2023;US87165B1035;87165B103;
+Evergy Inc;EVRG.O;NASDAQ Global Select Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;20/11/2023;US30034W1062;30034W106;
+Alcoa Corp;AA;NYSE Consolidated;Aluminum (NEC);Ordinary Share;US Dollar;29/10/2023;US0138721065;013872106;
+Markel Group Inc;MKL;NYSE Consolidated;Property & Casualty Insurance (NEC);Ordinary Share;US Dollar;;US5705351048;570535104;
+Huachuang Yunxin Digital Technology Co Ltd;600155.SS;Shanghai Stock Exchange;Miscellaneous Fintech Infrastructure;Ordinary Share;Chinese Yuan;14/06/2018;CNE000000X53;Y3120E101;6121659
+Crown Holdings Inc;CCK;NYSE Consolidated;Non-Paper Containers & Packaging (NEC);Ordinary Share;US Dollar;6/11/2023;US2283681060;228368106;
+TKO Group Holdings Inc;TKO;NYSE Consolidated;Entertainment Production (NEC);Ordinary Share;US Dollar;20/09/2023;US87256C1018;87256C101;
+Zhejiang Yangfan New Materials Co Ltd;300637.SZ;Shenzhen Stock Exchange;Commodity Chemicals (NEC);Ordinary Share;Chinese Yuan;21/06/2021;CNE100002P75;Y989CY109;BYYMK21
+Shiseido Co Ltd;4911.T;Tokyo Stock Exchange;Cosmetics & Perfumes;Ordinary Share;Japanese Yen;27/12/2023;JP3351600006;J74358144;6805265
+STERIS plc;STE;NYSE Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;19/11/2023;IE00BFY8C754;G8473T100;
+Industrial and Commercial Bank of China Ltd;601398.SS;Shanghai Stock Exchange;Banks (NEC);Ordinary Share;Chinese Yuan;16/07/2023;CNE000001P37;Y3990B104;B1G2JY3
+Daiichi Sankyo Co Ltd;4568.T;Tokyo Stock Exchange;Pharmaceuticals (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3475350009;J11257102;B0J7D91
+Inspire Medical Systems Inc;INSP.K;NYSE Consolidated;Medical Devices & Implants;Ordinary Share;US Dollar;;US4577301090;457730109;
+Adyen NV;ADYEN.AS;Euronext Amsterdam;Financial Technology (Fintech) (NEC);Ordinary Share;Euro;;NL0012969182;N3501V104;BZ1HM42
+DaVita Inc;DVA;NYSE Consolidated;Healthcare Facilities & Services (NEC);Ordinary Share;US Dollar;;US23918K1088;23918K108;
+Bringspring Science and Technology Co Ltd;300290.SZ;Shenzhen Stock Exchange;IT Services & Consulting (NEC);Ordinary Share;Chinese Yuan;1/06/2021;CNE100001C30;Y09784102;B79PHT2
+Antero Resources Corp;AR;NYSE Consolidated;Oil & Gas Exploration and Production (NEC);Ordinary Share;US Dollar;;US03674X1063;03674X106;
+Molina Healthcare Inc;MOH;NYSE Consolidated;Managed Healthcare (NEC);Ordinary Share;US Dollar;;US60855R1005;60855R100;
+Banco Bradesco SA;BBDC4.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros;Banks (NEC);Preference Share;Brazilian Real;3/12/2023;BRBBDCACNPR8;P1808G117;B00FM53
+Sinomine Resource Group Co Ltd;002738.SZ;Shenzhen Stock Exchange;Geophysical Surveying & Mapping Services;Ordinary Share;Chinese Yuan;30/05/2023;CNE100001WV3;Y80027108;BTG8066
+Guolian Securities Co Ltd;601456.SS;Shanghai Stock Exchange;Investment Banking & Brokerage Services (NEC);Ordinary Share;Chinese Yuan;27/07/2022;CNE1000041D8;Y2960K110;BL57P74
+Guangzhou Haige Communications Group Incorporated Co;002465.SZ;Shenzhen Stock Exchange;Satellite Communications Network;Ordinary Share;Chinese Yuan;10/05/2023;CNE100000T24;Y29328104;B51R1H8
+XPO Inc;XPO;NYSE Consolidated;Ground Freight & Logistics (NEC);Ordinary Share;US Dollar;;US9837931008;983793100;
+Wingstop Inc;WING.O;NASDAQ Global Select Consolidated;Quick Service Restaurants;Ordinary Share;US Dollar;15/11/2023;US9741551033;974155103;
+Weichai Power Co Ltd;000338.SZ;Shenzhen Stock Exchange;Auto, Truck & Motorcycle Parts (NEC);Ordinary Share;Chinese Yuan;26/10/2023;CNE1000000D4;Y9531A117;B1WPGD4
+DENTSPLY SIRONA Inc;XRAY.O;NASDAQ Global Select Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;27/09/2023;US24906P1093;24906P109;
+Localiza Rent a Car SA;RENT3.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros;Passenger Car Rental;Ordinary Share;Brazilian Real;27/09/2023;BRRENTACNOR4;P6330Z111;B08K3S0
+State Bank of India;SBI.NS;National Stock Exchange of India;Banks (NEC);Fully Paid Ordinary Share;Indian Rupee;30/05/2023;INE062A01020;Y8155P103;
+Nasdaq Inc;NDAQ.O;NASDAQ Global Select Consolidated;Financial & Commodity Market Operators & Service Providers (NEC);Ordinary Share;US Dollar;6/12/2023;US6311031081;631103108;
+Safety Shot Inc;SHOT.O;NASDAQ Capital Market Consolidated;Proprietary & Advanced Pharmaceuticals;Ordinary Share;US Dollar;;US48208F1057;48208F105;
+Celanese Corp;CE;NYSE Consolidated;Commodity Chemicals (NEC);Ordinary Share;US Dollar;26/10/2023;US1508701034;150870103;
+Fifth Third Bancorp;FITB.O;NASDAQ Global Select Consolidated;Corporate Banks;Ordinary Share;US Dollar;27/09/2023;US3167731005;316773100;
+Dover Corp;DOV;NYSE Consolidated;Industrial Machinery & Equipment (NEC);Ordinary Share;US Dollar;28/11/2023;US2600031080;260003108;
+Darling Ingredients Inc;DAR;NYSE Consolidated;Food Processing (NEC);Ordinary Share;US Dollar;;US2372661015;237266101;
+Iberdrola SA;IBE.MC;BME SPANISH EXCHANGE;Electric Utilities (NEC);Ordinary Share;Euro;8/01/2024;ES0144580Y14;E6165F166;B288C92
+Siemens Energy AG;ENR1n.DE;Xetra;Renewable Energy Equipment & Services (NEC);Ordinary Share;Euro;24/02/2022;DE000ENER6Y0;D6T47E106;
+Magna International Inc;MG.TO;The Toronto Stock Exchange;Auto, Truck & Motorcycle Parts (NEC);Ordinary Share;Canadian Dollar;15/11/2023;CA5592224011;559222401;2554475
+Spirit Airlines Inc;SAVE.K;NYSE Consolidated;Airlines (NEC);Ordinary Share;US Dollar;21/11/2023;US8485771021;848577102;
+Edison International;EIX;NYSE Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;27/09/2023;US2810201077;281020107;
+BNP Paribas SA;BNPP.PA;Euronext Paris;Banks (NEC);Ordinary Share;Euro;21/05/2023;FR0000131104;F1058Q238;7309681
+Penumbra Inc;PEN;NYSE Consolidated;Medical Equipment;Ordinary Share;US Dollar;;US70975L1070;70975L107;
+Chongqing Taiji Industry Group Co Ltd;600129.SS;Shanghai Stock Exchange;Pharmaceuticals (NEC);Ordinary Share;Chinese Yuan;26/06/2019;CNE000000TQ2;Y1584J103;6091569
+Offcn Education Technology Co Ltd;002607.SZ;Shenzhen Stock Exchange;Professional & Business Education;Ordinary Share;Chinese Yuan;19/05/2020;CNE100001641;Y9717Y103;B3YR784
+Flutter Entertainment PLC;FLTRF.L;London Stock Exchange;Casinos & Gaming (NEC);Ordinary Share;British Penny;8/04/2020;IE00BWT6H894;G3643J108;BWXC0Z1
+Zhejiang Yueling Co Ltd;002725.SZ;Shenzhen Stock Exchange;Auto, Truck & Motorcycle Parts (NEC);Ordinary Share;Chinese Yuan;25/05/2022;CNE100001S65;Y9897W109;BJ0H5Z3
+Beijing Jetsen Technology Co Ltd;300182.SZ;Shenzhen Stock Exchange;Movie, TV Production & Distribution;Ordinary Share;Chinese Yuan;26/07/2018;CNE1000010B7;Y07734109;B604M18
+Sportsoul Co Ltd;001300.SZ;Shenzhen Stock Exchange;Sporting & Outdoor Goods;Ordinary Share;Chinese Yuan;20/07/2023;CNE100005M18;;BPWBLZ7
+Murata Manufacturing Co Ltd;6981.T;Tokyo Stock Exchange;Electronic Components;Ordinary Share;Japanese Yen;27/03/2024;JP3914400001;J46840104;6610403
+Huizhou Speed Wireless Technology Co Ltd;300322.SZ;Shenzhen Stock Exchange;Communications & Networking (NEC);Ordinary Share;Chinese Yuan;15/05/2022;CNE100001F03;Y3736D109;B89FL53
+Applovin Corp;APP.O;NASDAQ Global Select Consolidated;Application Software;Ordinary Share;US Dollar;;US03831W1080;03831W108;
+NanJing Sanchao Advanced Materials Co Ltd;300554.SZ;Shenzhen Stock Exchange;Industrial Components;Ordinary Share;Chinese Yuan;6/06/2021;CNE100002MK5;Y619B3101;BYV83N4
+Charles River Laboratories International Inc;CRL;NYSE Consolidated;Biotechnology & Medical Research (NEC);Ordinary Share;US Dollar;;US1598641074;159864107;
+Guangdong Golden Dragon Development Inc;000712.SZ;Shenzhen Stock Exchange;Investment Banking & Brokerage Services (NEC);Ordinary Share;Chinese Yuan;25/08/2022;CNE000000PJ5;Y2926P104;6393856
+Alliant Energy Corp;LNT.O;NASDAQ Global Select Consolidated;Electric Utilities (NEC);Ordinary Share;US Dollar;29/10/2023;US0188021085;018802108;
+Nidec Corp;6594.T;Tokyo Stock Exchange;Electrical Components & Equipment (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3734800000;J52968104;6640682
+China Telecom Corp Ltd;601728.SS;Shanghai Stock Exchange;Integrated Telecommunications Services (NEC);Ordinary Share;Chinese Yuan;30/08/2023;CNE100004QG0;Y1505D136;BMY9QQ4
+Pool Corp;POOL.O;NASDAQ Global Select Consolidated;Leisure Products Wholesale;Ordinary Share;US Dollar;6/11/2023;US73278L1052;73278L105;
+Shenzhen Rongda Photosensitive & Technology Co Ltd;300576.SZ;Shenzhen Stock Exchange;Specialty Chemicals (NEC);Ordinary Share;Chinese Yuan;5/06/2023;CNE100002DX7;Y774BH103;BDDQY47
+37 Interactive Entertainment Network Technology Group Co Ltd;002555.SZ;Shenzhen Stock Exchange;Internet Gaming;Ordinary Share;Chinese Yuan;27/09/2023;CNE1000010N2;Y9717X105;B44DPG3
+New Oriental Education & Technology Group Inc;EDU;NYSE Consolidated;Miscellaneous Educational Service Providers;American Depository Receipt;US Dollar;31/08/2017;US6475812060;647581206;
+Weyerhaeuser Co;WY;NYSE Consolidated;Timber REITs;Ordinary Share;US Dollar;29/11/2023;US9621661043;962166104;
+KDDI Corp;9433.T;Tokyo Stock Exchange;Wireless Telecommunications Services (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3496400007;J31843105;6248990
+Chewy Inc;CHWY.K;NYSE Consolidated;Pet & Pet Supplies Retailers;Ordinary Share;US Dollar;;US16679L1098;16679L109;
+Shenzhen Jove Enterprise Ltd;300814.SZ;Shenzhen Stock Exchange;Integrated Circuits;Ordinary Share;Chinese Yuan;12/07/2023;CNE100004PY5;Y774JP107;BMCH767
+Shenzhen Tianyuan Dic Information Technology Co Ltd;300047.SZ;Shenzhen Stock Exchange;Integrated Hardware & Software;Ordinary Share;Chinese Yuan;11/05/2023;CNE100000KJ5;Y7744A106;B5M7KT2
+Xuchang Yuandong Drive Shaft Co Ltd;002406.SZ;Shenzhen Stock Exchange;Engine & Powertrain Systems;Ordinary Share;Chinese Yuan;13/07/2023;CNE100000P77;Y9725B103;B6948T9
+NetApp Inc;NTAP.O;NASDAQ Global Select Consolidated;Storage Devices;Ordinary Share;US Dollar;4/10/2023;US64110D1046;64110D104;
+Avantor Inc;AVTR.K;NYSE Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;;US05352A1007;05352A100;
+China Satellite Communications Co Ltd;601698.SS;Shanghai Stock Exchange;Satellite Service Operators;Ordinary Share;Chinese Yuan;14/06/2023;CNE100003PX9;Y1R121105;BK942H3
+Maxscend Microelectronics Co Ltd;300782.SZ;Shenzhen Stock Exchange;Semiconductors (NEC);Ordinary Share;Chinese Yuan;6/06/2023;CNE100003QK4;Y5840E105;BKB0JW3
+Komatsu Ltd;6301.T;Tokyo Stock Exchange;Heavy Machinery & Vehicles (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3304200003;J35759125;6496584
+Will Semiconductor Co Ltd Shanghai;603501.SS;Shanghai Stock Exchange;Semiconductors (NEC);Ordinary Share;Chinese Yuan;30/07/2023;CNE100002XM8;Y9584K103;BZ07VX5
+First Citizens BancShares Inc (Delaware);FCNCA.O;NASDAQ Global Select Consolidated;Banks (NEC);Ordinary Share;US Dollar;28/11/2023;US31946M1036;31946M103;
+Hithink RoyalFlush Information Network Co Ltd;300033.SZ;Shenzhen Stock Exchange;Financial Technology (Fintech) (NEC);Ordinary Share;Chinese Yuan;29/03/2023;CNE100000JG3;Y3181P102;B4ZW310
+Lucid Group Inc;LCID.O;NASDAQ Global Select Consolidated;Electric (Alternative) Vehicles;Ordinary Share;US Dollar;;US5494981039;549498103;
+Qorvo Inc;QRVO.O;NASDAQ Global Select Consolidated;Semiconductors (NEC);Ordinary Share;US Dollar;;US74736K1016;74736K101;
+Sarepta Therapeutics Inc;SRPT.O;NASDAQ Global Select Consolidated;Bio Therapeutic Drugs;Ordinary Share;US Dollar;;US8036071004;803607100;
+Denso Corp;6902.T;Tokyo Stock Exchange;Auto, Truck & Motorcycle Parts (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3551500006;J12075107;6640381
+State Street Corp;STT;NYSE Consolidated;Investment Management & Fund Operators (NEC);Ordinary Share;US Dollar;28/09/2023;US8574771031;857477103;
+Hermes International SCA;HRMS.PA;Euronext Paris;Handbags & Luggage;Ordinary Share;Euro;24/04/2023;FR0000052292;F48051100;5253973
+Tata Investment Corporation Ltd;TINV.NS;National Stock Exchange of India;Investment Management & Fund Operators (NEC);Fully Paid Ordinary Share;Indian Rupee;11/06/2023;INE672A01018;Y4175D113;
+Invitation Homes Inc;INVH.K;NYSE Consolidated;Residential REITs;Ordinary Share;US Dollar;5/11/2023;US46187W1071;46187W107;
+Oriental Land Co Ltd;4661.T;Tokyo Stock Exchange;Amusement Parks and Zoos;Ordinary Share;Japanese Yen;27/03/2024;JP3198900007;J6174U100;6648891
+Shanxi Xinghuacun Fen Wine Factory Co Ltd;600809.SS;Shanghai Stock Exchange;Distilleries;Ordinary Share;Chinese Yuan;25/06/2023;CNE000000DH5;Y77013103;6808361
+Fanuc Corp;6954.T;Tokyo Stock Exchange;Industrial Machinery & Equipment (NEC);Ordinary Share;Japanese Yen;27/09/2023;JP3802400006;J13440102;6356934
+McCormick & Company Inc;MKC;NYSE Consolidated;Food Processing (NEC);Ordinary Share;US Dollar;5/10/2023;US5797802064;579780206;
+Alexandria Real Estate Equities Inc;ARE;NYSE Consolidated;Commercial REITs (NEC);Ordinary Share;US Dollar;27/09/2023;US0152711091;015271109;
+Muenchener Rueckversicherungs Gesellschaft in Muenchen AG;MUVGn.DE;Xetra;Property & Casualty Reinsurance;Ordinary Share;Euro;7/05/2023;DE0008430026;D55535104;
+Zotye Automobile Co Ltd;000980.SZ;Shenzhen Stock Exchange;Automobiles & Multi Utility Vehicles;Ordinary Share;Chinese Yuan;24/05/2018;CNE000001337;Y37453100;6248398
+M&T Bank Corp;MTB;NYSE Consolidated;Banks (NEC);Ordinary Share;US Dollar;29/11/2023;US55261F1049;55261F104;
+Tapestry Inc;TPR;NYSE Consolidated;Apparel & Accessories Retailers (NEC);Ordinary Share;US Dollar;6/12/2023;US8760301072;876030107;
+Aramark;ARMK.K;NYSE Consolidated;Commercial Food Services;Ordinary Share;US Dollar;26/11/2023;US03852U1060;03852U106;
+F5 Inc;FFIV.O;NASDAQ Global Select Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;;US3156161024;315616102;
+Kokusai Electric Corp;6525.T;Tokyo Stock Exchange;Semiconductor Machinery Manufacturing;Ordinary Share;Japanese Yen;27/03/2024;JP3293330001;J3532A108;BNGHNG2
+Skechers USA Inc;SKX;NYSE Consolidated;Footwear (NEC);Ordinary Share;US Dollar;;US8305661055;830566105;
+Check Point Software Technologies Ltd;CHKP.O;NASDAQ Global Select Consolidated;Security Software;Ordinary Share;US Dollar;;IL0010824113;M22465104;
+Adidas AG;ADSGn.DE;Xetra;Sports & Outdoor Footwear;Ordinary Share;Euro;11/05/2023;DE000A1EWWW0;D0066B185;
+Rolls-Royce Holdings PLC;RR.L;London Stock Exchange;Aerospace & Defense (NEC);Ordinary Share;British Penny;23/10/2019;GB00B63H8491;G76225104;B63H849
+DocuSign Inc;DOCU.O;NASDAQ Global Select Consolidated;Enterprise Software;Ordinary Share;US Dollar;;US2561631068;256163106;
+International Flavors & Fragrances Inc;IFF;NYSE Consolidated;Food Ingredients;Ordinary Share;US Dollar;26/12/2023;US4595061015;459506101;
+Tourmaline Oil Corp;TOU.TO;The Toronto Stock Exchange;Oil & Gas Exploration and Production (NEC);Ordinary Share;Canadian Dollar;22/10/2023;CA89156V1067;89156V106;B3QJ0H8
+Beijing LeiKe Defense Technology Co Ltd;002413.SZ;Shenzhen Stock Exchange;Aerospace & Defense (NEC);Ordinary Share;Chinese Yuan;10/06/2018;CNE100000PL0;Y443A2109;B3WKWF7
+Hubei Century Network Technology Inc;300494.SZ;Shenzhen Stock Exchange;Online Services (NEC);Ordinary Share;Chinese Yuan;29/06/2023;CNE1000024X2;Y374CT105;BYXF9C4
+Lennox International Inc;LII;NYSE Consolidated;Heating, Ventilation & Air Conditioning Systems;Ordinary Share;US Dollar;29/08/2023;US5261071071;526107107;
+Ourpalm Co Ltd;300315.SZ;Shenzhen Stock Exchange;Internet Gaming;Ordinary Share;Chinese Yuan;11/07/2018;CNE100001DH2;Y6298P105;B84Y5D1
+Caesars Entertainment Inc;CZR.O;NASDAQ Global Select Consolidated;Casinos & Gaming (NEC);Ordinary Share;US Dollar;;US12769G1004;12769G100;
+Whirlpool Corp;WHR;NYSE Consolidated;Household Appliances;Ordinary Share;US Dollar;15/11/2023;US9633201069;963320106;
+Idemitsu Kosan Co Ltd;5019.T;Tokyo Stock Exchange;Petroleum Refining;Ordinary Share;Japanese Yen;27/03/2024;JP3142500002;J2388K103;B1FF8P7
+Flex Ltd;FLEX.O;NASDAQ Global Select Consolidated;Electronic Equipment & Parts (NEC);Ordinary Share;US Dollar;;SG9999000020;Y2573F102;
+Terumo Corp;4543.T;Tokyo Stock Exchange;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3546800008;J83173104;6885074
+Incyte Corp;INCY.O;NASDAQ Global Select Consolidated;Biopharmaceuticals;Ordinary Share;US Dollar;;US45337C1027;45337C102;
+Exact Sciences Corp;EXAS.O;NASDAQ Capital Market Consolidated;Bio Diagnostics & Testing;Ordinary Share;US Dollar;;US30063P1057;30063P105;
+Okta Inc;OKTA.O;NASDAQ Global Select Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;;US6792951054;679295105;
+UiPath Inc;PATH.K;NYSE Consolidated;Software (NEC);Ordinary Share;US Dollar;;US90364P1057;90364P105;
+Watsco Inc;WSO;NYSE Consolidated;Heating, Ventilation & Air Conditioning Systems;Ordinary Share;US Dollar;15/10/2023;US9426222009;942622200;
+Guangdong Haomei New Materials Co Ltd;002988.SZ;Shenzhen Stock Exchange;Aluminum (NEC);Ordinary Share;Chinese Yuan;8/05/2022;CNE100003SW5;Y29270108;BLB1LV6
+Corning Inc;GLW;NYSE Consolidated;Display Screens;Ordinary Share;US Dollar;15/11/2023;US2193501051;219350105;
+Ferrotec An Hui Technology Development Co Ltd;301297.SZ;Shenzhen Stock Exchange;Business Support Services (NEC);Ordinary Share;Chinese Yuan;20/07/2023;CNE100005WY8;Y2927X106;BQ749D2
+JiLin Sino Microelectronics Co Ltd;600360.SS;Shanghai Stock Exchange;Semiconductors (NEC);Ordinary Share;Chinese Yuan;29/06/2023;CNE0000017L3;Y44453101;6329141
+Wingtech Technology Co Ltd;600745.SS;Shanghai Stock Exchange;Phones & Smart Phones;Ordinary Share;Chinese Yuan;24/08/2022;CNE000000M72;Y3745E106;6450847
+Franklin Resources Inc;BEN;NYSE Consolidated;Investment Management;Ordinary Share;US Dollar;27/09/2023;US3546131018;354613101;
+Madrigal Pharmaceuticals Inc;MDGL.O;NASDAQ Global Select Consolidated;Bio Therapeutic Drugs;Ordinary Share;US Dollar;;US5588681057;558868105;
+Poly Developments and Holdings Group Co Ltd;600048.SS;Shanghai Stock Exchange;Real Estate Rental, Development & Operations (NEC);Ordinary Share;Chinese Yuan;8/06/2023;CNE000001ND1;Y7000Q100;B19RB38
+CenterPoint Energy Inc;CNP;NYSE Consolidated;Multiline Utilities;Ordinary Share;US Dollar;14/11/2023;US15189T1079;15189T107;
+Steel Dynamics Inc;STLD.O;NASDAQ Global Select Consolidated;Iron & Steel (NEC);Ordinary Share;US Dollar;27/12/2023;US8581191009;858119100;
+L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes George;AIRP.PA;Euronext Paris;Commodity Chemicals (NEC);Ordinary Share;Euro;14/05/2023;FR0000120073;F01764103;B1YXBJ7
+Axis Bank Ltd;AXBK.NS;National Stock Exchange of India;Banks (NEC);Fully Paid Ordinary Share;Indian Rupee;6/07/2023;INE238A01034;Y0487S137;
+ANTA Sports Products Ltd;2020.HK;The Stock Exchange of Hong Kong Ltd;Sportswear & Outdoors Clothing;Ordinary Share;Hong Kong Dollar;3/09/2023;KYG040111059;G04011105;B1YVKN8
+Omnicom Group Inc;OMC;NYSE Consolidated;Advertising & Marketing (NEC);Ordinary Share;US Dollar;19/09/2023;US6819191064;681919106;
+Spectrum Brands Holdings Inc;SPB;NYSE Consolidated;Appliances, Tools & Housewares (NEC);Ordinary Share;US Dollar;28/11/2023;US84790A1051;84790A105;
+Sunac China Holdings Ltd;1918.HK;The Stock Exchange of Hong Kong Ltd;Real Estate Rental, Development & Operations (NEC);Ordinary Share;Hong Kong Dollar;10/08/2021;KYG8569A1067;G8569A106;B4XRPN3
+Astellas Pharma Inc;4503.T;Tokyo Stock Exchange;Pharmaceuticals (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3942400007;J03393105;6985383
+Bunge Global SA;BG;NYSE Consolidated;Food Processing (NEC);Ordinary Share;US Dollar;14/02/2024;CH1300646267;H11356104;
+Foot Locker Inc;FL;NYSE Consolidated;Apparel & Accessories Retailers (NEC);Ordinary Share;US Dollar;11/10/2023;US3448491049;344849104;
+Mitsui O.S.K. Lines Ltd;9104.T;Tokyo Stock Exchange;Marine Freight & Logistics (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3362700001;J45013133;6597584
+Aotecar New Energy Technology Co Ltd;002239.SZ;Shenzhen Stock Exchange;Air & Gas Compressors;Ordinary Share;Chinese Yuan;28/06/2020;CNE100000BL0;Y4441T108;B2R9WQ3
+Industria de Diseno Textil SA;ITX.MC;BME SPANISH EXCHANGE;Apparel & Accessories Retailers (NEC);Ordinary Share;Euro;30/10/2023;ES0148396007;E6282J125;BP9DL90
+Post Holdings Inc;POST.K;NYSE Consolidated;Breakfast Cereal Manufacturing;Ordinary Share;US Dollar;;US7374461041;737446104;
+Fulin Precision Co Ltd;300432.SZ;Shenzhen Stock Exchange;Commodity Chemicals (NEC);Ordinary Share;Chinese Yuan;29/05/2023;CNE100001YV9;Y5969H103;BW9LF57
+Dropbox Inc;DBX.O;NASDAQ Global Select Consolidated;Application Software;Ordinary Share;US Dollar;;US26210C1045;26210C104;
+Beijing Baination Pictures Co Ltd;300291.SZ;Shenzhen Stock Exchange;Movie, TV Production & Distribution;Ordinary Share;Chinese Yuan;8/08/2018;CNE100001BX3;Y0774H109;B7KGX30
+Linewell Software Co Ltd;603636.SS;Shanghai Stock Exchange;Integrated Hardware & Software;Ordinary Share;Chinese Yuan;30/05/2023;CNE100001VK8;Y527AT100;BTG8099
+BASF SE;BASFn.DE;Xetra;Diversified Chemicals;Ordinary Share;Euro;27/04/2023;DE000BASF111;D06216317;
+Samsung SDI Co Ltd;006400.KS;Korea Exchange - KSE;Batteries & Uninterruptable Power Supplies;Ordinary Share;South Korean Won;27/12/2022;KR7006400006;Y74866107;6771645
+Mercari Inc;4385.T;Tokyo Stock Exchange;E-commerce & Auction Services;Ordinary Share;Japanese Yen;28/06/2023;JP3921290007;J42305102;BG0GM14
+Sichuan Jiuyuan Yinhai Software Co Ltd;002777.SZ;Shenzhen Stock Exchange;Software (NEC);Ordinary Share;Chinese Yuan;16/05/2023;CNE1000024L7;Y7939L107;BYW6TL7
+Huatai Securities Co Ltd;601688.SS;Shanghai Stock Exchange;Investment Banking & Brokerage Services (NEC);Ordinary Share;Chinese Yuan;10/08/2023;CNE100000LQ8;Y37426106;B61VK25
+TC Energy Corp;TRP.TO;The Toronto Stock Exchange;Oil & Gas Transportation Services (NEC);Ordinary Share;Canadian Dollar;27/12/2023;CA87807B1076;87807B107;BJMY6G0
+International Paper Co;IP;NYSE Consolidated;Paper Packaging (NEC);Ordinary Share;US Dollar;13/11/2023;US4601461035;460146103;
+Cooper Companies Inc;COO.O;NASDAQ Global Select Consolidated;Glasses, Spectacles & Contact Lenses;Ordinary Share;US Dollar;25/07/2023;US2166484020;216648402;
+Shanghai Golden Bridge Info Tech Co Ltd;603918.SS;Shanghai Stock Exchange;Technology Consulting & Outsourcing Services;Ordinary Share;Chinese Yuan;29/06/2023;CNE100002300;Y768AF100;BXN62C1
+Inner Mongolia Yili Industrial Group Co Ltd;600887.SS;Shanghai Stock Exchange;Dairy Products;Ordinary Share;Chinese Yuan;12/06/2023;CNE000000JP5;Y408DG116;6458841
+Manhattan Associates Inc;MANH.O;NASDAQ Global Select Consolidated;IT Services & Consulting (NEC);Ordinary Share;US Dollar;;US5627501092;562750109;
+Shenzhen InfoGem Technologies Co Ltd;300085.SZ;Shenzhen Stock Exchange;Wireless Telecommunications Services (NEC);Ordinary Share;Chinese Yuan;8/07/2021;CNE100000QL8;Y7744Q101;B3YJLT9
+Beijing BDStar Navigation Co Ltd;002151.SZ;Shenzhen Stock Exchange;Auto, Truck & Motorcycle Parts (NEC);Ordinary Share;Chinese Yuan;19/06/2022;CNE100000643;Y0771F106;B23GZS1
+Hundsun Technologies Inc;600570.SS;Shanghai Stock Exchange;Software (NEC);Ordinary Share;Chinese Yuan;18/06/2023;CNE000001GD5;Y3041V109;6610458
+Wondershare Technology Group Co Ltd;300624.SZ;Shenzhen Stock Exchange;Application Software;Ordinary Share;Chinese Yuan;20/05/2021;CNE1000033W5;Y9675W107;BF28TC1
+Bio Rad Laboratories Inc;BIO;NYSE Consolidated;Medical Equipment, Supplies & Distribution (NEC);Ordinary Share;US Dollar;;US0905722072;090572207;
+Hainan Drinda New Energy Technology Co Ltd;002865.SZ;Shenzhen Stock Exchange;Photovoltaic Solar Systems & Equipment;Ordinary Share;Chinese Yuan;16/04/2023;CNE100002QL4;Y2985P102;BDG1074
+TechnipFMC PLC;FTI;NYSE Consolidated;Oil Related Services and Equipment (NEC);Ordinary Share;US Dollar;19/11/2023;GB00BDSFG982;G87110105;
+Industrial Bank Co Ltd;601166.SS;Shanghai Stock Exchange;Corporate Banks;Ordinary Share;Chinese Yuan;18/06/2023;CNE000001QZ7;Y3990D100;B1P13B6
+DoubleVerify Holdings Inc;DV;NYSE Consolidated;Software (NEC);Ordinary Share;US Dollar;;US25862V1052;25862V105;
+Confluent Inc;CFLT.O;NASDAQ Global Select Consolidated;Application Software;Ordinary Share;US Dollar;;US20717M1036;20717M103;
+TCL Technology Group Corp;000100.SZ;Shenzhen Stock Exchange;Display Screens;Ordinary Share;Chinese Yuan;1/06/2022;CNE000001GL8;Y8549C107;6731133
+CH Robinson Worldwide Inc;CHRW.O;NASDAQ Global Select Consolidated;Ground Freight & Logistics (NEC);Ordinary Share;US Dollar;29/11/2023;US12541W2098;12541W209;
+Cleveland-Cliffs Inc;CLF;NYSE Consolidated;Iron & Steel (NEC);Ordinary Share;US Dollar;1/04/2020;US1858991011;185899101;
+Tencent Music Entertainment Group;TME;NYSE Consolidated;Social Media & Networking;American Depository Receipt;US Dollar;;US88034P1093;88034P109;
+Olink Holding AB (publ);OLK.O;NASDAQ Global Market Consolidated;Scientific & Precision Equipment;American Depository Receipt;US Dollar;;US6807101000;680710100;
+Jushri Technologies Inc;300762.SZ;Shenzhen Stock Exchange;Aerospace & Defense (NEC);Ordinary Share;Chinese Yuan;1/06/2023;CNE100003JY0;Y4S7BQ100;BJ31DX6
+Jiangsu Huaxicun Co Ltd;000936.SZ;Shenzhen Stock Exchange;Synthetic Fabrics;Ordinary Share;Chinese Yuan;4/07/2023;CNE000001063;Y4446B102;6166069
+UDR Inc;UDR;NYSE Consolidated;Residential REITs;Ordinary Share;US Dollar;5/10/2023;US9026531049;902653104;
+Shenzhen Original Advanced Compounds Co Ltd;603991.SS;Shanghai Stock Exchange;Specialty Chemicals (NEC);Ordinary Share;Chinese Yuan;19/06/2019;CNE100002YK0;Y7T86Y109;BF1GFF1
+North Industries Group Red Arrow Co Ltd;000519.SZ;Shenzhen Stock Exchange;Aerospace & Defense (NEC);Ordinary Share;Chinese Yuan;20/06/2023;CNE000000198;Y13068104;6193261
+Renaissancere Holdings Ltd;RNR;NYSE Consolidated;Property & Casualty Reinsurance;Ordinary Share;US Dollar;13/12/2023;BMG7496G1033;G7496G103;
+Owens Corning;OC;NYSE Consolidated;Construction Supplies;Ordinary Share;US Dollar;12/10/2023;US6907421019;690742101;
+EVE Energy Co Ltd;300014.SZ;Shenzhen Stock Exchange;Batteries & Uninterruptable Power Supplies;Ordinary Share;Chinese Yuan;18/06/2023;CNE100000GS4;Y2303F109;B4TSW28
+Zhejiang Sanhua Intelligent Controls Co Ltd;002050.SZ;Shenzhen Stock Exchange;Industrial Valve Manufacturing;Ordinary Share;Chinese Yuan;17/10/2023;CNE000001M22;Y9890L126;B0838P1
+Zhejiang XCC Group Co Ltd;603667.SS;Shanghai Stock Exchange;Ball & Roller Bearings;Ordinary Share;Chinese Yuan;20/06/2023;CNE1000030D1;Y989ER102;BDCFSK9
+PBF Energy Inc;PBF;NYSE Consolidated;Oil & Gas Refining and Marketing (NEC);Ordinary Share;US Dollar;13/11/2023;US69318G1067;69318G106;
+China State Construction Engineering Corp Ltd;601668.SS;Shanghai Stock Exchange;Construction & Engineering (NEC);Ordinary Share;Chinese Yuan;29/06/2023;CNE100000F46;Y1R16Z106;B3Y6LV2
+Shenzhen TXD Technology Co Ltd;002845.SZ;Shenzhen Stock Exchange;Display Screens;Ordinary Share;Chinese Yuan;4/07/2022;CNE100002K13;Y774CD101;BDDXTR6
+Healthpeak Properties Inc;PEAK.K;NYSE Consolidated;Healthcare REITs;Ordinary Share;US Dollar;5/11/2023;US42250P1030;42250P103;
+Garmin Ltd;GRMN.K;NYSE Consolidated;Communications & Networking (NEC);Ordinary Share;US Dollar;13/03/2024;CH0114405324;H2906T109;
+Nitori Holdings Co Ltd;9843.T;Tokyo Stock Exchange;Home Furnishings Retailers (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3756100008;J58214131;6644800
+Foshan Blue Rocket Electronics Co Ltd;301348.SZ;Shenzhen Stock Exchange;Semiconductors (NEC);Ordinary Share;Chinese Yuan;;CNE1000066C7;Y261KU102;BNG1SW5
+Yes Bank Ltd;YESB.NS;National Stock Exchange of India;Banks (NEC);Fully Paid Ordinary Share;Indian Rupee;2/06/2019;INE528G01035;Y97636149;
+PTC Inc;PTC.O;NASDAQ Global Select Consolidated;Application Software;Ordinary Share;US Dollar;;US69370C1009;69370C100;
+Guangzhou Haozhi Industrial Co Ltd;300503.SZ;Shenzhen Stock Exchange;Machine Tools;Ordinary Share;Chinese Yuan;10/07/2022;CNE100002680;Y29348102;BYXXXK4
+Chongqing Zhifei Biological Products Co Ltd;300122.SZ;Shenzhen Stock Exchange;Biopharmaceuticals;Ordinary Share;Chinese Yuan;15/06/2023;CNE100000V20;Y1601T100;B3PNJB8
+Muyuan Foods Co Ltd;002714.SZ;Shenzhen Stock Exchange;Hog & Pig Farming;Ordinary Share;Chinese Yuan;12/07/2023;CNE100001RQ3;Y6149B107;BJ0JR20
+Patterson-UTI Energy Inc;PTEN.O;NASDAQ Global Select Consolidated;Oil & Gas Drilling (NEC);Ordinary Share;US Dollar;29/11/2023;US7034811015;703481101;
+Stanley Black & Decker Inc;SWK;NYSE Consolidated;Industrial Machinery & Equipment (NEC);Ordinary Share;US Dollar;29/11/2023;US8545021011;854502101;
+Zhejiang Dahua Technology Co Ltd;002236.SZ;Shenzhen Stock Exchange;Security & Surveillance;Ordinary Share;Chinese Yuan;15/11/2023;CNE100000BJ4;Y988AP102;B2R8334
+Tata Consultancy Services Ltd;TCS.NS;National Stock Exchange of India;IT Services & Consulting (NEC);Fully Paid Ordinary Share;Indian Rupee;18/10/2023;INE467B01029;Y85279100;
+Interpublic Group of Companies Inc;IPG;NYSE Consolidated;Advertising & Marketing (NEC);Ordinary Share;US Dollar;29/11/2023;US4606901001;460690100;
+Takeda Pharmaceutical Co Ltd;4502.T;Tokyo Stock Exchange;Pharmaceuticals (NEC);Ordinary Share;Japanese Yen;27/03/2024;JP3463000004;J8129E108;6870445
+Infosys Ltd;INFY.NS;National Stock Exchange of India;IT Services & Consulting (NEC);Fully Paid Ordinary Share;Indian Rupee;24/10/2023;INE009A01021;Y4082C133;
+First Horizon Corp;FHN;NYSE Consolidated;Banks (NEC);Ordinary Share;US Dollar;13/12/2023;US3205171057;320517105;
+Bayerische Motoren Werke AG;BMWG.DE;Xetra;Auto & Truck Manufacturers (NEC);Ordinary Share;Euro;11/05/2023;DE0005190003;D12096109;
+Beijing ZZNodeTechnologies Co Ltd;003007.SZ;Shenzhen Stock Exchange;Software (NEC);Ordinary Share;Chinese Yuan;11/06/2023;CNE1000046T3;Y077CY103;BLFDQF7
+Sany Heavy Industry Co Ltd;600031.SS;Shanghai Stock Exchange;Construction Machinery;Ordinary Share;Chinese Yuan;30/05/2023;CNE000001F70;Y75268105;6648824
+Gansu Jingang Solar Co Ltd;300093.SZ;Shenzhen Stock Exchange;Photovoltaic Solar Systems & Equipment;Ordinary Share;Chinese Yuan;12/07/2018;CNE100000R91;Y2924S100;B693ZL7
+Semiconductor Manufacturing International Corp;0981.HK;The Stock Exchange of Hong Kong Ltd;Semiconductors (NEC);Ordinary Share;Hong Kong Dollar;;KYG8020E1199;G8020E119;BDFBM13
+Uni President Low Carbon Technology Xinjiang Co Ltd;600506.SS;Shanghai Stock Exchange;Oil & Gas Refining and Marketing (NEC);Ordinary Share;Chinese Yuan;5/06/2002;CNE0000019L9;Y97233103;6427807
+Shockwave Medical Inc;SWAV.O;NASDAQ Global Select Consolidated;Medical Equipment;Ordinary Share;US Dollar;;US82489T1043;82489T104;
+Boston Properties Inc;BXP;NYSE Consolidated;Office REITs;Ordinary Share;US Dollar;27/09/2023;US1011211018;101121101;
+IONQ Inc;IONQ.K;NYSE Consolidated;Cloud Computing Services;Ordinary Share;US Dollar;;US46222L1089;46222L108;
+B3 SA Brasil Bolsa Balcao;B3SA3.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros;Financial & Commodity Market Operators & Service Providers (NEC);Ordinary Share;Brazilian Real;21/09/2023;BRB3SAACNOR6;P1909G107;BG36ZK1
+Canadian Imperial Bank of Commerce;CM.TO;The Toronto Stock Exchange;Banks (NEC);Ordinary Share;Canadian Dollar;26/09/2023;CA1360691010;136069101;2170525
+Innovative Medical Management Co Ltd;002173.SZ;Shenzhen Stock Exchange;Hospitals, Clinics & Primary Care Services;Ordinary Share;Chinese Yuan;24/06/2018;CNE1000007J6;Y9892Y100;B24DSC6
+Full Truck Alliance Co Ltd;YMM;NYSE Consolidated;Software (NEC);American Depository Receipt;US Dollar;;US35969L1089;35969L108;
+Japan Post Holdings Co Ltd;6178.T;Tokyo Stock Exchange;Life Insurance;Ordinary Share;Japanese Yen;27/03/2024;JP3752900005;J2800D109;BYT8143
+Masco Corp;MAS;NYSE Consolidated;Construction Supplies & Fixtures (NEC);Ordinary Share;US Dollar;8/11/2023;US5745991068;574599106;
+Kimco Realty Corp;KIM;NYSE Consolidated;Retail REITs;Ordinary Share;US Dollar;5/12/2023;US49446R1095;49446R109;
+Shenzhen Mindray Bio-Medical Electronics Co Ltd;300760.SZ;Shenzhen Stock Exchange;Advanced Medical Equipment & Technology (NEC);Ordinary Share;Chinese Yuan;21/11/2023;CNE100003G67;Y774E3101;BGHD9P1
+Iron Mountain Inc;IRM;NYSE Consolidated;Specialized REITs (NEC);Ordinary Share;US Dollar;13/12/2023;US46284V1017;46284V101;
