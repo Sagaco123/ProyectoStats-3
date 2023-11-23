@@ -1,1001 +1,1001 @@
-Issuer;RIC;Exchange
-Tesla Inc;TSLA.O;NASDAQ Global Select Consolidated
-NVIDIA Corp;NVDA.O;NASDAQ Global Select Consolidated
-Microsoft Corp;MSFT.O;NASDAQ Global Select Consolidated
-Apple Inc;AAPL.O;NASDAQ Global Select Consolidated
-Amazon.com Inc;AMZN.O;NASDAQ Global Select Consolidated
-Advanced Micro Devices Inc;AMD.O;NASDAQ Global Select Consolidated
-Meta Platforms Inc;META.O;NASDAQ Global Select Consolidated
-Berkshire Hathaway Inc;BRKa;NYSE Consolidated
-Alphabet Inc;GOOGL.O;NASDAQ Global Select Consolidated
-Alibaba Group Holding Ltd;BABA.K;NYSE Consolidated
-Lasertec Corp;6920.T;Tokyo Stock Exchange
-Broadcom Inc;AVGO.O;NASDAQ Global Select Consolidated
-Walmart Inc;WMT;NYSE Consolidated
-Intel Corp;INTC.O;NASDAQ Global Select Consolidated
-Palo Alto Networks Inc;PANW.O;NASDAQ Global Select Consolidated
-Visa Inc;V;NYSE Consolidated
-Exxon Mobil Corp;XOM;NYSE Consolidated
-Cisco Systems Inc;CSCO.O;NASDAQ Global Select Consolidated
-Eli Lilly and Co;LLY;NYSE Consolidated
-Netflix Inc;NFLX.O;NASDAQ Global Select Consolidated
-Target Corp;TGT;NYSE Consolidated
-Palantir Technologies Inc;PLTR.K;NYSE Consolidated
-Chevron Corp;CVX;NYSE Consolidated
-Applied Materials Inc;AMAT.O;NASDAQ Global Select Consolidated
-Adobe Inc;ADBE.O;NASDAQ Global Select Consolidated
-Uber Technologies Inc;UBER.K;NYSE Consolidated
-Boeing Co;BA;NYSE Consolidated
-UnitedHealth Group Inc;UNH;NYSE Consolidated
-Walt Disney Co;DIS;NYSE Consolidated
-Bank of America Corp;BAC;NYSE Consolidated
-Qualcomm Inc;QCOM.O;NASDAQ Global Select Consolidated
-Tencent Holdings Ltd;0700.HK;The Stock Exchange of Hong Kong Ltd
-JPMorgan Chase & Co;JPM;NYSE Consolidated
-Procter & Gamble Co;PG;NYSE Consolidated
-Costco Wholesale Corp;COST.O;NASDAQ Global Select Consolidated
-Mastercard Inc;MA;NYSE Consolidated
-Johnson & Johnson;JNJ;NYSE Consolidated
-Home Depot Inc;HD;NYSE Consolidated
-Coinbase Global Inc;COIN.O;NASDAQ Global Select Consolidated
-Pfizer Inc;PFE;NYSE Consolidated
-Salesforce Inc;CRM;NYSE Consolidated
-Thermo Fisher Scientific Inc;TMO;NYSE Consolidated
-Texas Instruments Inc;TXN.O;NASDAQ Global Select Consolidated
-PDD Holdings Inc;PDD.O;NASDAQ Global Select Consolidated
-Micron Technology Inc;MU.O;NASDAQ Global Select Consolidated
-PepsiCo Inc;PEP.O;NASDAQ Global Select Consolidated
-McDonald's Corp;MCD;NYSE Consolidated
-Starbucks Corp;SBUX.O;NASDAQ Global Select Consolidated
-Vertex Pharmaceuticals Inc;VRTX.O;NASDAQ Global Select Consolidated
-TJX Companies Inc;TJX;NYSE Consolidated
-Super Micro Computer Inc;SMCI.O;NASDAQ Global Select Consolidated
-Coca-Cola Co;KO;NYSE Consolidated
-Bristol-Myers Squibb Co;BMY;NYSE Consolidated
-Mitsubishi UFJ Financial Group Inc;8306.T;Tokyo Stock Exchange
-Verizon Communications Inc;VZ;NYSE Consolidated
-Merck & Co Inc;MRK;NYSE Consolidated
-Danaher Corp;DHR;NYSE Consolidated
-Citigroup Inc;C;NYSE Consolidated
-Nike Inc;NKE;NYSE Consolidated
-Samsung Electronics Co Ltd;005930.KS;Korea Exchange - KSE
-Seres Group Co Ltd;601127.SS;Shanghai Stock Exchange
-Booking Holdings Inc;BKNG.O;NASDAQ Global Select Consolidated
-Oracle Corp;ORCL.K;NYSE Consolidated
-PayPal Holdings Inc;PYPL.O;NASDAQ Global Select Consolidated
-Goldman Sachs Group Inc;GS;NYSE Consolidated
-Caterpillar Inc;CAT;NYSE Consolidated
-Shopify Inc;SHOP.K;NYSE Consolidated
-Abbvie Inc;ABBV.K;NYSE Consolidated
-COL Group Co Ltd;300364.SZ;Shenzhen Stock Exchange
-Deere & Co;DE;NYSE Consolidated
-Intuit Inc;INTU.O;NASDAQ Global Select Consolidated
-ServiceNow Inc;NOW;NYSE Consolidated
-Medtronic PLC;MDT;NYSE Consolidated
-iSoftStone Information Technology Group Co Ltd;301236.SZ;Shenzhen Stock Exchange
-Analog Devices Inc;ADI.O;NASDAQ Global Select Consolidated
-Abbott Laboratories;ABT;NYSE Consolidated
-Lowe's Companies Inc;LOW;NYSE Consolidated
-Amgen Inc;AMGN.O;NASDAQ Global Select Consolidated
-RTX Corp;RTX;NYSE Consolidated
-Intuitive Surgical Inc;ISRG.O;NASDAQ Global Select Consolidated
-Lam Research Corp;LRCX.O;NASDAQ Global Select Consolidated
-Block Inc;SQ;NYSE Consolidated
-Comcast Corp;CMCSA.O;NASDAQ Global Select Consolidated
-Wells Fargo & Co;WFC;NYSE Consolidated
-Inspur Electronic Information Industry Co Ltd;000977.SZ;Shenzhen Stock Exchange
-Ross Stores Inc;ROST.O;NASDAQ Global Select Consolidated
-Nextera Energy Inc;NEE;NYSE Consolidated
-Airbnb Inc;ABNB.O;NASDAQ Global Select Consolidated
-MercadoLibre Inc;MELI.O;NASDAQ Global Select Consolidated
-Accenture PLC;ACN;NYSE Consolidated
-Morgan Stanley;MS;NYSE Consolidated
-United Parcel Service Inc;UPS;NYSE Consolidated
-International Business Machines Corp;IBM;NYSE Consolidated
-Toyota Motor Corp;7203.T;Tokyo Stock Exchange
-Vale SA;VALE3.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
-Conocophillips;COP;NYSE Consolidated
-Tokyo Electron Ltd;8035.T;Tokyo Stock Exchange
-Burlington Stores Inc;BURL.K;NYSE Consolidated
-Rivian Automotive Inc;RIVN.O;NASDAQ Global Select Consolidated
-Roku Inc;ROKU.O;NASDAQ Global Select Consolidated
-KLA Corp;KLAC.O;NASDAQ Global Select Consolidated
-Linde PLC;LIN.O;NASDAQ Global Select Consolidated
-T-Mobile US Inc;TMUS.O;NASDAQ Global Select Consolidated
-Humana Inc;HUM;NYSE Consolidated
-CrowdStrike Holdings Inc;CRWD.O;NASDAQ Global Select Consolidated
-Marvell Technology Inc;MRVL.O;NASDAQ Global Select Consolidated
-DraftKings Inc;DKNG.O;NASDAQ Global Select Consolidated
-S&P Global Inc;SPGI.K;NYSE Consolidated
-Gap Inc;GPS;NYSE Consolidated
-American Tower Corp;AMT;NYSE Consolidated
-Snowflake Inc.;SNOW.K;NYSE Consolidated
-General Motors Co;GM;NYSE Consolidated
-Enphase Energy Inc;ENPH.O;NASDAQ Global Market Consolidated
-American Express Co;AXP;NYSE Consolidated
-Founder Securities Co Ltd;601901.SS;Shanghai Stock Exchange
-Eoptolink Technology Inc Ltd;300502.SZ;Shenzhen Stock Exchange
-Microstrategy Inc;MSTR.O;NASDAQ Global Select Consolidated
-Schlumberger NV;SLB;NYSE Consolidated
-Lululemon Athletica Inc;LULU.O;NASDAQ Global Select Consolidated
-Gilead Sciences Inc;GILD.O;NASDAQ Global Select Consolidated
-Kweichow Moutai Co Ltd;600519.SS;Shanghai Stock Exchange
-Roblox Corp;RBLX.K;NYSE Consolidated
-Fiserv Inc;FI;NYSE Consolidated
-Illumina Inc;ILMN.O;NASDAQ Global Select Consolidated
-Union Pacific Corp;UNP;NYSE Consolidated
-Chongqing Changan Automobile Co Ltd;000625.SZ;Shenzhen Stock Exchange
-Wayfair Inc;W;NYSE Consolidated
-Unilever PLC;UL;NYSE Consolidated
-Suncor Energy Inc;SU;NYSE Consolidated
-Colgate-Palmolive Co;CL;NYSE Consolidated
-Telus Corp;TU;NYSE Consolidated
-Petroleo Brasileiro SA Petrobras;PBR;NYSE Consolidated
-NovaGold Resources Inc;NG;NYSE American Consolidated
-Royal Bank of Canada;RY;NYSE Consolidated
-Canadian Pacific Kansas City Ltd;CP;NYSE Consolidated
-Petroleo Brasileiro SA Petrobras;PETR4.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
-Dexcom Inc;DXCM.O;NASDAQ Global Select Consolidated
-BlackRock Inc;BLK;NYSE Consolidated
-Cigna Group;CI;NYSE Consolidated
-Pioneer Natural Resources Co;PXD;NYSE Consolidated
-General Electric Co;GE;NYSE Consolidated
-Occidental Petroleum Corp;OXY;NYSE Consolidated
-DoorDash Inc;DASH.O;NASDAQ Global Select Consolidated
-Marathon Digital Holdings Inc;MARA.O;NASDAQ Capital Market Consolidated
-Elevance Health Inc;ELV;NYSE Consolidated
-Expedia Group Inc;EXPE.O;NASDAQ Global Select Consolidated
-HCA Healthcare Inc;HCA;NYSE Consolidated
-Honeywell International Inc;HON.O;NASDAQ Global Select Consolidated
-Mckesson Corp;MCK;NYSE Consolidated
-Becton Dickinson and Co;BDX;NYSE Consolidated
-Zoom Video Communications Inc;ZM.O;NASDAQ Global Select Consolidated
-Jiangsu Hoperun Software Co Ltd;300339.SZ;Shenzhen Stock Exchange
-Charles Schwab Corp;SCHW.K;NYSE Consolidated
-Eaton Corporation PLC;ETN;NYSE Consolidated
-Lockheed Martin Corp;LMT;NYSE Consolidated
-Ford Motor Co;F;NYSE Consolidated
-O'Reilly Automotive Inc;ORLY.O;NASDAQ Global Select Consolidated
-CVS Health Corp;CVS;NYSE Consolidated
-NXP Semiconductors NV;NXPI.O;NASDAQ Global Select Consolidated
-Newmont Corporation;NEM;NYSE Consolidated
-Baidu Inc;BIDU.O;NASDAQ Global Select Consolidated
-Renesas Electronics Corp;6723.T;Tokyo Stock Exchange
-CSX Corp;CSX.O;NASDAQ Global Select Consolidated
-Synopsys Inc;SNPS.O;NASDAQ Global Select Consolidated
-Mondelez International Inc;MDLZ.O;NASDAQ Global Select Consolidated
-Macy's Inc;M;NYSE Consolidated
-AT&T Inc;T;NYSE Consolidated
-Carnival Corp;CCL;NYSE Consolidated
-Meituan;3690.HK;The Stock Exchange of Hong Kong Ltd
-Chipotle Mexican Grill Inc;CMG;NYSE Consolidated
-Nu Holdings Ltd;NU;NYSE Consolidated
-Marathon Petroleum Corp;MPC;NYSE Consolidated
-Zhongji Innolight Co Ltd;300308.SZ;Shenzhen Stock Exchange
-Contemporary Amperex Technology Co Ltd;300750.SZ;Shenzhen Stock Exchange
-Freeport-McMoRan Inc;FCX;NYSE Consolidated
-EOG Resources Inc;EOG;NYSE Consolidated
-Advantest Corp;6857.T;Tokyo Stock Exchange
-Bayer AG;BAYGn.DE;Xetra
-Sumitomo Mitsui Financial Group Inc;8316.T;Tokyo Stock Exchange
-Microchip Technology Inc;MCHP.O;NASDAQ Global Select Consolidated
-Mettler-Toledo International Inc;MTD;NYSE Consolidated
-Sherwin-Williams Co;SHW;NYSE Consolidated
-Sea Ltd;SE;NYSE Consolidated
-Progressive Corp;PGR;NYSE Consolidated
-OFILM Group Co Ltd;002456.SZ;Shenzhen Stock Exchange
-ASML Holding NV;ASML.AS;Euronext Amsterdam
-China Bester Group Telecom Co Ltd;603220.SS;Shanghai Stock Exchange
-Canadian Natural Resources Ltd;CNQ.TO;The Toronto Stock Exchange
-Air Products and Chemicals Inc;APD;NYSE Consolidated
-Datadog Inc;DDOG.O;NASDAQ Global Select Consolidated
-Agilent Technologies Inc;A;NYSE Consolidated
-Prologis Inc;PLD;NYSE Consolidated
-3M Co;MMM;NYSE Consolidated
-Xiaomi Corp;1810.HK;The Stock Exchange of Hong Kong Ltd
-Cadence Design Systems Inc;CDNS.O;NASDAQ Global Select Consolidated
-Philip Morris International Inc;PM;NYSE Consolidated
-SoftBank Group Corp;9984.T;Tokyo Stock Exchange
-Chubb Ltd;CB;NYSE Consolidated
-Devon Energy Corp;DVN;NYSE Consolidated
-Phillips 66;PSX;NYSE Consolidated
-Charter Communications Inc;CHTR.O;NASDAQ Global Select Consolidated
-NIO Inc;NIO;NYSE Consolidated
-Boston Scientific Corp;BSX;NYSE Consolidated
-Best Buy Co Inc;BBY;NYSE Consolidated
-Marsh & McLennan Companies Inc;MMC;NYSE Consolidated
-Hess Corp;HES;NYSE Consolidated
-Automatic Data Processing Inc;ADP.O;NASDAQ Global Select Consolidated
-Stryker Corp;SYK;NYSE Consolidated
-Autozone Inc;AZO;NYSE Consolidated
-Albemarle Corp;ALB;NYSE Consolidated
-United Rentals Inc;URI;NYSE Consolidated
-ON Semiconductor Corp;ON.O;NASDAQ Global Select Consolidated
-Moody's Corp;MCO;NYSE Consolidated
-Monster Beverage Corp;MNST.O;NASDAQ Global Select Consolidated
-DICK'S Sporting Goods Inc;DKS;NYSE Consolidated
-WenYi Trinity Technology Co Ltd;600520.SS;Shanghai Stock Exchange
-MongoDB Inc;MDB.O;NASDAQ Global Market Consolidated
-Shanghai Zhangjiang Hi-Tech Park Development Co Ltd;600895.SS;Shanghai Stock Exchange
-LONGi Green Energy Technology Co Ltd;601012.SS;Shanghai Stock Exchange
-Valero Energy Corp;VLO;NYSE Consolidated
-General Mills Inc;GIS;NYSE Consolidated
-American Airlines Group Inc;AAL.O;NASDAQ Global Select Consolidated
-Suncor Energy Inc;SU.TO;The Toronto Stock Exchange
-FedEx Corp;FDX;NYSE Consolidated
-Insulet Corp;PODD.O;NASDAQ Global Select Consolidated
-Aon PLC;AON;NYSE Consolidated
-C3.ai Inc;AI;NYSE Consolidated
-Chengdu Hi-tech Development Co Ltd;000628.SZ;Shenzhen Stock Exchange
-Dollar General Corp;DG;NYSE Consolidated
-Anhui Jianghuai Automobile Group Corp Ltd;600418.SS;Shanghai Stock Exchange
-First Solar Inc;FSLR.O;NASDAQ Global Select Consolidated
-Guangdong Advertising Group Co Ltd;002400.SZ;Shenzhen Stock Exchange
-Sichuan Changhong Electric Co Ltd;600839.SS;Shanghai Stock Exchange
-Realty Income Corp;O;NYSE Consolidated
-Royal Bank of Canada;RY.TO;The Toronto Stock Exchange
-Trade Desk Inc;TTD.O;NASDAQ Global Market Consolidated
-US Bancorp;USB;NYSE Consolidated
-Arista Networks Inc;ANET.K;NYSE Consolidated
-Affirm Holdings Inc;AFRM.O;NASDAQ Global Select Consolidated
-Siemens AG;SIEGn.DE;Xetra
-Altria Group Inc;MO;NYSE Consolidated
-CRISPR Therapeutics AG;CRSP.O;NASDAQ Global Market Consolidated
-Regeneron Pharmaceuticals Inc;REGN.O;NASDAQ Global Select Consolidated
-Fortinet Inc;FTNT.O;NASDAQ Global Select Consolidated
-SoFi Technologies Inc;SOFI.O;NASDAQ Global Select Consolidated
-Exelon Corp;EXC.O;NASDAQ Global Select Consolidated
-eBay Inc;EBAY.O;NASDAQ Global Select Consolidated
-CME Group Inc;CME.O;NASDAQ Global Select Consolidated
-China International Capital Corp Ltd;601995.SS;Shanghai Stock Exchange
-Ulta Beauty Inc;ULTA.O;NASDAQ Global Select Consolidated
-Kunlun Tech Co Ltd;300418.SZ;Shenzhen Stock Exchange
-Estee Lauder Companies Inc;EL;NYSE Consolidated
-Celsius Holdings Inc;CELH.O;NASDAQ Capital Market Consolidated
-Talkweb Information System Co Ltd;002261.SZ;Shenzhen Stock Exchange
-Kenvue Inc;KVUE.K;NYSE Consolidated
-PG&E Corp;PCG;NYSE Consolidated
-EmbedWay Technologies Shanghai Corp;603496.SS;Shanghai Stock Exchange
-Williams-Sonoma Inc;WSM;NYSE Consolidated
-Fast Retailing Co Ltd;9983.T;Tokyo Stock Exchange
-Arm Holdings PLC;ARM.O;NASDAQ Global Select Consolidated
-Pinterest Inc;PINS.K;NYSE Consolidated
-ZTE Corp;000063.SZ;Shenzhen Stock Exchange
-Autodesk Inc;ADSK.O;NASDAQ Global Select Consolidated
-Delta Air Lines Inc;DAL;NYSE Consolidated
-Zscaler Inc;ZS.O;NASDAQ Global Select Consolidated
-Dell Technologies Inc;DELL.K;NYSE Consolidated
-Bank of New York Mellon Corp;BK;NYSE Consolidated
-East Money Information Co Ltd;300059.SZ;Shenzhen Stock Exchange
-Diamondback Energy Inc;FANG.O;NASDAQ Global Select Consolidated
-Xilong Scientific Co Ltd;002584.SZ;Shenzhen Stock Exchange
-Duke Energy Corp;DUK;NYSE Consolidated
-Zoetis Inc;ZTS;NYSE Consolidated
-Splunk Inc;SPLK.O;NASDAQ Global Select Consolidated
-Disco Corp;6146.T;Tokyo Stock Exchange
-GNI Group Ltd;2160.T;Tokyo Stock Exchange
-Fidelity National Information Services Inc;FIS;NYSE Consolidated
-Enbridge Inc;ENB.TO;The Toronto Stock Exchange
-Blackstone Inc;BX;NYSE Consolidated
-Crown Castle Inc;CCI;NYSE Consolidated
-American Electric Power Company Inc;AEP.O;NASDAQ Global Select Consolidated
-Cencora Inc;COR;NYSE Consolidated
-Shannon Semiconductor Technology Co Ltd;300475.SZ;Shenzhen Stock Exchange
-Edwards Lifesciences Corp;EW;NYSE Consolidated
-Royal Caribbean Cruises Ltd;RCL;NYSE Consolidated
-LVMH Moet Hennessy Louis Vuitton SE;LVMH.PA;Euronext Paris
-DR Horton Inc;DHI;NYSE Consolidated
-Trane Technologies PLC;TT;NYSE Consolidated
-iFLYTEK Co Ltd;002230.SZ;Shenzhen Stock Exchange
-Castech Inc;002222.SZ;Shenzhen Stock Exchange
-BAIC BluePark New Energy Technology Co Ltd;600733.SS;Shanghai Stock Exchange
-Electronic Arts Inc;EA.O;NASDAQ Global Select Consolidated
-Norfolk Southern Corp;NSC;NYSE Consolidated
-Dollar Tree Inc;DLTR.O;NASDAQ Global Select Consolidated
-Unity Software Inc;U;NYSE Consolidated
-TotalEnergies SE;TTEF.PA;Euronext Paris
-CRH PLC;CRH;NYSE Consolidated
-TransDigm Group Inc;TDG;NYSE Consolidated
-Ping An Insurance Group Co of China Ltd;601318.SS;Shanghai Stock Exchange
-Workday Inc;WDAY.O;NASDAQ Global Select Consolidated
-Sony Group Corp;6758.T;Tokyo Stock Exchange
-Constellation Brands Inc;STZ;NYSE Consolidated
-Waste Management Inc;WM;NYSE Consolidated
-Kroger Co;KR;NYSE Consolidated
-Sempra;SRE;NYSE Consolidated
-Rockwell Automation Inc;ROK;NYSE Consolidated
-ETSY Inc;ETSY.O;NASDAQ Global Select Consolidated
-Carvana Co;CVNA.K;NYSE Consolidated
-Copart Inc;CPRT.O;NASDAQ Global Select Consolidated
-Marriott International Inc;MAR.O;NASDAQ Global Select Consolidated
-Zimmer Biomet Holdings Inc;ZBH;NYSE Consolidated
-Shenzhen Mason Technologies Co Ltd;002654.SZ;Shenzhen Stock Exchange
-Equinix Inc;EQIX.O;NASDAQ Global Select Consolidated
-Xcel Energy Inc;XEL.O;NASDAQ Global Select Consolidated
-Southern Co;SO;NYSE Consolidated
-HubSpot Inc;HUBS.K;NYSE Consolidated
-Baker Hughes Co;BKR.O;NASDAQ Global Select Consolidated
-Keyence Corp;6861.T;Tokyo Stock Exchange
-Williams Companies Inc;WMB;NYSE Consolidated
-SAP SE;SAPG.DE;Xetra
-Align Technology Inc;ALGN.O;NASDAQ Global Select Consolidated
-Cloudflare Inc;NET;NYSE Consolidated
-Shell PLC;SHEL.L;London Stock Exchange
-HP Inc;HPQ;NYSE Consolidated
-Dominion Energy Inc;D;NYSE Consolidated
-Capital One Financial Corp;COF;NYSE Consolidated
-Truist Financial Corp;TFC;NYSE Consolidated
-SK Hynix Inc;000660.KS;Korea Exchange - KSE
-Guangdong Tloong Technology Group Co Ltd;300063.SZ;Shenzhen Stock Exchange
-Emerson Electric Co;EMR;NYSE Consolidated
-Cardinal Health Inc;CAH;NYSE Consolidated
-Monolithic Power Systems Inc;MPWR.O;NASDAQ Global Select Consolidated
-Hershey Co;HSY;NYSE Consolidated
-Parker-Hannifin Corp;PH;NYSE Consolidated
-Moderna Inc;MRNA.O;NASDAQ Global Select Consolidated
-Riot Platforms Inc;RIOT.O;NASDAQ Capital Market Consolidated
-HDFC Bank Ltd;HDBK.NS;National Stock Exchange of India
-Wuhan P&S Information Technology Co Ltd;300184.SZ;Shenzhen Stock Exchange
-Luxshare Precision Industry Co Ltd;002475.SZ;Shenzhen Stock Exchange
-Seagen Inc;SGEN.O;NASDAQ Global Select Consolidated
-Jiangsu Chuanzhiboke Education Technology Co Ltd;003032.SZ;Shenzhen Stock Exchange
-Vertiv Holdings Co;VRT;NYSE Consolidated
-Keysight Technologies Inc;KEYS.K;NYSE Consolidated
-Northrop Grumman Corp;NOC;NYSE Consolidated
-DBG Technology Co Ltd;300735.SZ;Shenzhen Stock Exchange
-AerCap Holdings NV;AER;NYSE Consolidated
-PNC Financial Services Group Inc;PNC;NYSE Consolidated
-CIG ShangHai Co Ltd;603083.SS;Shanghai Stock Exchange
-IQVIA Holdings Inc;IQV;NYSE Consolidated
-Shanghai Stonehill Technology Co Ltd;002195.SZ;Shenzhen Stock Exchange
-Haima Automobile Co Ltd;000572.SZ;Shenzhen Stock Exchange
-United Airlines Holdings Inc;UAL.O;NASDAQ Global Select Consolidated
-Johnson Controls International PLC;JCI;NYSE Consolidated
-Genimous Technology Co Ltd;000676.SZ;Shenzhen Stock Exchange
-Halliburton Co;HAL;NYSE Consolidated
-Digital China Group Co Ltd;000034.SZ;Shenzhen Stock Exchange
-Shenzhen Topway Video Communication Co Ltd;002238.SZ;Shenzhen Stock Exchange
-Sysco Corp;SYY;NYSE Consolidated
-Kraft Heinz Co;KHC.O;NASDAQ Global Select Consolidated
-Illinois Tool Works Inc;ITW;NYSE Consolidated
-Jiangyin Hengrun Heavy Industries Co Ltd;603985.SS;Shanghai Stock Exchange
-Advance Auto Parts Inc;AAP;NYSE Consolidated
-MetLife Inc;MET;NYSE Consolidated
-Atlassian Corp;TEAM.O;NASDAQ Global Select Consolidated
-Kimberly-Clark Corp;KMB;NYSE Consolidated
-Infineon Technologies AG;IFXGn.DE;Xetra
-BYD Co Ltd;002594.SZ;Shenzhen Stock Exchange
-Biogen Inc;BIIB.O;NASDAQ Global Select Consolidated
-Recruit Holdings Co Ltd;6098.T;Tokyo Stock Exchange
-Wuliangye Yibin Co Ltd;000858.SZ;Shenzhen Stock Exchange
-Kawasaki Kisen Kaisha Ltd;9107.T;Tokyo Stock Exchange
-Nanjing Panda Electronics Co Ltd;600775.SS;Shanghai Stock Exchange
-Hwa Create Corp;300045.SZ;Shenzhen Stock Exchange
-Intercontinental Exchange Inc;ICE;NYSE Consolidated
-Kinder Morgan Inc;KMI;NYSE Consolidated
-General Dynamics Corp;GD;NYSE Consolidated
-Welltower Inc;WELL.K;NYSE Consolidated
-IDEXX Laboratories Inc;IDXX.O;NASDAQ Global Select Consolidated
-Spotify Technology SA;SPOT.K;NYSE Consolidated
-Solaredge Technologies Inc;SEDG.O;NASDAQ Global Select Consolidated
-Shin-Etsu Chemical Co Ltd;4063.T;Tokyo Stock Exchange
-Archer-Daniels-Midland Co;ADM;NYSE Consolidated
-Tractor Supply Co;TSCO.O;NASDAQ Global Select Consolidated
-Marathon Oil Corp;MRO;NYSE Consolidated
-Public Storage;PSA;NYSE Consolidated
-Abercrombie & Fitch Co;ANF;NYSE Consolidated
-Sungrow Power Supply Co Ltd;300274.SZ;Shenzhen Stock Exchange
-Sharetronic Data Technology Co Ltd;300857.SZ;Shenzhen Stock Exchange
-Kohls Corp;KSS;NYSE Consolidated
-Walgreens Boots Alliance Inc;WBA.O;NASDAQ Global Select Consolidated
-Arthur J. Gallagher & Co.;AJG;NYSE Consolidated
-Snap Inc;SNAP.K;NYSE Consolidated
-Carrier Global Corp;CARR.K;NYSE Consolidated
-Mitsubishi Corp;8058.T;Tokyo Stock Exchange
-Shanghai Runda Medical Technology Co Ltd;603108.SS;Shanghai Stock Exchange
-Manulife Financial Corp;MFC.TO;The Toronto Stock Exchange
-Biomarin Pharmaceutical Inc;BMRN.O;NASDAQ Global Select Consolidated
-JD.Com Inc;9618.HK;The Stock Exchange of Hong Kong Ltd
-Verisk Analytics Inc;VRSK.O;NASDAQ Global Select Consolidated
-Amphenol Corp;APH;NYSE Consolidated
-Entergy Corp;ETR;NYSE Consolidated
-Beijing Transtrue Technology Inc;002771.SZ;Shenzhen Stock Exchange
-Xpeng Inc;XPEV.K;NYSE Consolidated
-Cheniere Energy Inc;LNG;NYSE American Consolidated
-Motorola Solutions Inc;MSI;NYSE Consolidated
-Doosan Robotics Inc;454910.KS;Korea Exchange - KSE
-Cognizant Technology Solutions Corp;CTSH.O;NASDAQ Global Select Consolidated
-BILL Holdings Inc;BILL.K;NYSE Consolidated
-Foshan Yowant Technology Co Ltd;002291.SZ;Shenzhen Stock Exchange
-Huagong Tech Co Ltd;000988.SZ;Shenzhen Stock Exchange
-Hilton Worldwide Holdings Inc;HLT;NYSE Consolidated
-Cintas Corp;CTAS.O;NASDAQ Global Select Consolidated
-Aptiv PLC;APTV.K;NYSE Consolidated
-China Galaxy Securities Co Ltd;601881.SS;Shanghai Stock Exchange
-Cover Corp;5253.T;Tokyo Stock Exchange
-Builders FirstSource Inc;BLDR.K;NYSE Consolidated
-Mizuho Financial Group Inc;8411.T;Tokyo Stock Exchange
-Shijiazhuang ChangShan BeiMing Technology Co Ltd;000158.SZ;Shenzhen Stock Exchange
-China Greatwall Technology Group Co Ltd;000066.SZ;Shenzhen Stock Exchange
-Republic Services Inc;RSG;NYSE Consolidated
-Clorox Co;CLX;NYSE Consolidated
-Bajaj Finance Ltd;BJFN.NS;National Stock Exchange of India
-NetEase Inc;NTES.O;NASDAQ Global Select Consolidated
-Dow Inc;DOW;NYSE Consolidated
-Ningbo Shenglong Automotive Powertrain System Co Ltd;603178.SS;Shanghai Stock Exchange
-Teck Resources Ltd;TECK.K;NYSE Consolidated
-Keurig Dr Pepper Inc;KDP.O;NASDAQ Global Select Consolidated
-Lennar Corp;LEN;NYSE Consolidated
-BJ's Wholesale Club Holdings Inc;BJ;NYSE Consolidated
-LyondellBasell Industries NV;LYB;NYSE Consolidated
-Deckers Outdoor Corp;DECK.K;NYSE Consolidated
-Tianqi Lithium Corp;002466.SZ;Shenzhen Stock Exchange
-Veeva Systems Inc;VEEV.K;NYSE Consolidated
-Equifax Inc;EFX;NYSE Consolidated
-ONEOK Inc;OKE;NYSE Consolidated
-Paramount Global;PARA.O;NASDAQ Global Select Consolidated
-Great-West Lifeco Inc;GWO.TO;The Toronto Stock Exchange
-Digital Realty Trust Inc;DLR;NYSE Consolidated
-American International Group Inc;AIG;NYSE Consolidated
-Eversource Energy;ES;NYSE Consolidated
-AIA Group Ltd;1299.HK;The Stock Exchange of Hong Kong Ltd
-Take-Two Interactive Software Inc;TTWO.O;NASDAQ Global Select Consolidated
-Tatwah Smartech Co Ltd;002512.SZ;Shenzhen Stock Exchange
-Roper Technologies Inc;ROP.O;NASDAQ Global Select Consolidated
-Beijing Oriental Yuhong Waterproof Technology Co Ltd;002271.SZ;Shenzhen Stock Exchange
-Domino's Pizza Inc;DPZ;NYSE Consolidated
-Paychex Inc;PAYX.O;NASDAQ Global Select Consolidated
-NRG Energy Inc;NRG;NYSE Consolidated
-Warner Bros Discovery Inc;WBD.O;NASDAQ Global Select Consolidated
-Posco Holdings Inc;005490.KS;Korea Exchange - KSE
-EQT Corp;EQT;NYSE Consolidated
-Gartner Inc;IT;NYSE Consolidated
-Mechel PAO;MTLR.MM;Moscow Interbank Currency Exchange (MICEX)
-L3Harris Technologies Inc;LHX;NYSE Consolidated
-Kuaishou Technology;1024.HK;The Stock Exchange of Hong Kong Ltd
-Allstate Corp;ALL;NYSE Consolidated
-Dawning Information Industry Co Ltd;603019.SS;Shanghai Stock Exchange
-Sinodata Co Ltd;002657.SZ;Shenzhen Stock Exchange
-Foxconn Industrial Internet Co Ltd;601138.SS;Shanghai Stock Exchange
-Tonghua Golden-Horse Pharmaceutical Industry Co Ltd;000766.SZ;Shenzhen Stock Exchange
-Norwegian Cruise Line Holdings Ltd;NCLH.K;NYSE Consolidated
-NiSource Inc;NI;NYSE Consolidated
-Wynn Resorts Ltd;WYNN.O;NASDAQ Global Select Consolidated
-Li Auto Inc;2015.HK;The Stock Exchange of Hong Kong Ltd
-HSBC Holdings PLC;HSBA.L;London Stock Exchange
-Old Dominion Freight Line Inc;ODFL.O;NASDAQ Global Select Consolidated
-Duolun Technology Corp Ltd;603528.SS;Shanghai Stock Exchange
-CITIC Securities Co Ltd;600030.SS;Shanghai Stock Exchange
-Travelers Companies Inc;TRV;NYSE Consolidated
-CF Industries Holdings Inc;CF;NYSE Consolidated
-elf Beauty Inc;ELF;NYSE Consolidated
-China Merchants Bank Co Ltd;600036.SS;Shanghai Stock Exchange
-Mitsubishi Heavy Industries Ltd;7011.T;Tokyo Stock Exchange
-Panasonic Holdings Corp;6752.T;Tokyo Stock Exchange
-VICI Properties Inc;VICI.K;NYSE Consolidated
-Aflac Inc;AFL;NYSE Consolidated
-BlueFocus Intelligent Communications Group Co Ltd;300058.SZ;Shenzhen Stock Exchange
-Twilio Inc;TWLO.K;NYSE Consolidated
-Itau Unibanco Holding SA;ITUB4.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
-Energy Transfer LP;ET;NYSE Consolidated
-Paycom Software Inc;PAYC.K;NYSE Consolidated
-Pacific Securities Co Ltd;601099.SS;Shanghai Stock Exchange
-MGM Resorts International;MGM;NYSE Consolidated
-Laboratory Corporation of America Holdings;LH;NYSE Consolidated
-Apollo Global Management Inc;APO;NYSE Consolidated
-Lamb Weston Holdings Inc;LW;NYSE Consolidated
-Live Nation Entertainment Inc;LYV;NYSE Consolidated
-TE Connectivity Ltd;TEL;NYSE Consolidated
-Monday.Com Ltd;MNDY.O;NASDAQ Global Select Consolidated
-WW Grainger Inc;GWW;NYSE Consolidated
-China Science Publishing & Media Ltd;601858.SS;Shanghai Stock Exchange
-Honda Motor Co Ltd;7267.T;Tokyo Stock Exchange
-Socionext Inc;6526.T;Tokyo Stock Exchange
-Cinda Securities Co Ltd;601059.SS;Shanghai Stock Exchange
-Match Group Inc;MTCH.O;NASDAQ Global Select Consolidated
-American Eagle Outfitters Inc;AEO;NYSE Consolidated
-Paccar Inc;PCAR.O;NASDAQ Global Select Consolidated
-Dynatrace Inc;DT;NYSE Consolidated
-Zhuhai Aerospace Microchips Science & Technology Co Ltd;300053.SZ;Shenzhen Stock Exchange
-Extra Space Storage Inc;EXR;NYSE Consolidated
-PPL Corp;PPL;NYSE Consolidated
-Shenzhen Fastprint Circuit Tech Co Ltd;002436.SZ;Shenzhen Stock Exchange
-Las Vegas Sands Corp;LVS;NYSE Consolidated
-Centene Corp;CNC;NYSE Consolidated
-Ferguson PLC;FERG.K;NYSE Consolidated
-Public Service Enterprise Group Inc;PEG;NYSE Consolidated
-Bath & Body Works Inc;BBWI.K;NYSE Consolidated
-Fox Corp;FOXA.O;NASDAQ Global Select Consolidated
-Goertek Inc;002241.SZ;Shenzhen Stock Exchange
-Qiming Information Technology Co Ltd;002232.SZ;Shenzhen Stock Exchange
-GE Healthcare Technologies Inc;GEHC.O;NASDAQ Global Select Consolidated
-Duolingo Inc;DUOL.O;NASDAQ Global Select Consolidated
-Posco Future M Co Ltd;003670.KS;Korea Exchange - KSE
-Ganfeng Lithium Group Co Ltd;002460.SZ;Shenzhen Stock Exchange
-Western Digital Corp;WDC.O;NASDAQ Global Select Consolidated
-Resmed Inc;RMD;NYSE Consolidated
-Jacobs Solutions Inc;J;NYSE Consolidated
-WEC Energy Group Inc;WEC;NYSE Consolidated
-CDW Corp;CDW.O;NASDAQ Global Select Consolidated
-Southwest Airlines Co;LUV;NYSE Consolidated
-American Water Works Company Inc;AWK;NYSE Consolidated
-Willis Towers Watson PLC;WTW.O;NASDAQ Global Select Consolidated
-Hubbell Inc;HUBB.K;NYSE Consolidated
-Martin Marietta Materials Inc;MLM;NYSE Consolidated
-Globant SA;GLOB.K;NYSE Consolidated
-Allianz SE;ALVG.DE;Xetra
-Constellation Energy Corp;CEG.O;NASDAQ Global Select Consolidated
-Shenzhen Wongtee International Enterprise Co Ltd;000056.SZ;Shenzhen Stock Exchange
-PPG Industries Inc;PPG;NYSE Consolidated
-Winner Technology Co Inc;300609.SZ;Shenzhen Stock Exchange
-KKR & Co Inc;KKR;NYSE Consolidated
-Japan Tobacco Inc;2914.T;Tokyo Stock Exchange
-People.cn Co Ltd;603000.SS;Shanghai Stock Exchange
-GigaDevice Semiconductor Inc;603986.SS;Shanghai Stock Exchange
-Arch Capital Group Ltd;ACGL.O;NASDAQ Global Select Consolidated
-RH;RH;NYSE Consolidated
-Schneider Electric SE;SCHN.PA;Euronext Paris
-Consolidated Edison Inc;ED;NYSE Consolidated
-Quanta Services Inc;PWR;NYSE Consolidated
-TransUnion;TRU;NYSE Consolidated
-Nintendo Co Ltd;7974.T;Tokyo Stock Exchange
-Itochu Corp;8001.T;Tokyo Stock Exchange
-Expeditors International of Washington Inc;EXPD.K;NYSE Consolidated
-Fastenal Co;FAST.O;NASDAQ Global Select Consolidated
-Edifier Technology Co Ltd;002351.SZ;Shenzhen Stock Exchange
-Wuxi Taiji Industry Ltd Corp;600667.SS;Shanghai Stock Exchange
-Suzhou TFC Optical Communication Co Ltd;300394.SZ;Shenzhen Stock Exchange
-Keli Motor Group Co Ltd;002892.SZ;Shenzhen Stock Exchange
-Dupont De Nemours Inc;DD;NYSE Consolidated
-Global Payments Inc;GPN;NYSE Consolidated
-Jabil Inc;JBL;NYSE Consolidated
-Targa Resources Corp;TRGP.K;NYSE Consolidated
-PENN Entertainment Inc;PENN.O;NASDAQ Global Select Consolidated
-Hormel Foods Corp;HRL;NYSE Consolidated
-Ecolab Inc;ECL;NYSE Consolidated
-WuXi AppTec Co Ltd;603259.SS;Shanghai Stock Exchange
-Tokio Marine Holdings Inc;8766.T;Tokyo Stock Exchange
-Waters Corp;WAT;NYSE Consolidated
-SI-TECH Information Technology Co Ltd;300608.SZ;Shenzhen Stock Exchange
-China Tourism Group Duty Free Corp Ltd;601888.SS;Shanghai Stock Exchange
-Lyft Inc;LYFT.O;NASDAQ Global Select Consolidated
-China Vanke Co Ltd;000002.SZ;Shenzhen Stock Exchange
-Everest Group Ltd;EG;NYSE Consolidated
-Plug Power Inc;PLUG.O;NASDAQ Capital Market Consolidated
-Entegris Inc;ENTG.O;NASDAQ Global Select Consolidated
-Shenzhen Sunway Communication Co Ltd;300136.SZ;Shenzhen Stock Exchange
-Pultegroup Inc;PHM;NYSE Consolidated
-Ningbo Tianlong Electronics Co Ltd;603266.SS;Shanghai Stock Exchange
-Unisplendour Corp Ltd;000938.SZ;Shenzhen Stock Exchange
-Simon Property Group Inc;SPG;NYSE Consolidated
-Veralto Corp;VLTO.K;NYSE Consolidated
-Nucor Corp;NUE;NYSE Consolidated
-Unilever PLC;ULVR.L;London Stock Exchange
-ING Groep NV;INGA.AS;Euronext Amsterdam
-Baxter International Inc;BAX;NYSE Consolidated
-KeyCorp;KEY;NYSE Consolidated
-Zhewen Interactive Group Co Ltd;600986.SS;Shanghai Stock Exchange
-Vulcan Materials Co;VMC;NYSE Consolidated
-Skyworks Solutions Inc;SWKS.O;NASDAQ Global Select Consolidated
-Coterra Energy Inc;CTRA.K;NYSE Consolidated
-SBA Communications Corp;SBAC.O;NASDAQ Global Select Consolidated
-Sanofi SA;SASY.PA;Euronext Paris
-J M Smucker Co;SJM;NYSE Consolidated
-Hologic Inc;HOLX.O;NASDAQ Global Select Consolidated
-ICICI Bank Ltd;ICBK.NS;National Stock Exchange of India
-AMETEK Inc;AME;NYSE Consolidated
-Southwestern Energy Co;SWN;NYSE Consolidated
-Troy Information Technology Co Ltd;300366.SZ;Shenzhen Stock Exchange
-LPL Financial Holdings Inc;LPLA.O;NASDAQ Global Select Consolidated
-Kellanova;K;NYSE Consolidated
-Ameriprise Financial Inc;AMP;NYSE Consolidated
-Tsinghua Tongfang Co Ltd;600100.SS;Shanghai Stock Exchange
-NAURA Technology Group Co Ltd;002371.SZ;Shenzhen Stock Exchange
-Toronto-Dominion Bank;TD.TO;The Toronto Stock Exchange
-AstraZeneca PLC;AZN.L;London Stock Exchange
-China Yangtze Power Co Ltd;600900.SS;Shanghai Stock Exchange
-Floor & Decor Holdings Inc;FND;NYSE Consolidated
-Shanghai Yanhua Smartech Group Co Ltd;002178.SZ;Shenzhen Stock Exchange
-BP PLC;BP.L;London Stock Exchange
-Ares Management Corp;ARES.K;NYSE Consolidated
-Ameren Corp;AEE;NYSE Consolidated
-Changzhou Tronly New Electronic Materials Co Ltd;300429.SZ;Shenzhen Stock Exchange
-Beijing E-hualu Information Technology Co Ltd;300212.SZ;Shenzhen Stock Exchange
-Hongbo Co Ltd;002229.SZ;Shenzhen Stock Exchange
-KAISA JiaYun Technology Inc;300242.SZ;Shenzhen Stock Exchange
-Zijin Mining Group Co Ltd;601899.SS;Shanghai Stock Exchange
-Yum! Brands Inc;YUM;NYSE Consolidated
-APA Corp (US);APA.O;NASDAQ Global Select Consolidated
-SMC Corp;6273.T;Tokyo Stock Exchange
-Mitsui & Co Ltd;8031.T;Tokyo Stock Exchange
-Five9 Inc;FIVN.O;NASDAQ Global Market Consolidated
-Hebei Changshan Biochemical Pharmaceutical Co Ltd;300255.SZ;Shenzhen Stock Exchange
-Church & Dwight Co Inc;CHD;NYSE Consolidated
-Hong Kong Exchanges and Clearing Ltd;0388.HK;The Stock Exchange of Hong Kong Ltd
-Global-E Online Ltd;GLBE.O;NASDAQ Global Select Consolidated
-Banco Santander SA;SAN.MC;BME SPANISH EXCHANGE
-Symbotic Inc;SYM.O;NASDAQ Global Market Consolidated
-Jiangxi Special Electric Motor Co Ltd;002176.SZ;Shenzhen Stock Exchange
-Upstart Holdings Inc;UPST.O;NASDAQ Global Select Consolidated
-VF Corp;VFC;NYSE Consolidated
-Akamai Technologies Inc;AKAM.O;NASDAQ Global Select Consolidated
-Mercedes Benz Group AG;MBGn.DE;Xetra
-Zhejiang Shibao Co Ltd;002703.SZ;Shenzhen Stock Exchange
-Luzhou Laojiao Co Ltd;000568.SZ;Shenzhen Stock Exchange
-Hybio Pharmaceutical Co Ltd;300199.SZ;Shenzhen Stock Exchange
-China Reform Health Management and Services Group Co Ltd;000503.SZ;Shenzhen Stock Exchange
-Tenet Healthcare Corp;THC;NYSE Consolidated
-Huizhou Desay SV Automotive Co Ltd;002920.SZ;Shenzhen Stock Exchange
-DTE Energy Co;DTE;NYSE Consolidated
-Towa Corp;6315.T;Tokyo Stock Exchange
-Quest Diagnostics Inc;DGX;NYSE Consolidated
-Runjian Co Ltd;002929.SZ;Shenzhen Stock Exchange
-Jiangsu Dagang Co Ltd;002077.SZ;Shenzhen Stock Exchange
-Huafon Microfibre Shanghai Co Ltd;300180.SZ;Shenzhen Stock Exchange
-Teradyne Inc;TER.O;NASDAQ Global Select Consolidated
-Capitalonline Data Service Co Ltd;300846.SZ;Shenzhen Stock Exchange
-Vistra Corp;VST;NYSE Consolidated
-Generac Holdings Inc;GNRC.K;NYSE Consolidated
-Corteva Inc;CTVA.K;NYSE Consolidated
-Nippon Telegraph and Telephone Corp;9432.T;Tokyo Stock Exchange
-Shenzhen Kaifa Technology Co Ltd;000021.SZ;Shenzhen Stock Exchange
-Fair Isaac Corp;FICO.K;NYSE Consolidated
-Five Below Inc;FIVE.O;NASDAQ Global Select Consolidated
-Pharmaron Beijing Co Ltd;300759.SZ;Shenzhen Stock Exchange
-WuXi Biologics (Cayman) Inc;2269.HK;The Stock Exchange of Hong Kong Ltd
-Ingersoll Rand Inc;IR;NYSE Consolidated
-Prosus NV;PRX.AS;Euronext Amsterdam
-POCO Holding Co Ltd;300811.SZ;Shenzhen Stock Exchange
-Hewlett Packard Enterprise Co;HPE;NYSE Consolidated
-On Holding AG;ONON.K;NYSE Consolidated
-Fujian Zitian Media Technology Co Ltd;300280.SZ;Shenzhen Stock Exchange
-Shenzhen Sunwin Intelligent Co Ltd;300044.SZ;Shenzhen Stock Exchange
-Verisign Inc;VRSN.O;NASDAQ Global Select Consolidated
-China Wafer Level CSP Co Ltd;603005.SS;Shanghai Stock Exchange
-Ovintiv Inc;OVV;NYSE Consolidated
-CPT Technology Group Co Ltd;000536.SZ;Shenzhen Stock Exchange
-National Grid PLC;NG.L;London Stock Exchange
-Banco do Brasil SA;BBAS3.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
-West Pharmaceutical Services Inc;WST;NYSE Consolidated
-Changsha Jingjia Microelectronics Co Ltd;300474.SZ;Shenzhen Stock Exchange
-NVR Inc;NVR;NYSE Consolidated
-Accelink Technologies Co Ltd;002281.SZ;Shenzhen Stock Exchange
-Otis Worldwide Corp;OTIS.K;NYSE Consolidated
-Changshu Tianyin Electromechanical Co Ltd;300342.SZ;Shenzhen Stock Exchange
-Carmax Inc;KMX;NYSE Consolidated
-Diageo PLC;DGE.L;London Stock Exchange
-VT Industrial Technology Co Ltd;300707.SZ;Shenzhen Stock Exchange
-L'Oreal SA;OREP.PA;Euronext Paris
-Hoya Corp;7741.T;Tokyo Stock Exchange
-Daikin Industries Ltd;6367.T;Tokyo Stock Exchange
-Futu Holdings Ltd;FUTU.O;NASDAQ Global Market Consolidated
-CoStar Group Inc;CSGP.O;NASDAQ Global Select Consolidated
-Deutsche Bank AG;DBKGn.DE;Xetra
-Cummins Inc;CMI;NYSE Consolidated
-Nissan Motor Co Ltd;7201.T;Tokyo Stock Exchange
-Screen Holdings Co Ltd;7735.T;Tokyo Stock Exchange
-Jiangsu Yoke Technology Co Ltd;002409.SZ;Shenzhen Stock Exchange
-Jiangsu Yawei Machine Tool Co Ltd;002559.SZ;Shenzhen Stock Exchange
-ICON PLC;ICLR.O;NASDAQ Global Select Consolidated
-Japan Post Bank Co Ltd;7182.T;Tokyo Stock Exchange
-Atmos Energy Corp;ATO;NYSE Consolidated
-TCL Zhonghuan Renewable Energy Technology Co Ltd;002129.SZ;Shenzhen Stock Exchange
-Visual China Group Co Ltd;000681.SZ;Shenzhen Stock Exchange
-Avalonbay Communities Inc;AVB;NYSE Consolidated
-Discover Financial Services;DFS;NYSE Consolidated
-Nippon Steel Corp;5401.T;Tokyo Stock Exchange
-China Pacific Insurance Group Co Ltd;601601.SS;Shanghai Stock Exchange
-Yuancheng Environment Co Ltd;603388.SS;Shanghai Stock Exchange
-Bank of Nova Scotia;BNS.TO;The Toronto Stock Exchange
-MSCI Inc;MSCI.K;NYSE Consolidated
-Jiangling Motors Corp Ltd;000550.SZ;Shenzhen Stock Exchange
-Magazine Luiza SA;MGLU3.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
-Coupang Inc;CPNG.K;NYSE Consolidated
-Ping An Bank Co Ltd;000001.SZ;Shenzhen Stock Exchange
-Crocs Inc;CROX.O;NASDAQ Global Select Consolidated
-UniTTEC Co Ltd;000925.SZ;Shenzhen Stock Exchange
-Mosaic Co;MOS;NYSE Consolidated
-Rio Tinto PLC;RIO.L;London Stock Exchange
-Ajinomoto Co Inc;2802.T;Tokyo Stock Exchange
-Mid-America Apartment Communities Inc;MAA;NYSE Consolidated
-Tianjin Pengling Group Co Ltd;300375.SZ;Shenzhen Stock Exchange
-Toast Inc;TOST.K;NYSE Consolidated
-Reliance Industries Ltd;RELI.NS;National Stock Exchange of India
-J B Hunt Transport Services Inc;JBHT.O;NASDAQ Global Select Consolidated
-GoDaddy Inc;GDDY.K;NYSE Consolidated
-CMS Energy Corp;CMS;NYSE Consolidated
-Dongguan Chitwing Technology Co Ltd;002855.SZ;Shenzhen Stock Exchange
-Jiangsu Lettall Electronic Co Ltd;603629.SS;Shanghai Stock Exchange
-Sunrun Inc;RUN.O;NASDAQ Global Select Consolidated
-Telling Telecommunication Holding Co Ltd;000829.SZ;Shenzhen Stock Exchange
-Enterprise Products Partners LP;EPD;NYSE Consolidated
-Midea Group Co Ltd;000333.SZ;Shenzhen Stock Exchange
-Citizens Financial Group Inc;CFG;NYSE Consolidated
-Sun Life Financial Inc;SLF.TO;The Toronto Stock Exchange
-Yunnan Energy New Material Co Ltd;002812.SZ;Shenzhen Stock Exchange
-Xylem Inc;XYL;NYSE Consolidated
-Xiamen Hongxin Electronics Technology Group Inc;300657.SZ;Shenzhen Stock Exchange
-Epam Systems Inc;EPAM.K;NYSE Consolidated
-Lotus Health Group Co;600186.SS;Shanghai Stock Exchange
-Genuine Parts Co;GPC;NYSE Consolidated
-FirstEnergy Corp;FE;NYSE Consolidated
-Howmet Aerospace Inc;HWM;NYSE Consolidated
-Wolfspeed Inc;WOLF.K;NYSE Consolidated
-XP Inc;XP.O;NASDAQ Global Select Consolidated
-Epoxy Base Electronic Material Corp Ltd;603002.SS;Shanghai Stock Exchange
-Banco Bilbao Vizcaya Argentaria SA;BBVA.MC;BME SPANISH EXCHANGE
-Seagate Technology Holdings PLC;STX.O;NASDAQ Global Select Consolidated
-Beijing Compass Technology Development Co Ltd;300803.SZ;Shenzhen Stock Exchange
-Sunwave Communications Co Ltd;002115.SZ;Shenzhen Stock Exchange
-Sinolink Securities Co Ltd;600109.SS;Shanghai Stock Exchange
-Shenzhen Etmade Automatic Equipment Co Ltd;300812.SZ;Shenzhen Stock Exchange
-CBRE Group Inc;CBRE.K;NYSE Consolidated
-Agricultural Bank of China Ltd;601288.SS;Shanghai Stock Exchange
-China Mobile Ltd;600941.SS;Shanghai Stock Exchange
-Nordstrom Inc;JWN;NYSE Consolidated
-Jiangsu Hengrui Pharmaceuticals Co Ltd;600276.SS;Shanghai Stock Exchange
-Zhejiang Daily Digital Culture Group Co Ltd;600633.SS;Shanghai Stock Exchange
-Campbell Soup Co;CPB;NYSE Consolidated
-China CSSC Holdings Ltd;600150.SS;Shanghai Stock Exchange
-Glencore PLC;GLEN.L;London Stock Exchange
-Lattice Semiconductor Corp;LSCC.O;NASDAQ Global Select Consolidated
-Hartford Financial Services Group Inc;HIG;NYSE Consolidated
-Deutsche Telekom AG;DTEGn.DE;Xetra
-Equity Residential;EQR;NYSE Consolidated
-Suzhou Secote Precision Electronic Co Ltd;603283.SS;Shanghai Stock Exchange
-AMC Entertainment Holdings Inc;AMC;NYSE Consolidated
-Nippon Yusen KK;9101.T;Tokyo Stock Exchange
-Reckitt Benckiser Group PLC;RKT.L;London Stock Exchange
-StoneCo Ltd;STNE.O;NASDAQ Global Select Consolidated
-Hitachi Ltd;6501.T;Tokyo Stock Exchange
-Prio SA;PRIO3.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
-Airbus SE;AIR.PA;Euronext Paris
-Fortive Corp;FTV;NYSE Consolidated
-Prudential Financial Inc;PRU;NYSE Consolidated
-BOE Technology Group Co Ltd;000725.SZ;Shenzhen Stock Exchange
-Tyson Foods Inc;TSN;NYSE Consolidated
-JA Solar Technology Co Ltd;002459.SZ;Shenzhen Stock Exchange
-Darden Restaurants Inc;DRI;NYSE Consolidated
-Isu Petasys Co Ltd;007660.KS;Korea Exchange - KSE
-Huntington Bancshares Inc;HBAN.O;NASDAQ Global Select Consolidated
-Gen Digital Inc;GEN.O;NASDAQ Global Select Consolidated
-Zhejiang Jinke Tom Culture Industry Co Ltd;300459.SZ;Shenzhen Stock Exchange
-Tyler Technologies Inc;TYL;NYSE Consolidated
-Catalent Inc;CTLT.K;NYSE Consolidated
-Chesapeake Energy Corp;CHK.O;NASDAQ Global Select Consolidated
-Camden Property Trust;CPT;NYSE Consolidated
-CSPC Innovation Pharmaceutical Co Ltd;300765.SZ;Shenzhen Stock Exchange
-Wanhua Chemical Group Co Ltd;600309.SS;Shanghai Stock Exchange
-IReader Technology Co Ltd;603533.SS;Shanghai Stock Exchange
-Hang Zhou Iron & Steel Co Ltd;600126.SS;Shanghai Stock Exchange
-T Rowe Price Group Inc;TROW.O;NASDAQ Global Select Consolidated
-Dalian Zhiyun Automation Co Ltd;300097.SZ;Shenzhen Stock Exchange
-Regions Financial Corp;RF;NYSE Consolidated
-Brown-Forman Corp;BFb;NYSE Consolidated
-Inpex Corp;1605.T;Tokyo Stock Exchange
-Ronglian Group Ltd;002642.SZ;Shenzhen Stock Exchange
-Longzhou Group Co Ltd;002682.SZ;Shenzhen Stock Exchange
-Anshan Senyuan Road & Bridge Co Ltd;300210.SZ;Shenzhen Stock Exchange
-ANSYS Inc;ANSS.O;NASDAQ Global Select Consolidated
-Ball Corp;BALL.K;NYSE Consolidated
-AGNC Investment Corp;AGNC.O;NASDAQ Global Select Consolidated
-Westinghouse Air Brake Technologies Corp;WAB;NYSE Consolidated
-Bank of Montreal;BMO.TO;The Toronto Stock Exchange
-Gree Electric Appliances Inc of Zhuhai;000651.SZ;Shenzhen Stock Exchange
-TongFu Microelectronics Co Ltd;002156.SZ;Shenzhen Stock Exchange
-Synchrony Financial;SYF;NYSE Consolidated
-Evergy Inc;EVRG.O;NASDAQ Global Select Consolidated
-Alcoa Corp;AA;NYSE Consolidated
-Markel Group Inc;MKL;NYSE Consolidated
-Huachuang Yunxin Digital Technology Co Ltd;600155.SS;Shanghai Stock Exchange
-Crown Holdings Inc;CCK;NYSE Consolidated
-TKO Group Holdings Inc;TKO;NYSE Consolidated
-Zhejiang Yangfan New Materials Co Ltd;300637.SZ;Shenzhen Stock Exchange
-Shiseido Co Ltd;4911.T;Tokyo Stock Exchange
-STERIS plc;STE;NYSE Consolidated
-Industrial and Commercial Bank of China Ltd;601398.SS;Shanghai Stock Exchange
-Daiichi Sankyo Co Ltd;4568.T;Tokyo Stock Exchange
-Inspire Medical Systems Inc;INSP.K;NYSE Consolidated
-Adyen NV;ADYEN.AS;Euronext Amsterdam
-DaVita Inc;DVA;NYSE Consolidated
-Bringspring Science and Technology Co Ltd;300290.SZ;Shenzhen Stock Exchange
-Antero Resources Corp;AR;NYSE Consolidated
-Molina Healthcare Inc;MOH;NYSE Consolidated
-Banco Bradesco SA;BBDC4.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
-Sinomine Resource Group Co Ltd;002738.SZ;Shenzhen Stock Exchange
-Guolian Securities Co Ltd;601456.SS;Shanghai Stock Exchange
-Guangzhou Haige Communications Group Incorporated Co;002465.SZ;Shenzhen Stock Exchange
-XPO Inc;XPO;NYSE Consolidated
-Wingstop Inc;WING.O;NASDAQ Global Select Consolidated
-Weichai Power Co Ltd;000338.SZ;Shenzhen Stock Exchange
-DENTSPLY SIRONA Inc;XRAY.O;NASDAQ Global Select Consolidated
-Localiza Rent a Car SA;RENT3.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
-State Bank of India;SBI.NS;National Stock Exchange of India
-Nasdaq Inc;NDAQ.O;NASDAQ Global Select Consolidated
-Safety Shot Inc;SHOT.O;NASDAQ Capital Market Consolidated
-Celanese Corp;CE;NYSE Consolidated
-Fifth Third Bancorp;FITB.O;NASDAQ Global Select Consolidated
-Dover Corp;DOV;NYSE Consolidated
-Darling Ingredients Inc;DAR;NYSE Consolidated
-Iberdrola SA;IBE.MC;BME SPANISH EXCHANGE
-Siemens Energy AG;ENR1n.DE;Xetra
-Magna International Inc;MG.TO;The Toronto Stock Exchange
-Spirit Airlines Inc;SAVE.K;NYSE Consolidated
-Edison International;EIX;NYSE Consolidated
-BNP Paribas SA;BNPP.PA;Euronext Paris
-Penumbra Inc;PEN;NYSE Consolidated
-Chongqing Taiji Industry Group Co Ltd;600129.SS;Shanghai Stock Exchange
-Offcn Education Technology Co Ltd;002607.SZ;Shenzhen Stock Exchange
-Flutter Entertainment PLC;FLTRF.L;London Stock Exchange
-Zhejiang Yueling Co Ltd;002725.SZ;Shenzhen Stock Exchange
-Beijing Jetsen Technology Co Ltd;300182.SZ;Shenzhen Stock Exchange
-Sportsoul Co Ltd;001300.SZ;Shenzhen Stock Exchange
-Murata Manufacturing Co Ltd;6981.T;Tokyo Stock Exchange
-Huizhou Speed Wireless Technology Co Ltd;300322.SZ;Shenzhen Stock Exchange
-Applovin Corp;APP.O;NASDAQ Global Select Consolidated
-NanJing Sanchao Advanced Materials Co Ltd;300554.SZ;Shenzhen Stock Exchange
-Charles River Laboratories International Inc;CRL;NYSE Consolidated
-Guangdong Golden Dragon Development Inc;000712.SZ;Shenzhen Stock Exchange
-Alliant Energy Corp;LNT.O;NASDAQ Global Select Consolidated
-Nidec Corp;6594.T;Tokyo Stock Exchange
-China Telecom Corp Ltd;601728.SS;Shanghai Stock Exchange
-Pool Corp;POOL.O;NASDAQ Global Select Consolidated
-Shenzhen Rongda Photosensitive & Technology Co Ltd;300576.SZ;Shenzhen Stock Exchange
-37 Interactive Entertainment Network Technology Group Co Ltd;002555.SZ;Shenzhen Stock Exchange
-New Oriental Education & Technology Group Inc;EDU;NYSE Consolidated
-Weyerhaeuser Co;WY;NYSE Consolidated
-KDDI Corp;9433.T;Tokyo Stock Exchange
-Chewy Inc;CHWY.K;NYSE Consolidated
-Shenzhen Jove Enterprise Ltd;300814.SZ;Shenzhen Stock Exchange
-Shenzhen Tianyuan Dic Information Technology Co Ltd;300047.SZ;Shenzhen Stock Exchange
-Xuchang Yuandong Drive Shaft Co Ltd;002406.SZ;Shenzhen Stock Exchange
-NetApp Inc;NTAP.O;NASDAQ Global Select Consolidated
-Avantor Inc;AVTR.K;NYSE Consolidated
-China Satellite Communications Co Ltd;601698.SS;Shanghai Stock Exchange
-Maxscend Microelectronics Co Ltd;300782.SZ;Shenzhen Stock Exchange
-Komatsu Ltd;6301.T;Tokyo Stock Exchange
-Will Semiconductor Co Ltd Shanghai;603501.SS;Shanghai Stock Exchange
-First Citizens BancShares Inc (Delaware);FCNCA.O;NASDAQ Global Select Consolidated
-Hithink RoyalFlush Information Network Co Ltd;300033.SZ;Shenzhen Stock Exchange
-Lucid Group Inc;LCID.O;NASDAQ Global Select Consolidated
-Qorvo Inc;QRVO.O;NASDAQ Global Select Consolidated
-Sarepta Therapeutics Inc;SRPT.O;NASDAQ Global Select Consolidated
-Denso Corp;6902.T;Tokyo Stock Exchange
-State Street Corp;STT;NYSE Consolidated
-Hermes International SCA;HRMS.PA;Euronext Paris
-Tata Investment Corporation Ltd;TINV.NS;National Stock Exchange of India
-Invitation Homes Inc;INVH.K;NYSE Consolidated
-Oriental Land Co Ltd;4661.T;Tokyo Stock Exchange
-Shanxi Xinghuacun Fen Wine Factory Co Ltd;600809.SS;Shanghai Stock Exchange
-Fanuc Corp;6954.T;Tokyo Stock Exchange
-McCormick & Company Inc;MKC;NYSE Consolidated
-Alexandria Real Estate Equities Inc;ARE;NYSE Consolidated
-Muenchener Rueckversicherungs Gesellschaft in Muenchen AG;MUVGn.DE;Xetra
-Zotye Automobile Co Ltd;000980.SZ;Shenzhen Stock Exchange
-M&T Bank Corp;MTB;NYSE Consolidated
-Tapestry Inc;TPR;NYSE Consolidated
-Aramark;ARMK.K;NYSE Consolidated
-F5 Inc;FFIV.O;NASDAQ Global Select Consolidated
-Kokusai Electric Corp;6525.T;Tokyo Stock Exchange
-Skechers USA Inc;SKX;NYSE Consolidated
-Check Point Software Technologies Ltd;CHKP.O;NASDAQ Global Select Consolidated
-Adidas AG;ADSGn.DE;Xetra
-Rolls-Royce Holdings PLC;RR.L;London Stock Exchange
-DocuSign Inc;DOCU.O;NASDAQ Global Select Consolidated
-International Flavors & Fragrances Inc;IFF;NYSE Consolidated
-Tourmaline Oil Corp;TOU.TO;The Toronto Stock Exchange
-Beijing LeiKe Defense Technology Co Ltd;002413.SZ;Shenzhen Stock Exchange
-Hubei Century Network Technology Inc;300494.SZ;Shenzhen Stock Exchange
-Lennox International Inc;LII;NYSE Consolidated
-Ourpalm Co Ltd;300315.SZ;Shenzhen Stock Exchange
-Caesars Entertainment Inc;CZR.O;NASDAQ Global Select Consolidated
-Whirlpool Corp;WHR;NYSE Consolidated
-Idemitsu Kosan Co Ltd;5019.T;Tokyo Stock Exchange
-Flex Ltd;FLEX.O;NASDAQ Global Select Consolidated
-Terumo Corp;4543.T;Tokyo Stock Exchange
-Incyte Corp;INCY.O;NASDAQ Global Select Consolidated
-Exact Sciences Corp;EXAS.O;NASDAQ Capital Market Consolidated
-Okta Inc;OKTA.O;NASDAQ Global Select Consolidated
-UiPath Inc;PATH.K;NYSE Consolidated
-Watsco Inc;WSO;NYSE Consolidated
-Guangdong Haomei New Materials Co Ltd;002988.SZ;Shenzhen Stock Exchange
-Corning Inc;GLW;NYSE Consolidated
-Ferrotec An Hui Technology Development Co Ltd;301297.SZ;Shenzhen Stock Exchange
-JiLin Sino Microelectronics Co Ltd;600360.SS;Shanghai Stock Exchange
-Wingtech Technology Co Ltd;600745.SS;Shanghai Stock Exchange
-Franklin Resources Inc;BEN;NYSE Consolidated
-Madrigal Pharmaceuticals Inc;MDGL.O;NASDAQ Global Select Consolidated
-Poly Developments and Holdings Group Co Ltd;600048.SS;Shanghai Stock Exchange
-CenterPoint Energy Inc;CNP;NYSE Consolidated
-Steel Dynamics Inc;STLD.O;NASDAQ Global Select Consolidated
-L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes George;AIRP.PA;Euronext Paris
-Axis Bank Ltd;AXBK.NS;National Stock Exchange of India
-ANTA Sports Products Ltd;2020.HK;The Stock Exchange of Hong Kong Ltd
-Omnicom Group Inc;OMC;NYSE Consolidated
-Spectrum Brands Holdings Inc;SPB;NYSE Consolidated
-Sunac China Holdings Ltd;1918.HK;The Stock Exchange of Hong Kong Ltd
-Astellas Pharma Inc;4503.T;Tokyo Stock Exchange
-Bunge Global SA;BG;NYSE Consolidated
-Foot Locker Inc;FL;NYSE Consolidated
-Mitsui O.S.K. Lines Ltd;9104.T;Tokyo Stock Exchange
-Aotecar New Energy Technology Co Ltd;002239.SZ;Shenzhen Stock Exchange
-Industria de Diseno Textil SA;ITX.MC;BME SPANISH EXCHANGE
-Post Holdings Inc;POST.K;NYSE Consolidated
-Fulin Precision Co Ltd;300432.SZ;Shenzhen Stock Exchange
-Dropbox Inc;DBX.O;NASDAQ Global Select Consolidated
-Beijing Baination Pictures Co Ltd;300291.SZ;Shenzhen Stock Exchange
-Linewell Software Co Ltd;603636.SS;Shanghai Stock Exchange
-BASF SE;BASFn.DE;Xetra
-Samsung SDI Co Ltd;006400.KS;Korea Exchange - KSE
-Mercari Inc;4385.T;Tokyo Stock Exchange
-Sichuan Jiuyuan Yinhai Software Co Ltd;002777.SZ;Shenzhen Stock Exchange
-Huatai Securities Co Ltd;601688.SS;Shanghai Stock Exchange
-TC Energy Corp;TRP.TO;The Toronto Stock Exchange
-International Paper Co;IP;NYSE Consolidated
-Cooper Companies Inc;COO.O;NASDAQ Global Select Consolidated
-Shanghai Golden Bridge Info Tech Co Ltd;603918.SS;Shanghai Stock Exchange
-Inner Mongolia Yili Industrial Group Co Ltd;600887.SS;Shanghai Stock Exchange
-Manhattan Associates Inc;MANH.O;NASDAQ Global Select Consolidated
-Shenzhen InfoGem Technologies Co Ltd;300085.SZ;Shenzhen Stock Exchange
-Beijing BDStar Navigation Co Ltd;002151.SZ;Shenzhen Stock Exchange
-Hundsun Technologies Inc;600570.SS;Shanghai Stock Exchange
-Wondershare Technology Group Co Ltd;300624.SZ;Shenzhen Stock Exchange
-Bio Rad Laboratories Inc;BIO;NYSE Consolidated
-Hainan Drinda New Energy Technology Co Ltd;002865.SZ;Shenzhen Stock Exchange
-TechnipFMC PLC;FTI;NYSE Consolidated
-Industrial Bank Co Ltd;601166.SS;Shanghai Stock Exchange
-DoubleVerify Holdings Inc;DV;NYSE Consolidated
-Confluent Inc;CFLT.O;NASDAQ Global Select Consolidated
-TCL Technology Group Corp;000100.SZ;Shenzhen Stock Exchange
-CH Robinson Worldwide Inc;CHRW.O;NASDAQ Global Select Consolidated
-Cleveland-Cliffs Inc;CLF;NYSE Consolidated
-Tencent Music Entertainment Group;TME;NYSE Consolidated
-Olink Holding AB (publ);OLK.O;NASDAQ Global Market Consolidated
-Jushri Technologies Inc;300762.SZ;Shenzhen Stock Exchange
-Jiangsu Huaxicun Co Ltd;000936.SZ;Shenzhen Stock Exchange
-UDR Inc;UDR;NYSE Consolidated
-Shenzhen Original Advanced Compounds Co Ltd;603991.SS;Shanghai Stock Exchange
-North Industries Group Red Arrow Co Ltd;000519.SZ;Shenzhen Stock Exchange
-Renaissancere Holdings Ltd;RNR;NYSE Consolidated
-Owens Corning;OC;NYSE Consolidated
-EVE Energy Co Ltd;300014.SZ;Shenzhen Stock Exchange
-Zhejiang Sanhua Intelligent Controls Co Ltd;002050.SZ;Shenzhen Stock Exchange
-Zhejiang XCC Group Co Ltd;603667.SS;Shanghai Stock Exchange
-PBF Energy Inc;PBF;NYSE Consolidated
-China State Construction Engineering Corp Ltd;601668.SS;Shanghai Stock Exchange
-Shenzhen TXD Technology Co Ltd;002845.SZ;Shenzhen Stock Exchange
-Healthpeak Properties Inc;PEAK.K;NYSE Consolidated
-Garmin Ltd;GRMN.K;NYSE Consolidated
-Nitori Holdings Co Ltd;9843.T;Tokyo Stock Exchange
-Foshan Blue Rocket Electronics Co Ltd;301348.SZ;Shenzhen Stock Exchange
-Yes Bank Ltd;YESB.NS;National Stock Exchange of India
-PTC Inc;PTC.O;NASDAQ Global Select Consolidated
-Guangzhou Haozhi Industrial Co Ltd;300503.SZ;Shenzhen Stock Exchange
-Chongqing Zhifei Biological Products Co Ltd;300122.SZ;Shenzhen Stock Exchange
-Muyuan Foods Co Ltd;002714.SZ;Shenzhen Stock Exchange
-Patterson-UTI Energy Inc;PTEN.O;NASDAQ Global Select Consolidated
-Stanley Black & Decker Inc;SWK;NYSE Consolidated
-Zhejiang Dahua Technology Co Ltd;002236.SZ;Shenzhen Stock Exchange
-Tata Consultancy Services Ltd;TCS.NS;National Stock Exchange of India
-Interpublic Group of Companies Inc;IPG;NYSE Consolidated
-Takeda Pharmaceutical Co Ltd;4502.T;Tokyo Stock Exchange
-Infosys Ltd;INFY.NS;National Stock Exchange of India
-First Horizon Corp;FHN;NYSE Consolidated
-Bayerische Motoren Werke AG;BMWG.DE;Xetra
-Beijing ZZNodeTechnologies Co Ltd;003007.SZ;Shenzhen Stock Exchange
-Sany Heavy Industry Co Ltd;600031.SS;Shanghai Stock Exchange
-Gansu Jingang Solar Co Ltd;300093.SZ;Shenzhen Stock Exchange
-Semiconductor Manufacturing International Corp;0981.HK;The Stock Exchange of Hong Kong Ltd
-Uni President Low Carbon Technology Xinjiang Co Ltd;600506.SS;Shanghai Stock Exchange
-Shockwave Medical Inc;SWAV.O;NASDAQ Global Select Consolidated
-Boston Properties Inc;BXP;NYSE Consolidated
-IONQ Inc;IONQ.K;NYSE Consolidated
-B3 SA Brasil Bolsa Balcao;B3SA3.SA;BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
-Canadian Imperial Bank of Commerce;CM.TO;The Toronto Stock Exchange
-Innovative Medical Management Co Ltd;002173.SZ;Shenzhen Stock Exchange
-Full Truck Alliance Co Ltd;YMM;NYSE Consolidated
-Japan Post Holdings Co Ltd;6178.T;Tokyo Stock Exchange
-Masco Corp;MAS;NYSE Consolidated
-Kimco Realty Corp;KIM;NYSE Consolidated
-Shenzhen Mindray Bio-Medical Electronics Co Ltd;300760.SZ;Shenzhen Stock Exchange
-Iron Mountain Inc;IRM;NYSE Consolidated
+Issuer,RIC,Exchange
+Tesla Inc,TSLA.O,NASDAQ Global Select Consolidated
+NVIDIA Corp,NVDA.O,NASDAQ Global Select Consolidated
+Microsoft Corp,MSFT.O,NASDAQ Global Select Consolidated
+Apple Inc,AAPL.O,NASDAQ Global Select Consolidated
+Amazon.com Inc,AMZN.O,NASDAQ Global Select Consolidated
+Advanced Micro Devices Inc,AMD.O,NASDAQ Global Select Consolidated
+Meta Platforms Inc,META.O,NASDAQ Global Select Consolidated
+Berkshire Hathaway Inc,BRKa,NYSE Consolidated
+Alphabet Inc,GOOGL.O,NASDAQ Global Select Consolidated
+Alibaba Group Holding Ltd,BABA.K,NYSE Consolidated
+Lasertec Corp,6920.T,Tokyo Stock Exchange
+Broadcom Inc,AVGO.O,NASDAQ Global Select Consolidated
+Walmart Inc,WMT,NYSE Consolidated
+Intel Corp,INTC.O,NASDAQ Global Select Consolidated
+Palo Alto Networks Inc,PANW.O,NASDAQ Global Select Consolidated
+Visa Inc,V,NYSE Consolidated
+Exxon Mobil Corp,XOM,NYSE Consolidated
+Cisco Systems Inc,CSCO.O,NASDAQ Global Select Consolidated
+Eli Lilly and Co,LLY,NYSE Consolidated
+Netflix Inc,NFLX.O,NASDAQ Global Select Consolidated
+Target Corp,TGT,NYSE Consolidated
+Palantir Technologies Inc,PLTR.K,NYSE Consolidated
+Chevron Corp,CVX,NYSE Consolidated
+Applied Materials Inc,AMAT.O,NASDAQ Global Select Consolidated
+Adobe Inc,ADBE.O,NASDAQ Global Select Consolidated
+Uber Technologies Inc,UBER.K,NYSE Consolidated
+Boeing Co,BA,NYSE Consolidated
+UnitedHealth Group Inc,UNH,NYSE Consolidated
+Walt Disney Co,DIS,NYSE Consolidated
+Bank of America Corp,BAC,NYSE Consolidated
+Qualcomm Inc,QCOM.O,NASDAQ Global Select Consolidated
+Tencent Holdings Ltd,0700.HK,The Stock Exchange of Hong Kong Ltd
+JPMorgan Chase & Co,JPM,NYSE Consolidated
+Procter & Gamble Co,PG,NYSE Consolidated
+Costco Wholesale Corp,COST.O,NASDAQ Global Select Consolidated
+Mastercard Inc,MA,NYSE Consolidated
+Johnson & Johnson,JNJ,NYSE Consolidated
+Home Depot Inc,HD,NYSE Consolidated
+Coinbase Global Inc,COIN.O,NASDAQ Global Select Consolidated
+Pfizer Inc,PFE,NYSE Consolidated
+Salesforce Inc,CRM,NYSE Consolidated
+Thermo Fisher Scientific Inc,TMO,NYSE Consolidated
+Texas Instruments Inc,TXN.O,NASDAQ Global Select Consolidated
+PDD Holdings Inc,PDD.O,NASDAQ Global Select Consolidated
+Micron Technology Inc,MU.O,NASDAQ Global Select Consolidated
+PepsiCo Inc,PEP.O,NASDAQ Global Select Consolidated
+McDonald's Corp,MCD,NYSE Consolidated
+Starbucks Corp,SBUX.O,NASDAQ Global Select Consolidated
+Vertex Pharmaceuticals Inc,VRTX.O,NASDAQ Global Select Consolidated
+TJX Companies Inc,TJX,NYSE Consolidated
+Super Micro Computer Inc,SMCI.O,NASDAQ Global Select Consolidated
+Coca-Cola Co,KO,NYSE Consolidated
+Bristol-Myers Squibb Co,BMY,NYSE Consolidated
+Mitsubishi UFJ Financial Group Inc,8306.T,Tokyo Stock Exchange
+Verizon Communications Inc,VZ,NYSE Consolidated
+Merck & Co Inc,MRK,NYSE Consolidated
+Danaher Corp,DHR,NYSE Consolidated
+Citigroup Inc,C,NYSE Consolidated
+Nike Inc,NKE,NYSE Consolidated
+Samsung Electronics Co Ltd,005930.KS,Korea Exchange - KSE
+Seres Group Co Ltd,601127.SS,Shanghai Stock Exchange
+Booking Holdings Inc,BKNG.O,NASDAQ Global Select Consolidated
+Oracle Corp,ORCL.K,NYSE Consolidated
+PayPal Holdings Inc,PYPL.O,NASDAQ Global Select Consolidated
+Goldman Sachs Group Inc,GS,NYSE Consolidated
+Caterpillar Inc,CAT,NYSE Consolidated
+Shopify Inc,SHOP.K,NYSE Consolidated
+Abbvie Inc,ABBV.K,NYSE Consolidated
+COL Group Co Ltd,300364.SZ,Shenzhen Stock Exchange
+Deere & Co,DE,NYSE Consolidated
+Intuit Inc,INTU.O,NASDAQ Global Select Consolidated
+ServiceNow Inc,NOW,NYSE Consolidated
+Medtronic PLC,MDT,NYSE Consolidated
+iSoftStone Information Technology Group Co Ltd,301236.SZ,Shenzhen Stock Exchange
+Analog Devices Inc,ADI.O,NASDAQ Global Select Consolidated
+Abbott Laboratories,ABT,NYSE Consolidated
+Lowe's Companies Inc,LOW,NYSE Consolidated
+Amgen Inc,AMGN.O,NASDAQ Global Select Consolidated
+RTX Corp,RTX,NYSE Consolidated
+Intuitive Surgical Inc,ISRG.O,NASDAQ Global Select Consolidated
+Lam Research Corp,LRCX.O,NASDAQ Global Select Consolidated
+Block Inc,SQ,NYSE Consolidated
+Comcast Corp,CMCSA.O,NASDAQ Global Select Consolidated
+Wells Fargo & Co,WFC,NYSE Consolidated
+Inspur Electronic Information Industry Co Ltd,000977.SZ,Shenzhen Stock Exchange
+Ross Stores Inc,ROST.O,NASDAQ Global Select Consolidated
+Nextera Energy Inc,NEE,NYSE Consolidated
+Airbnb Inc,ABNB.O,NASDAQ Global Select Consolidated
+MercadoLibre Inc,MELI.O,NASDAQ Global Select Consolidated
+Accenture PLC,ACN,NYSE Consolidated
+Morgan Stanley,MS,NYSE Consolidated
+United Parcel Service Inc,UPS,NYSE Consolidated
+International Business Machines Corp,IBM,NYSE Consolidated
+Toyota Motor Corp,7203.T,Tokyo Stock Exchange
+Vale SA,VALE3.SA,BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
+Conocophillips,COP,NYSE Consolidated
+Tokyo Electron Ltd,8035.T,Tokyo Stock Exchange
+Burlington Stores Inc,BURL.K,NYSE Consolidated
+Rivian Automotive Inc,RIVN.O,NASDAQ Global Select Consolidated
+Roku Inc,ROKU.O,NASDAQ Global Select Consolidated
+KLA Corp,KLAC.O,NASDAQ Global Select Consolidated
+Linde PLC,LIN.O,NASDAQ Global Select Consolidated
+T-Mobile US Inc,TMUS.O,NASDAQ Global Select Consolidated
+Humana Inc,HUM,NYSE Consolidated
+CrowdStrike Holdings Inc,CRWD.O,NASDAQ Global Select Consolidated
+Marvell Technology Inc,MRVL.O,NASDAQ Global Select Consolidated
+DraftKings Inc,DKNG.O,NASDAQ Global Select Consolidated
+S&P Global Inc,SPGI.K,NYSE Consolidated
+Gap Inc,GPS,NYSE Consolidated
+American Tower Corp,AMT,NYSE Consolidated
+Snowflake Inc.,SNOW.K,NYSE Consolidated
+General Motors Co,GM,NYSE Consolidated
+Enphase Energy Inc,ENPH.O,NASDAQ Global Market Consolidated
+American Express Co,AXP,NYSE Consolidated
+Founder Securities Co Ltd,601901.SS,Shanghai Stock Exchange
+Eoptolink Technology Inc Ltd,300502.SZ,Shenzhen Stock Exchange
+Microstrategy Inc,MSTR.O,NASDAQ Global Select Consolidated
+Schlumberger NV,SLB,NYSE Consolidated
+Lululemon Athletica Inc,LULU.O,NASDAQ Global Select Consolidated
+Gilead Sciences Inc,GILD.O,NASDAQ Global Select Consolidated
+Kweichow Moutai Co Ltd,600519.SS,Shanghai Stock Exchange
+Roblox Corp,RBLX.K,NYSE Consolidated
+Fiserv Inc,FI,NYSE Consolidated
+Illumina Inc,ILMN.O,NASDAQ Global Select Consolidated
+Union Pacific Corp,UNP,NYSE Consolidated
+Chongqing Changan Automobile Co Ltd,000625.SZ,Shenzhen Stock Exchange
+Wayfair Inc,W,NYSE Consolidated
+Unilever PLC,UL,NYSE Consolidated
+Suncor Energy Inc,SU,NYSE Consolidated
+Colgate-Palmolive Co,CL,NYSE Consolidated
+Telus Corp,TU,NYSE Consolidated
+Petroleo Brasileiro SA Petrobras,PBR,NYSE Consolidated
+NovaGold Resources Inc,NG,NYSE American Consolidated
+Royal Bank of Canada,RY,NYSE Consolidated
+Canadian Pacific Kansas City Ltd,CP,NYSE Consolidated
+Petroleo Brasileiro SA Petrobras,PETR4.SA,BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
+Dexcom Inc,DXCM.O,NASDAQ Global Select Consolidated
+BlackRock Inc,BLK,NYSE Consolidated
+Cigna Group,CI,NYSE Consolidated
+Pioneer Natural Resources Co,PXD,NYSE Consolidated
+General Electric Co,GE,NYSE Consolidated
+Occidental Petroleum Corp,OXY,NYSE Consolidated
+DoorDash Inc,DASH.O,NASDAQ Global Select Consolidated
+Marathon Digital Holdings Inc,MARA.O,NASDAQ Capital Market Consolidated
+Elevance Health Inc,ELV,NYSE Consolidated
+Expedia Group Inc,EXPE.O,NASDAQ Global Select Consolidated
+HCA Healthcare Inc,HCA,NYSE Consolidated
+Honeywell International Inc,HON.O,NASDAQ Global Select Consolidated
+Mckesson Corp,MCK,NYSE Consolidated
+Becton Dickinson and Co,BDX,NYSE Consolidated
+Zoom Video Communications Inc,ZM.O,NASDAQ Global Select Consolidated
+Jiangsu Hoperun Software Co Ltd,300339.SZ,Shenzhen Stock Exchange
+Charles Schwab Corp,SCHW.K,NYSE Consolidated
+Eaton Corporation PLC,ETN,NYSE Consolidated
+Lockheed Martin Corp,LMT,NYSE Consolidated
+Ford Motor Co,F,NYSE Consolidated
+O'Reilly Automotive Inc,ORLY.O,NASDAQ Global Select Consolidated
+CVS Health Corp,CVS,NYSE Consolidated
+NXP Semiconductors NV,NXPI.O,NASDAQ Global Select Consolidated
+Newmont Corporation,NEM,NYSE Consolidated
+Baidu Inc,BIDU.O,NASDAQ Global Select Consolidated
+Renesas Electronics Corp,6723.T,Tokyo Stock Exchange
+CSX Corp,CSX.O,NASDAQ Global Select Consolidated
+Synopsys Inc,SNPS.O,NASDAQ Global Select Consolidated
+Mondelez International Inc,MDLZ.O,NASDAQ Global Select Consolidated
+Macy's Inc,M,NYSE Consolidated
+AT&T Inc,T,NYSE Consolidated
+Carnival Corp,CCL,NYSE Consolidated
+Meituan,3690.HK,The Stock Exchange of Hong Kong Ltd
+Chipotle Mexican Grill Inc,CMG,NYSE Consolidated
+Nu Holdings Ltd,NU,NYSE Consolidated
+Marathon Petroleum Corp,MPC,NYSE Consolidated
+Zhongji Innolight Co Ltd,300308.SZ,Shenzhen Stock Exchange
+Contemporary Amperex Technology Co Ltd,300750.SZ,Shenzhen Stock Exchange
+Freeport-McMoRan Inc,FCX,NYSE Consolidated
+EOG Resources Inc,EOG,NYSE Consolidated
+Advantest Corp,6857.T,Tokyo Stock Exchange
+Bayer AG,BAYGn.DE,Xetra
+Sumitomo Mitsui Financial Group Inc,8316.T,Tokyo Stock Exchange
+Microchip Technology Inc,MCHP.O,NASDAQ Global Select Consolidated
+Mettler-Toledo International Inc,MTD,NYSE Consolidated
+Sherwin-Williams Co,SHW,NYSE Consolidated
+Sea Ltd,SE,NYSE Consolidated
+Progressive Corp,PGR,NYSE Consolidated
+OFILM Group Co Ltd,002456.SZ,Shenzhen Stock Exchange
+ASML Holding NV,ASML.AS,Euronext Amsterdam
+China Bester Group Telecom Co Ltd,603220.SS,Shanghai Stock Exchange
+Canadian Natural Resources Ltd,CNQ.TO,The Toronto Stock Exchange
+Air Products and Chemicals Inc,APD,NYSE Consolidated
+Datadog Inc,DDOG.O,NASDAQ Global Select Consolidated
+Agilent Technologies Inc,A,NYSE Consolidated
+Prologis Inc,PLD,NYSE Consolidated
+3M Co,MMM,NYSE Consolidated
+Xiaomi Corp,1810.HK,The Stock Exchange of Hong Kong Ltd
+Cadence Design Systems Inc,CDNS.O,NASDAQ Global Select Consolidated
+Philip Morris International Inc,PM,NYSE Consolidated
+SoftBank Group Corp,9984.T,Tokyo Stock Exchange
+Chubb Ltd,CB,NYSE Consolidated
+Devon Energy Corp,DVN,NYSE Consolidated
+Phillips 66,PSX,NYSE Consolidated
+Charter Communications Inc,CHTR.O,NASDAQ Global Select Consolidated
+NIO Inc,NIO,NYSE Consolidated
+Boston Scientific Corp,BSX,NYSE Consolidated
+Best Buy Co Inc,BBY,NYSE Consolidated
+Marsh & McLennan Companies Inc,MMC,NYSE Consolidated
+Hess Corp,HES,NYSE Consolidated
+Automatic Data Processing Inc,ADP.O,NASDAQ Global Select Consolidated
+Stryker Corp,SYK,NYSE Consolidated
+Autozone Inc,AZO,NYSE Consolidated
+Albemarle Corp,ALB,NYSE Consolidated
+United Rentals Inc,URI,NYSE Consolidated
+ON Semiconductor Corp,ON.O,NASDAQ Global Select Consolidated
+Moody's Corp,MCO,NYSE Consolidated
+Monster Beverage Corp,MNST.O,NASDAQ Global Select Consolidated
+DICK'S Sporting Goods Inc,DKS,NYSE Consolidated
+WenYi Trinity Technology Co Ltd,600520.SS,Shanghai Stock Exchange
+MongoDB Inc,MDB.O,NASDAQ Global Market Consolidated
+Shanghai Zhangjiang Hi-Tech Park Development Co Ltd,600895.SS,Shanghai Stock Exchange
+LONGi Green Energy Technology Co Ltd,601012.SS,Shanghai Stock Exchange
+Valero Energy Corp,VLO,NYSE Consolidated
+General Mills Inc,GIS,NYSE Consolidated
+American Airlines Group Inc,AAL.O,NASDAQ Global Select Consolidated
+Suncor Energy Inc,SU.TO,The Toronto Stock Exchange
+FedEx Corp,FDX,NYSE Consolidated
+Insulet Corp,PODD.O,NASDAQ Global Select Consolidated
+Aon PLC,AON,NYSE Consolidated
+C3.ai Inc,AI,NYSE Consolidated
+Chengdu Hi-tech Development Co Ltd,000628.SZ,Shenzhen Stock Exchange
+Dollar General Corp,DG,NYSE Consolidated
+Anhui Jianghuai Automobile Group Corp Ltd,600418.SS,Shanghai Stock Exchange
+First Solar Inc,FSLR.O,NASDAQ Global Select Consolidated
+Guangdong Advertising Group Co Ltd,002400.SZ,Shenzhen Stock Exchange
+Sichuan Changhong Electric Co Ltd,600839.SS,Shanghai Stock Exchange
+Realty Income Corp,O,NYSE Consolidated
+Royal Bank of Canada,RY.TO,The Toronto Stock Exchange
+Trade Desk Inc,TTD.O,NASDAQ Global Market Consolidated
+US Bancorp,USB,NYSE Consolidated
+Arista Networks Inc,ANET.K,NYSE Consolidated
+Affirm Holdings Inc,AFRM.O,NASDAQ Global Select Consolidated
+Siemens AG,SIEGn.DE,Xetra
+Altria Group Inc,MO,NYSE Consolidated
+CRISPR Therapeutics AG,CRSP.O,NASDAQ Global Market Consolidated
+Regeneron Pharmaceuticals Inc,REGN.O,NASDAQ Global Select Consolidated
+Fortinet Inc,FTNT.O,NASDAQ Global Select Consolidated
+SoFi Technologies Inc,SOFI.O,NASDAQ Global Select Consolidated
+Exelon Corp,EXC.O,NASDAQ Global Select Consolidated
+eBay Inc,EBAY.O,NASDAQ Global Select Consolidated
+CME Group Inc,CME.O,NASDAQ Global Select Consolidated
+China International Capital Corp Ltd,601995.SS,Shanghai Stock Exchange
+Ulta Beauty Inc,ULTA.O,NASDAQ Global Select Consolidated
+Kunlun Tech Co Ltd,300418.SZ,Shenzhen Stock Exchange
+Estee Lauder Companies Inc,EL,NYSE Consolidated
+Celsius Holdings Inc,CELH.O,NASDAQ Capital Market Consolidated
+Talkweb Information System Co Ltd,002261.SZ,Shenzhen Stock Exchange
+Kenvue Inc,KVUE.K,NYSE Consolidated
+PG&E Corp,PCG,NYSE Consolidated
+EmbedWay Technologies Shanghai Corp,603496.SS,Shanghai Stock Exchange
+Williams-Sonoma Inc,WSM,NYSE Consolidated
+Fast Retailing Co Ltd,9983.T,Tokyo Stock Exchange
+Arm Holdings PLC,ARM.O,NASDAQ Global Select Consolidated
+Pinterest Inc,PINS.K,NYSE Consolidated
+ZTE Corp,000063.SZ,Shenzhen Stock Exchange
+Autodesk Inc,ADSK.O,NASDAQ Global Select Consolidated
+Delta Air Lines Inc,DAL,NYSE Consolidated
+Zscaler Inc,ZS.O,NASDAQ Global Select Consolidated
+Dell Technologies Inc,DELL.K,NYSE Consolidated
+Bank of New York Mellon Corp,BK,NYSE Consolidated
+East Money Information Co Ltd,300059.SZ,Shenzhen Stock Exchange
+Diamondback Energy Inc,FANG.O,NASDAQ Global Select Consolidated
+Xilong Scientific Co Ltd,002584.SZ,Shenzhen Stock Exchange
+Duke Energy Corp,DUK,NYSE Consolidated
+Zoetis Inc,ZTS,NYSE Consolidated
+Splunk Inc,SPLK.O,NASDAQ Global Select Consolidated
+Disco Corp,6146.T,Tokyo Stock Exchange
+GNI Group Ltd,2160.T,Tokyo Stock Exchange
+Fidelity National Information Services Inc,FIS,NYSE Consolidated
+Enbridge Inc,ENB.TO,The Toronto Stock Exchange
+Blackstone Inc,BX,NYSE Consolidated
+Crown Castle Inc,CCI,NYSE Consolidated
+American Electric Power Company Inc,AEP.O,NASDAQ Global Select Consolidated
+Cencora Inc,COR,NYSE Consolidated
+Shannon Semiconductor Technology Co Ltd,300475.SZ,Shenzhen Stock Exchange
+Edwards Lifesciences Corp,EW,NYSE Consolidated
+Royal Caribbean Cruises Ltd,RCL,NYSE Consolidated
+LVMH Moet Hennessy Louis Vuitton SE,LVMH.PA,Euronext Paris
+DR Horton Inc,DHI,NYSE Consolidated
+Trane Technologies PLC,TT,NYSE Consolidated
+iFLYTEK Co Ltd,002230.SZ,Shenzhen Stock Exchange
+Castech Inc,002222.SZ,Shenzhen Stock Exchange
+BAIC BluePark New Energy Technology Co Ltd,600733.SS,Shanghai Stock Exchange
+Electronic Arts Inc,EA.O,NASDAQ Global Select Consolidated
+Norfolk Southern Corp,NSC,NYSE Consolidated
+Dollar Tree Inc,DLTR.O,NASDAQ Global Select Consolidated
+Unity Software Inc,U,NYSE Consolidated
+TotalEnergies SE,TTEF.PA,Euronext Paris
+CRH PLC,CRH,NYSE Consolidated
+TransDigm Group Inc,TDG,NYSE Consolidated
+Ping An Insurance Group Co of China Ltd,601318.SS,Shanghai Stock Exchange
+Workday Inc,WDAY.O,NASDAQ Global Select Consolidated
+Sony Group Corp,6758.T,Tokyo Stock Exchange
+Constellation Brands Inc,STZ,NYSE Consolidated
+Waste Management Inc,WM,NYSE Consolidated
+Kroger Co,KR,NYSE Consolidated
+Sempra,SRE,NYSE Consolidated
+Rockwell Automation Inc,ROK,NYSE Consolidated
+ETSY Inc,ETSY.O,NASDAQ Global Select Consolidated
+Carvana Co,CVNA.K,NYSE Consolidated
+Copart Inc,CPRT.O,NASDAQ Global Select Consolidated
+Marriott International Inc,MAR.O,NASDAQ Global Select Consolidated
+Zimmer Biomet Holdings Inc,ZBH,NYSE Consolidated
+Shenzhen Mason Technologies Co Ltd,002654.SZ,Shenzhen Stock Exchange
+Equinix Inc,EQIX.O,NASDAQ Global Select Consolidated
+Xcel Energy Inc,XEL.O,NASDAQ Global Select Consolidated
+Southern Co,SO,NYSE Consolidated
+HubSpot Inc,HUBS.K,NYSE Consolidated
+Baker Hughes Co,BKR.O,NASDAQ Global Select Consolidated
+Keyence Corp,6861.T,Tokyo Stock Exchange
+Williams Companies Inc,WMB,NYSE Consolidated
+SAP SE,SAPG.DE,Xetra
+Align Technology Inc,ALGN.O,NASDAQ Global Select Consolidated
+Cloudflare Inc,NET,NYSE Consolidated
+Shell PLC,SHEL.L,London Stock Exchange
+HP Inc,HPQ,NYSE Consolidated
+Dominion Energy Inc,D,NYSE Consolidated
+Capital One Financial Corp,COF,NYSE Consolidated
+Truist Financial Corp,TFC,NYSE Consolidated
+SK Hynix Inc,000660.KS,Korea Exchange - KSE
+Guangdong Tloong Technology Group Co Ltd,300063.SZ,Shenzhen Stock Exchange
+Emerson Electric Co,EMR,NYSE Consolidated
+Cardinal Health Inc,CAH,NYSE Consolidated
+Monolithic Power Systems Inc,MPWR.O,NASDAQ Global Select Consolidated
+Hershey Co,HSY,NYSE Consolidated
+Parker-Hannifin Corp,PH,NYSE Consolidated
+Moderna Inc,MRNA.O,NASDAQ Global Select Consolidated
+Riot Platforms Inc,RIOT.O,NASDAQ Capital Market Consolidated
+HDFC Bank Ltd,HDBK.NS,National Stock Exchange of India
+Wuhan P&S Information Technology Co Ltd,300184.SZ,Shenzhen Stock Exchange
+Luxshare Precision Industry Co Ltd,002475.SZ,Shenzhen Stock Exchange
+Seagen Inc,SGEN.O,NASDAQ Global Select Consolidated
+Jiangsu Chuanzhiboke Education Technology Co Ltd,003032.SZ,Shenzhen Stock Exchange
+Vertiv Holdings Co,VRT,NYSE Consolidated
+Keysight Technologies Inc,KEYS.K,NYSE Consolidated
+Northrop Grumman Corp,NOC,NYSE Consolidated
+DBG Technology Co Ltd,300735.SZ,Shenzhen Stock Exchange
+AerCap Holdings NV,AER,NYSE Consolidated
+PNC Financial Services Group Inc,PNC,NYSE Consolidated
+CIG ShangHai Co Ltd,603083.SS,Shanghai Stock Exchange
+IQVIA Holdings Inc,IQV,NYSE Consolidated
+Shanghai Stonehill Technology Co Ltd,002195.SZ,Shenzhen Stock Exchange
+Haima Automobile Co Ltd,000572.SZ,Shenzhen Stock Exchange
+United Airlines Holdings Inc,UAL.O,NASDAQ Global Select Consolidated
+Johnson Controls International PLC,JCI,NYSE Consolidated
+Genimous Technology Co Ltd,000676.SZ,Shenzhen Stock Exchange
+Halliburton Co,HAL,NYSE Consolidated
+Digital China Group Co Ltd,000034.SZ,Shenzhen Stock Exchange
+Shenzhen Topway Video Communication Co Ltd,002238.SZ,Shenzhen Stock Exchange
+Sysco Corp,SYY,NYSE Consolidated
+Kraft Heinz Co,KHC.O,NASDAQ Global Select Consolidated
+Illinois Tool Works Inc,ITW,NYSE Consolidated
+Jiangyin Hengrun Heavy Industries Co Ltd,603985.SS,Shanghai Stock Exchange
+Advance Auto Parts Inc,AAP,NYSE Consolidated
+MetLife Inc,MET,NYSE Consolidated
+Atlassian Corp,TEAM.O,NASDAQ Global Select Consolidated
+Kimberly-Clark Corp,KMB,NYSE Consolidated
+Infineon Technologies AG,IFXGn.DE,Xetra
+BYD Co Ltd,002594.SZ,Shenzhen Stock Exchange
+Biogen Inc,BIIB.O,NASDAQ Global Select Consolidated
+Recruit Holdings Co Ltd,6098.T,Tokyo Stock Exchange
+Wuliangye Yibin Co Ltd,000858.SZ,Shenzhen Stock Exchange
+Kawasaki Kisen Kaisha Ltd,9107.T,Tokyo Stock Exchange
+Nanjing Panda Electronics Co Ltd,600775.SS,Shanghai Stock Exchange
+Hwa Create Corp,300045.SZ,Shenzhen Stock Exchange
+Intercontinental Exchange Inc,ICE,NYSE Consolidated
+Kinder Morgan Inc,KMI,NYSE Consolidated
+General Dynamics Corp,GD,NYSE Consolidated
+Welltower Inc,WELL.K,NYSE Consolidated
+IDEXX Laboratories Inc,IDXX.O,NASDAQ Global Select Consolidated
+Spotify Technology SA,SPOT.K,NYSE Consolidated
+Solaredge Technologies Inc,SEDG.O,NASDAQ Global Select Consolidated
+Shin-Etsu Chemical Co Ltd,4063.T,Tokyo Stock Exchange
+Archer-Daniels-Midland Co,ADM,NYSE Consolidated
+Tractor Supply Co,TSCO.O,NASDAQ Global Select Consolidated
+Marathon Oil Corp,MRO,NYSE Consolidated
+Public Storage,PSA,NYSE Consolidated
+Abercrombie & Fitch Co,ANF,NYSE Consolidated
+Sungrow Power Supply Co Ltd,300274.SZ,Shenzhen Stock Exchange
+Sharetronic Data Technology Co Ltd,300857.SZ,Shenzhen Stock Exchange
+Kohls Corp,KSS,NYSE Consolidated
+Walgreens Boots Alliance Inc,WBA.O,NASDAQ Global Select Consolidated
+Arthur J. Gallagher & Co.,AJG,NYSE Consolidated
+Snap Inc,SNAP.K,NYSE Consolidated
+Carrier Global Corp,CARR.K,NYSE Consolidated
+Mitsubishi Corp,8058.T,Tokyo Stock Exchange
+Shanghai Runda Medical Technology Co Ltd,603108.SS,Shanghai Stock Exchange
+Manulife Financial Corp,MFC.TO,The Toronto Stock Exchange
+Biomarin Pharmaceutical Inc,BMRN.O,NASDAQ Global Select Consolidated
+JD.Com Inc,9618.HK,The Stock Exchange of Hong Kong Ltd
+Verisk Analytics Inc,VRSK.O,NASDAQ Global Select Consolidated
+Amphenol Corp,APH,NYSE Consolidated
+Entergy Corp,ETR,NYSE Consolidated
+Beijing Transtrue Technology Inc,002771.SZ,Shenzhen Stock Exchange
+Xpeng Inc,XPEV.K,NYSE Consolidated
+Cheniere Energy Inc,LNG,NYSE American Consolidated
+Motorola Solutions Inc,MSI,NYSE Consolidated
+Doosan Robotics Inc,454910.KS,Korea Exchange - KSE
+Cognizant Technology Solutions Corp,CTSH.O,NASDAQ Global Select Consolidated
+BILL Holdings Inc,BILL.K,NYSE Consolidated
+Foshan Yowant Technology Co Ltd,002291.SZ,Shenzhen Stock Exchange
+Huagong Tech Co Ltd,000988.SZ,Shenzhen Stock Exchange
+Hilton Worldwide Holdings Inc,HLT,NYSE Consolidated
+Cintas Corp,CTAS.O,NASDAQ Global Select Consolidated
+Aptiv PLC,APTV.K,NYSE Consolidated
+China Galaxy Securities Co Ltd,601881.SS,Shanghai Stock Exchange
+Cover Corp,5253.T,Tokyo Stock Exchange
+Builders FirstSource Inc,BLDR.K,NYSE Consolidated
+Mizuho Financial Group Inc,8411.T,Tokyo Stock Exchange
+Shijiazhuang ChangShan BeiMing Technology Co Ltd,000158.SZ,Shenzhen Stock Exchange
+China Greatwall Technology Group Co Ltd,000066.SZ,Shenzhen Stock Exchange
+Republic Services Inc,RSG,NYSE Consolidated
+Clorox Co,CLX,NYSE Consolidated
+Bajaj Finance Ltd,BJFN.NS,National Stock Exchange of India
+NetEase Inc,NTES.O,NASDAQ Global Select Consolidated
+Dow Inc,DOW,NYSE Consolidated
+Ningbo Shenglong Automotive Powertrain System Co Ltd,603178.SS,Shanghai Stock Exchange
+Teck Resources Ltd,TECK.K,NYSE Consolidated
+Keurig Dr Pepper Inc,KDP.O,NASDAQ Global Select Consolidated
+Lennar Corp,LEN,NYSE Consolidated
+BJ's Wholesale Club Holdings Inc,BJ,NYSE Consolidated
+LyondellBasell Industries NV,LYB,NYSE Consolidated
+Deckers Outdoor Corp,DECK.K,NYSE Consolidated
+Tianqi Lithium Corp,002466.SZ,Shenzhen Stock Exchange
+Veeva Systems Inc,VEEV.K,NYSE Consolidated
+Equifax Inc,EFX,NYSE Consolidated
+ONEOK Inc,OKE,NYSE Consolidated
+Paramount Global,PARA.O,NASDAQ Global Select Consolidated
+Great-West Lifeco Inc,GWO.TO,The Toronto Stock Exchange
+Digital Realty Trust Inc,DLR,NYSE Consolidated
+American International Group Inc,AIG,NYSE Consolidated
+Eversource Energy,ES,NYSE Consolidated
+AIA Group Ltd,1299.HK,The Stock Exchange of Hong Kong Ltd
+Take-Two Interactive Software Inc,TTWO.O,NASDAQ Global Select Consolidated
+Tatwah Smartech Co Ltd,002512.SZ,Shenzhen Stock Exchange
+Roper Technologies Inc,ROP.O,NASDAQ Global Select Consolidated
+Beijing Oriental Yuhong Waterproof Technology Co Ltd,002271.SZ,Shenzhen Stock Exchange
+Domino's Pizza Inc,DPZ,NYSE Consolidated
+Paychex Inc,PAYX.O,NASDAQ Global Select Consolidated
+NRG Energy Inc,NRG,NYSE Consolidated
+Warner Bros Discovery Inc,WBD.O,NASDAQ Global Select Consolidated
+Posco Holdings Inc,005490.KS,Korea Exchange - KSE
+EQT Corp,EQT,NYSE Consolidated
+Gartner Inc,IT,NYSE Consolidated
+Mechel PAO,MTLR.MM,Moscow Interbank Currency Exchange (MICEX)
+L3Harris Technologies Inc,LHX,NYSE Consolidated
+Kuaishou Technology,1024.HK,The Stock Exchange of Hong Kong Ltd
+Allstate Corp,ALL,NYSE Consolidated
+Dawning Information Industry Co Ltd,603019.SS,Shanghai Stock Exchange
+Sinodata Co Ltd,002657.SZ,Shenzhen Stock Exchange
+Foxconn Industrial Internet Co Ltd,601138.SS,Shanghai Stock Exchange
+Tonghua Golden-Horse Pharmaceutical Industry Co Ltd,000766.SZ,Shenzhen Stock Exchange
+Norwegian Cruise Line Holdings Ltd,NCLH.K,NYSE Consolidated
+NiSource Inc,NI,NYSE Consolidated
+Wynn Resorts Ltd,WYNN.O,NASDAQ Global Select Consolidated
+Li Auto Inc,2015.HK,The Stock Exchange of Hong Kong Ltd
+HSBC Holdings PLC,HSBA.L,London Stock Exchange
+Old Dominion Freight Line Inc,ODFL.O,NASDAQ Global Select Consolidated
+Duolun Technology Corp Ltd,603528.SS,Shanghai Stock Exchange
+CITIC Securities Co Ltd,600030.SS,Shanghai Stock Exchange
+Travelers Companies Inc,TRV,NYSE Consolidated
+CF Industries Holdings Inc,CF,NYSE Consolidated
+elf Beauty Inc,ELF,NYSE Consolidated
+China Merchants Bank Co Ltd,600036.SS,Shanghai Stock Exchange
+Mitsubishi Heavy Industries Ltd,7011.T,Tokyo Stock Exchange
+Panasonic Holdings Corp,6752.T,Tokyo Stock Exchange
+VICI Properties Inc,VICI.K,NYSE Consolidated
+Aflac Inc,AFL,NYSE Consolidated
+BlueFocus Intelligent Communications Group Co Ltd,300058.SZ,Shenzhen Stock Exchange
+Twilio Inc,TWLO.K,NYSE Consolidated
+Itau Unibanco Holding SA,ITUB4.SA,BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
+Energy Transfer LP,ET,NYSE Consolidated
+Paycom Software Inc,PAYC.K,NYSE Consolidated
+Pacific Securities Co Ltd,601099.SS,Shanghai Stock Exchange
+MGM Resorts International,MGM,NYSE Consolidated
+Laboratory Corporation of America Holdings,LH,NYSE Consolidated
+Apollo Global Management Inc,APO,NYSE Consolidated
+Lamb Weston Holdings Inc,LW,NYSE Consolidated
+Live Nation Entertainment Inc,LYV,NYSE Consolidated
+TE Connectivity Ltd,TEL,NYSE Consolidated
+Monday.Com Ltd,MNDY.O,NASDAQ Global Select Consolidated
+WW Grainger Inc,GWW,NYSE Consolidated
+China Science Publishing & Media Ltd,601858.SS,Shanghai Stock Exchange
+Honda Motor Co Ltd,7267.T,Tokyo Stock Exchange
+Socionext Inc,6526.T,Tokyo Stock Exchange
+Cinda Securities Co Ltd,601059.SS,Shanghai Stock Exchange
+Match Group Inc,MTCH.O,NASDAQ Global Select Consolidated
+American Eagle Outfitters Inc,AEO,NYSE Consolidated
+Paccar Inc,PCAR.O,NASDAQ Global Select Consolidated
+Dynatrace Inc,DT,NYSE Consolidated
+Zhuhai Aerospace Microchips Science & Technology Co Ltd,300053.SZ,Shenzhen Stock Exchange
+Extra Space Storage Inc,EXR,NYSE Consolidated
+PPL Corp,PPL,NYSE Consolidated
+Shenzhen Fastprint Circuit Tech Co Ltd,002436.SZ,Shenzhen Stock Exchange
+Las Vegas Sands Corp,LVS,NYSE Consolidated
+Centene Corp,CNC,NYSE Consolidated
+Ferguson PLC,FERG.K,NYSE Consolidated
+Public Service Enterprise Group Inc,PEG,NYSE Consolidated
+Bath & Body Works Inc,BBWI.K,NYSE Consolidated
+Fox Corp,FOXA.O,NASDAQ Global Select Consolidated
+Goertek Inc,002241.SZ,Shenzhen Stock Exchange
+Qiming Information Technology Co Ltd,002232.SZ,Shenzhen Stock Exchange
+GE Healthcare Technologies Inc,GEHC.O,NASDAQ Global Select Consolidated
+Duolingo Inc,DUOL.O,NASDAQ Global Select Consolidated
+Posco Future M Co Ltd,003670.KS,Korea Exchange - KSE
+Ganfeng Lithium Group Co Ltd,002460.SZ,Shenzhen Stock Exchange
+Western Digital Corp,WDC.O,NASDAQ Global Select Consolidated
+Resmed Inc,RMD,NYSE Consolidated
+Jacobs Solutions Inc,J,NYSE Consolidated
+WEC Energy Group Inc,WEC,NYSE Consolidated
+CDW Corp,CDW.O,NASDAQ Global Select Consolidated
+Southwest Airlines Co,LUV,NYSE Consolidated
+American Water Works Company Inc,AWK,NYSE Consolidated
+Willis Towers Watson PLC,WTW.O,NASDAQ Global Select Consolidated
+Hubbell Inc,HUBB.K,NYSE Consolidated
+Martin Marietta Materials Inc,MLM,NYSE Consolidated
+Globant SA,GLOB.K,NYSE Consolidated
+Allianz SE,ALVG.DE,Xetra
+Constellation Energy Corp,CEG.O,NASDAQ Global Select Consolidated
+Shenzhen Wongtee International Enterprise Co Ltd,000056.SZ,Shenzhen Stock Exchange
+PPG Industries Inc,PPG,NYSE Consolidated
+Winner Technology Co Inc,300609.SZ,Shenzhen Stock Exchange
+KKR & Co Inc,KKR,NYSE Consolidated
+Japan Tobacco Inc,2914.T,Tokyo Stock Exchange
+People.cn Co Ltd,603000.SS,Shanghai Stock Exchange
+GigaDevice Semiconductor Inc,603986.SS,Shanghai Stock Exchange
+Arch Capital Group Ltd,ACGL.O,NASDAQ Global Select Consolidated
+RH,RH,NYSE Consolidated
+Schneider Electric SE,SCHN.PA,Euronext Paris
+Consolidated Edison Inc,ED,NYSE Consolidated
+Quanta Services Inc,PWR,NYSE Consolidated
+TransUnion,TRU,NYSE Consolidated
+Nintendo Co Ltd,7974.T,Tokyo Stock Exchange
+Itochu Corp,8001.T,Tokyo Stock Exchange
+Expeditors International of Washington Inc,EXPD.K,NYSE Consolidated
+Fastenal Co,FAST.O,NASDAQ Global Select Consolidated
+Edifier Technology Co Ltd,002351.SZ,Shenzhen Stock Exchange
+Wuxi Taiji Industry Ltd Corp,600667.SS,Shanghai Stock Exchange
+Suzhou TFC Optical Communication Co Ltd,300394.SZ,Shenzhen Stock Exchange
+Keli Motor Group Co Ltd,002892.SZ,Shenzhen Stock Exchange
+Dupont De Nemours Inc,DD,NYSE Consolidated
+Global Payments Inc,GPN,NYSE Consolidated
+Jabil Inc,JBL,NYSE Consolidated
+Targa Resources Corp,TRGP.K,NYSE Consolidated
+PENN Entertainment Inc,PENN.O,NASDAQ Global Select Consolidated
+Hormel Foods Corp,HRL,NYSE Consolidated
+Ecolab Inc,ECL,NYSE Consolidated
+WuXi AppTec Co Ltd,603259.SS,Shanghai Stock Exchange
+Tokio Marine Holdings Inc,8766.T,Tokyo Stock Exchange
+Waters Corp,WAT,NYSE Consolidated
+SI-TECH Information Technology Co Ltd,300608.SZ,Shenzhen Stock Exchange
+China Tourism Group Duty Free Corp Ltd,601888.SS,Shanghai Stock Exchange
+Lyft Inc,LYFT.O,NASDAQ Global Select Consolidated
+China Vanke Co Ltd,000002.SZ,Shenzhen Stock Exchange
+Everest Group Ltd,EG,NYSE Consolidated
+Plug Power Inc,PLUG.O,NASDAQ Capital Market Consolidated
+Entegris Inc,ENTG.O,NASDAQ Global Select Consolidated
+Shenzhen Sunway Communication Co Ltd,300136.SZ,Shenzhen Stock Exchange
+Pultegroup Inc,PHM,NYSE Consolidated
+Ningbo Tianlong Electronics Co Ltd,603266.SS,Shanghai Stock Exchange
+Unisplendour Corp Ltd,000938.SZ,Shenzhen Stock Exchange
+Simon Property Group Inc,SPG,NYSE Consolidated
+Veralto Corp,VLTO.K,NYSE Consolidated
+Nucor Corp,NUE,NYSE Consolidated
+Unilever PLC,ULVR.L,London Stock Exchange
+ING Groep NV,INGA.AS,Euronext Amsterdam
+Baxter International Inc,BAX,NYSE Consolidated
+KeyCorp,KEY,NYSE Consolidated
+Zhewen Interactive Group Co Ltd,600986.SS,Shanghai Stock Exchange
+Vulcan Materials Co,VMC,NYSE Consolidated
+Skyworks Solutions Inc,SWKS.O,NASDAQ Global Select Consolidated
+Coterra Energy Inc,CTRA.K,NYSE Consolidated
+SBA Communications Corp,SBAC.O,NASDAQ Global Select Consolidated
+Sanofi SA,SASY.PA,Euronext Paris
+J M Smucker Co,SJM,NYSE Consolidated
+Hologic Inc,HOLX.O,NASDAQ Global Select Consolidated
+ICICI Bank Ltd,ICBK.NS,National Stock Exchange of India
+AMETEK Inc,AME,NYSE Consolidated
+Southwestern Energy Co,SWN,NYSE Consolidated
+Troy Information Technology Co Ltd,300366.SZ,Shenzhen Stock Exchange
+LPL Financial Holdings Inc,LPLA.O,NASDAQ Global Select Consolidated
+Kellanova,K,NYSE Consolidated
+Ameriprise Financial Inc,AMP,NYSE Consolidated
+Tsinghua Tongfang Co Ltd,600100.SS,Shanghai Stock Exchange
+NAURA Technology Group Co Ltd,002371.SZ,Shenzhen Stock Exchange
+Toronto-Dominion Bank,TD.TO,The Toronto Stock Exchange
+AstraZeneca PLC,AZN.L,London Stock Exchange
+China Yangtze Power Co Ltd,600900.SS,Shanghai Stock Exchange
+Floor & Decor Holdings Inc,FND,NYSE Consolidated
+Shanghai Yanhua Smartech Group Co Ltd,002178.SZ,Shenzhen Stock Exchange
+BP PLC,BP.L,London Stock Exchange
+Ares Management Corp,ARES.K,NYSE Consolidated
+Ameren Corp,AEE,NYSE Consolidated
+Changzhou Tronly New Electronic Materials Co Ltd,300429.SZ,Shenzhen Stock Exchange
+Beijing E-hualu Information Technology Co Ltd,300212.SZ,Shenzhen Stock Exchange
+Hongbo Co Ltd,002229.SZ,Shenzhen Stock Exchange
+KAISA JiaYun Technology Inc,300242.SZ,Shenzhen Stock Exchange
+Zijin Mining Group Co Ltd,601899.SS,Shanghai Stock Exchange
+Yum! Brands Inc,YUM,NYSE Consolidated
+APA Corp (US),APA.O,NASDAQ Global Select Consolidated
+SMC Corp,6273.T,Tokyo Stock Exchange
+Mitsui & Co Ltd,8031.T,Tokyo Stock Exchange
+Five9 Inc,FIVN.O,NASDAQ Global Market Consolidated
+Hebei Changshan Biochemical Pharmaceutical Co Ltd,300255.SZ,Shenzhen Stock Exchange
+Church & Dwight Co Inc,CHD,NYSE Consolidated
+Hong Kong Exchanges and Clearing Ltd,0388.HK,The Stock Exchange of Hong Kong Ltd
+Global-E Online Ltd,GLBE.O,NASDAQ Global Select Consolidated
+Banco Santander SA,SAN.MC,BME SPANISH EXCHANGE
+Symbotic Inc,SYM.O,NASDAQ Global Market Consolidated
+Jiangxi Special Electric Motor Co Ltd,002176.SZ,Shenzhen Stock Exchange
+Upstart Holdings Inc,UPST.O,NASDAQ Global Select Consolidated
+VF Corp,VFC,NYSE Consolidated
+Akamai Technologies Inc,AKAM.O,NASDAQ Global Select Consolidated
+Mercedes Benz Group AG,MBGn.DE,Xetra
+Zhejiang Shibao Co Ltd,002703.SZ,Shenzhen Stock Exchange
+Luzhou Laojiao Co Ltd,000568.SZ,Shenzhen Stock Exchange
+Hybio Pharmaceutical Co Ltd,300199.SZ,Shenzhen Stock Exchange
+China Reform Health Management and Services Group Co Ltd,000503.SZ,Shenzhen Stock Exchange
+Tenet Healthcare Corp,THC,NYSE Consolidated
+Huizhou Desay SV Automotive Co Ltd,002920.SZ,Shenzhen Stock Exchange
+DTE Energy Co,DTE,NYSE Consolidated
+Towa Corp,6315.T,Tokyo Stock Exchange
+Quest Diagnostics Inc,DGX,NYSE Consolidated
+Runjian Co Ltd,002929.SZ,Shenzhen Stock Exchange
+Jiangsu Dagang Co Ltd,002077.SZ,Shenzhen Stock Exchange
+Huafon Microfibre Shanghai Co Ltd,300180.SZ,Shenzhen Stock Exchange
+Teradyne Inc,TER.O,NASDAQ Global Select Consolidated
+Capitalonline Data Service Co Ltd,300846.SZ,Shenzhen Stock Exchange
+Vistra Corp,VST,NYSE Consolidated
+Generac Holdings Inc,GNRC.K,NYSE Consolidated
+Corteva Inc,CTVA.K,NYSE Consolidated
+Nippon Telegraph and Telephone Corp,9432.T,Tokyo Stock Exchange
+Shenzhen Kaifa Technology Co Ltd,000021.SZ,Shenzhen Stock Exchange
+Fair Isaac Corp,FICO.K,NYSE Consolidated
+Five Below Inc,FIVE.O,NASDAQ Global Select Consolidated
+Pharmaron Beijing Co Ltd,300759.SZ,Shenzhen Stock Exchange
+WuXi Biologics (Cayman) Inc,2269.HK,The Stock Exchange of Hong Kong Ltd
+Ingersoll Rand Inc,IR,NYSE Consolidated
+Prosus NV,PRX.AS,Euronext Amsterdam
+POCO Holding Co Ltd,300811.SZ,Shenzhen Stock Exchange
+Hewlett Packard Enterprise Co,HPE,NYSE Consolidated
+On Holding AG,ONON.K,NYSE Consolidated
+Fujian Zitian Media Technology Co Ltd,300280.SZ,Shenzhen Stock Exchange
+Shenzhen Sunwin Intelligent Co Ltd,300044.SZ,Shenzhen Stock Exchange
+Verisign Inc,VRSN.O,NASDAQ Global Select Consolidated
+China Wafer Level CSP Co Ltd,603005.SS,Shanghai Stock Exchange
+Ovintiv Inc,OVV,NYSE Consolidated
+CPT Technology Group Co Ltd,000536.SZ,Shenzhen Stock Exchange
+National Grid PLC,NG.L,London Stock Exchange
+Banco do Brasil SA,BBAS3.SA,BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
+West Pharmaceutical Services Inc,WST,NYSE Consolidated
+Changsha Jingjia Microelectronics Co Ltd,300474.SZ,Shenzhen Stock Exchange
+NVR Inc,NVR,NYSE Consolidated
+Accelink Technologies Co Ltd,002281.SZ,Shenzhen Stock Exchange
+Otis Worldwide Corp,OTIS.K,NYSE Consolidated
+Changshu Tianyin Electromechanical Co Ltd,300342.SZ,Shenzhen Stock Exchange
+Carmax Inc,KMX,NYSE Consolidated
+Diageo PLC,DGE.L,London Stock Exchange
+VT Industrial Technology Co Ltd,300707.SZ,Shenzhen Stock Exchange
+L'Oreal SA,OREP.PA,Euronext Paris
+Hoya Corp,7741.T,Tokyo Stock Exchange
+Daikin Industries Ltd,6367.T,Tokyo Stock Exchange
+Futu Holdings Ltd,FUTU.O,NASDAQ Global Market Consolidated
+CoStar Group Inc,CSGP.O,NASDAQ Global Select Consolidated
+Deutsche Bank AG,DBKGn.DE,Xetra
+Cummins Inc,CMI,NYSE Consolidated
+Nissan Motor Co Ltd,7201.T,Tokyo Stock Exchange
+Screen Holdings Co Ltd,7735.T,Tokyo Stock Exchange
+Jiangsu Yoke Technology Co Ltd,002409.SZ,Shenzhen Stock Exchange
+Jiangsu Yawei Machine Tool Co Ltd,002559.SZ,Shenzhen Stock Exchange
+ICON PLC,ICLR.O,NASDAQ Global Select Consolidated
+Japan Post Bank Co Ltd,7182.T,Tokyo Stock Exchange
+Atmos Energy Corp,ATO,NYSE Consolidated
+TCL Zhonghuan Renewable Energy Technology Co Ltd,002129.SZ,Shenzhen Stock Exchange
+Visual China Group Co Ltd,000681.SZ,Shenzhen Stock Exchange
+Avalonbay Communities Inc,AVB,NYSE Consolidated
+Discover Financial Services,DFS,NYSE Consolidated
+Nippon Steel Corp,5401.T,Tokyo Stock Exchange
+China Pacific Insurance Group Co Ltd,601601.SS,Shanghai Stock Exchange
+Yuancheng Environment Co Ltd,603388.SS,Shanghai Stock Exchange
+Bank of Nova Scotia,BNS.TO,The Toronto Stock Exchange
+MSCI Inc,MSCI.K,NYSE Consolidated
+Jiangling Motors Corp Ltd,000550.SZ,Shenzhen Stock Exchange
+Magazine Luiza SA,MGLU3.SA,BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
+Coupang Inc,CPNG.K,NYSE Consolidated
+Ping An Bank Co Ltd,000001.SZ,Shenzhen Stock Exchange
+Crocs Inc,CROX.O,NASDAQ Global Select Consolidated
+UniTTEC Co Ltd,000925.SZ,Shenzhen Stock Exchange
+Mosaic Co,MOS,NYSE Consolidated
+Rio Tinto PLC,RIO.L,London Stock Exchange
+Ajinomoto Co Inc,2802.T,Tokyo Stock Exchange
+Mid-America Apartment Communities Inc,MAA,NYSE Consolidated
+Tianjin Pengling Group Co Ltd,300375.SZ,Shenzhen Stock Exchange
+Toast Inc,TOST.K,NYSE Consolidated
+Reliance Industries Ltd,RELI.NS,National Stock Exchange of India
+J B Hunt Transport Services Inc,JBHT.O,NASDAQ Global Select Consolidated
+GoDaddy Inc,GDDY.K,NYSE Consolidated
+CMS Energy Corp,CMS,NYSE Consolidated
+Dongguan Chitwing Technology Co Ltd,002855.SZ,Shenzhen Stock Exchange
+Jiangsu Lettall Electronic Co Ltd,603629.SS,Shanghai Stock Exchange
+Sunrun Inc,RUN.O,NASDAQ Global Select Consolidated
+Telling Telecommunication Holding Co Ltd,000829.SZ,Shenzhen Stock Exchange
+Enterprise Products Partners LP,EPD,NYSE Consolidated
+Midea Group Co Ltd,000333.SZ,Shenzhen Stock Exchange
+Citizens Financial Group Inc,CFG,NYSE Consolidated
+Sun Life Financial Inc,SLF.TO,The Toronto Stock Exchange
+Yunnan Energy New Material Co Ltd,002812.SZ,Shenzhen Stock Exchange
+Xylem Inc,XYL,NYSE Consolidated
+Xiamen Hongxin Electronics Technology Group Inc,300657.SZ,Shenzhen Stock Exchange
+Epam Systems Inc,EPAM.K,NYSE Consolidated
+Lotus Health Group Co,600186.SS,Shanghai Stock Exchange
+Genuine Parts Co,GPC,NYSE Consolidated
+FirstEnergy Corp,FE,NYSE Consolidated
+Howmet Aerospace Inc,HWM,NYSE Consolidated
+Wolfspeed Inc,WOLF.K,NYSE Consolidated
+XP Inc,XP.O,NASDAQ Global Select Consolidated
+Epoxy Base Electronic Material Corp Ltd,603002.SS,Shanghai Stock Exchange
+Banco Bilbao Vizcaya Argentaria SA,BBVA.MC,BME SPANISH EXCHANGE
+Seagate Technology Holdings PLC,STX.O,NASDAQ Global Select Consolidated
+Beijing Compass Technology Development Co Ltd,300803.SZ,Shenzhen Stock Exchange
+Sunwave Communications Co Ltd,002115.SZ,Shenzhen Stock Exchange
+Sinolink Securities Co Ltd,600109.SS,Shanghai Stock Exchange
+Shenzhen Etmade Automatic Equipment Co Ltd,300812.SZ,Shenzhen Stock Exchange
+CBRE Group Inc,CBRE.K,NYSE Consolidated
+Agricultural Bank of China Ltd,601288.SS,Shanghai Stock Exchange
+China Mobile Ltd,600941.SS,Shanghai Stock Exchange
+Nordstrom Inc,JWN,NYSE Consolidated
+Jiangsu Hengrui Pharmaceuticals Co Ltd,600276.SS,Shanghai Stock Exchange
+Zhejiang Daily Digital Culture Group Co Ltd,600633.SS,Shanghai Stock Exchange
+Campbell Soup Co,CPB,NYSE Consolidated
+China CSSC Holdings Ltd,600150.SS,Shanghai Stock Exchange
+Glencore PLC,GLEN.L,London Stock Exchange
+Lattice Semiconductor Corp,LSCC.O,NASDAQ Global Select Consolidated
+Hartford Financial Services Group Inc,HIG,NYSE Consolidated
+Deutsche Telekom AG,DTEGn.DE,Xetra
+Equity Residential,EQR,NYSE Consolidated
+Suzhou Secote Precision Electronic Co Ltd,603283.SS,Shanghai Stock Exchange
+AMC Entertainment Holdings Inc,AMC,NYSE Consolidated
+Nippon Yusen KK,9101.T,Tokyo Stock Exchange
+Reckitt Benckiser Group PLC,RKT.L,London Stock Exchange
+StoneCo Ltd,STNE.O,NASDAQ Global Select Consolidated
+Hitachi Ltd,6501.T,Tokyo Stock Exchange
+Prio SA,PRIO3.SA,BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
+Airbus SE,AIR.PA,Euronext Paris
+Fortive Corp,FTV,NYSE Consolidated
+Prudential Financial Inc,PRU,NYSE Consolidated
+BOE Technology Group Co Ltd,000725.SZ,Shenzhen Stock Exchange
+Tyson Foods Inc,TSN,NYSE Consolidated
+JA Solar Technology Co Ltd,002459.SZ,Shenzhen Stock Exchange
+Darden Restaurants Inc,DRI,NYSE Consolidated
+Isu Petasys Co Ltd,007660.KS,Korea Exchange - KSE
+Huntington Bancshares Inc,HBAN.O,NASDAQ Global Select Consolidated
+Gen Digital Inc,GEN.O,NASDAQ Global Select Consolidated
+Zhejiang Jinke Tom Culture Industry Co Ltd,300459.SZ,Shenzhen Stock Exchange
+Tyler Technologies Inc,TYL,NYSE Consolidated
+Catalent Inc,CTLT.K,NYSE Consolidated
+Chesapeake Energy Corp,CHK.O,NASDAQ Global Select Consolidated
+Camden Property Trust,CPT,NYSE Consolidated
+CSPC Innovation Pharmaceutical Co Ltd,300765.SZ,Shenzhen Stock Exchange
+Wanhua Chemical Group Co Ltd,600309.SS,Shanghai Stock Exchange
+IReader Technology Co Ltd,603533.SS,Shanghai Stock Exchange
+Hang Zhou Iron & Steel Co Ltd,600126.SS,Shanghai Stock Exchange
+T Rowe Price Group Inc,TROW.O,NASDAQ Global Select Consolidated
+Dalian Zhiyun Automation Co Ltd,300097.SZ,Shenzhen Stock Exchange
+Regions Financial Corp,RF,NYSE Consolidated
+Brown-Forman Corp,BFb,NYSE Consolidated
+Inpex Corp,1605.T,Tokyo Stock Exchange
+Ronglian Group Ltd,002642.SZ,Shenzhen Stock Exchange
+Longzhou Group Co Ltd,002682.SZ,Shenzhen Stock Exchange
+Anshan Senyuan Road & Bridge Co Ltd,300210.SZ,Shenzhen Stock Exchange
+ANSYS Inc,ANSS.O,NASDAQ Global Select Consolidated
+Ball Corp,BALL.K,NYSE Consolidated
+AGNC Investment Corp,AGNC.O,NASDAQ Global Select Consolidated
+Westinghouse Air Brake Technologies Corp,WAB,NYSE Consolidated
+Bank of Montreal,BMO.TO,The Toronto Stock Exchange
+Gree Electric Appliances Inc of Zhuhai,000651.SZ,Shenzhen Stock Exchange
+TongFu Microelectronics Co Ltd,002156.SZ,Shenzhen Stock Exchange
+Synchrony Financial,SYF,NYSE Consolidated
+Evergy Inc,EVRG.O,NASDAQ Global Select Consolidated
+Alcoa Corp,AA,NYSE Consolidated
+Markel Group Inc,MKL,NYSE Consolidated
+Huachuang Yunxin Digital Technology Co Ltd,600155.SS,Shanghai Stock Exchange
+Crown Holdings Inc,CCK,NYSE Consolidated
+TKO Group Holdings Inc,TKO,NYSE Consolidated
+Zhejiang Yangfan New Materials Co Ltd,300637.SZ,Shenzhen Stock Exchange
+Shiseido Co Ltd,4911.T,Tokyo Stock Exchange
+STERIS plc,STE,NYSE Consolidated
+Industrial and Commercial Bank of China Ltd,601398.SS,Shanghai Stock Exchange
+Daiichi Sankyo Co Ltd,4568.T,Tokyo Stock Exchange
+Inspire Medical Systems Inc,INSP.K,NYSE Consolidated
+Adyen NV,ADYEN.AS,Euronext Amsterdam
+DaVita Inc,DVA,NYSE Consolidated
+Bringspring Science and Technology Co Ltd,300290.SZ,Shenzhen Stock Exchange
+Antero Resources Corp,AR,NYSE Consolidated
+Molina Healthcare Inc,MOH,NYSE Consolidated
+Banco Bradesco SA,BBDC4.SA,BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
+Sinomine Resource Group Co Ltd,002738.SZ,Shenzhen Stock Exchange
+Guolian Securities Co Ltd,601456.SS,Shanghai Stock Exchange
+Guangzhou Haige Communications Group Incorporated Co,002465.SZ,Shenzhen Stock Exchange
+XPO Inc,XPO,NYSE Consolidated
+Wingstop Inc,WING.O,NASDAQ Global Select Consolidated
+Weichai Power Co Ltd,000338.SZ,Shenzhen Stock Exchange
+DENTSPLY SIRONA Inc,XRAY.O,NASDAQ Global Select Consolidated
+Localiza Rent a Car SA,RENT3.SA,BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
+State Bank of India,SBI.NS,National Stock Exchange of India
+Nasdaq Inc,NDAQ.O,NASDAQ Global Select Consolidated
+Safety Shot Inc,SHOT.O,NASDAQ Capital Market Consolidated
+Celanese Corp,CE,NYSE Consolidated
+Fifth Third Bancorp,FITB.O,NASDAQ Global Select Consolidated
+Dover Corp,DOV,NYSE Consolidated
+Darling Ingredients Inc,DAR,NYSE Consolidated
+Iberdrola SA,IBE.MC,BME SPANISH EXCHANGE
+Siemens Energy AG,ENR1n.DE,Xetra
+Magna International Inc,MG.TO,The Toronto Stock Exchange
+Spirit Airlines Inc,SAVE.K,NYSE Consolidated
+Edison International,EIX,NYSE Consolidated
+BNP Paribas SA,BNPP.PA,Euronext Paris
+Penumbra Inc,PEN,NYSE Consolidated
+Chongqing Taiji Industry Group Co Ltd,600129.SS,Shanghai Stock Exchange
+Offcn Education Technology Co Ltd,002607.SZ,Shenzhen Stock Exchange
+Flutter Entertainment PLC,FLTRF.L,London Stock Exchange
+Zhejiang Yueling Co Ltd,002725.SZ,Shenzhen Stock Exchange
+Beijing Jetsen Technology Co Ltd,300182.SZ,Shenzhen Stock Exchange
+Sportsoul Co Ltd,001300.SZ,Shenzhen Stock Exchange
+Murata Manufacturing Co Ltd,6981.T,Tokyo Stock Exchange
+Huizhou Speed Wireless Technology Co Ltd,300322.SZ,Shenzhen Stock Exchange
+Applovin Corp,APP.O,NASDAQ Global Select Consolidated
+NanJing Sanchao Advanced Materials Co Ltd,300554.SZ,Shenzhen Stock Exchange
+Charles River Laboratories International Inc,CRL,NYSE Consolidated
+Guangdong Golden Dragon Development Inc,000712.SZ,Shenzhen Stock Exchange
+Alliant Energy Corp,LNT.O,NASDAQ Global Select Consolidated
+Nidec Corp,6594.T,Tokyo Stock Exchange
+China Telecom Corp Ltd,601728.SS,Shanghai Stock Exchange
+Pool Corp,POOL.O,NASDAQ Global Select Consolidated
+Shenzhen Rongda Photosensitive & Technology Co Ltd,300576.SZ,Shenzhen Stock Exchange
+37 Interactive Entertainment Network Technology Group Co Ltd,002555.SZ,Shenzhen Stock Exchange
+New Oriental Education & Technology Group Inc,EDU,NYSE Consolidated
+Weyerhaeuser Co,WY,NYSE Consolidated
+KDDI Corp,9433.T,Tokyo Stock Exchange
+Chewy Inc,CHWY.K,NYSE Consolidated
+Shenzhen Jove Enterprise Ltd,300814.SZ,Shenzhen Stock Exchange
+Shenzhen Tianyuan Dic Information Technology Co Ltd,300047.SZ,Shenzhen Stock Exchange
+Xuchang Yuandong Drive Shaft Co Ltd,002406.SZ,Shenzhen Stock Exchange
+NetApp Inc,NTAP.O,NASDAQ Global Select Consolidated
+Avantor Inc,AVTR.K,NYSE Consolidated
+China Satellite Communications Co Ltd,601698.SS,Shanghai Stock Exchange
+Maxscend Microelectronics Co Ltd,300782.SZ,Shenzhen Stock Exchange
+Komatsu Ltd,6301.T,Tokyo Stock Exchange
+Will Semiconductor Co Ltd Shanghai,603501.SS,Shanghai Stock Exchange
+First Citizens BancShares Inc (Delaware),FCNCA.O,NASDAQ Global Select Consolidated
+Hithink RoyalFlush Information Network Co Ltd,300033.SZ,Shenzhen Stock Exchange
+Lucid Group Inc,LCID.O,NASDAQ Global Select Consolidated
+Qorvo Inc,QRVO.O,NASDAQ Global Select Consolidated
+Sarepta Therapeutics Inc,SRPT.O,NASDAQ Global Select Consolidated
+Denso Corp,6902.T,Tokyo Stock Exchange
+State Street Corp,STT,NYSE Consolidated
+Hermes International SCA,HRMS.PA,Euronext Paris
+Tata Investment Corporation Ltd,TINV.NS,National Stock Exchange of India
+Invitation Homes Inc,INVH.K,NYSE Consolidated
+Oriental Land Co Ltd,4661.T,Tokyo Stock Exchange
+Shanxi Xinghuacun Fen Wine Factory Co Ltd,600809.SS,Shanghai Stock Exchange
+Fanuc Corp,6954.T,Tokyo Stock Exchange
+McCormick & Company Inc,MKC,NYSE Consolidated
+Alexandria Real Estate Equities Inc,ARE,NYSE Consolidated
+Muenchener Rueckversicherungs Gesellschaft in Muenchen AG,MUVGn.DE,Xetra
+Zotye Automobile Co Ltd,000980.SZ,Shenzhen Stock Exchange
+M&T Bank Corp,MTB,NYSE Consolidated
+Tapestry Inc,TPR,NYSE Consolidated
+Aramark,ARMK.K,NYSE Consolidated
+F5 Inc,FFIV.O,NASDAQ Global Select Consolidated
+Kokusai Electric Corp,6525.T,Tokyo Stock Exchange
+Skechers USA Inc,SKX,NYSE Consolidated
+Check Point Software Technologies Ltd,CHKP.O,NASDAQ Global Select Consolidated
+Adidas AG,ADSGn.DE,Xetra
+Rolls-Royce Holdings PLC,RR.L,London Stock Exchange
+DocuSign Inc,DOCU.O,NASDAQ Global Select Consolidated
+International Flavors & Fragrances Inc,IFF,NYSE Consolidated
+Tourmaline Oil Corp,TOU.TO,The Toronto Stock Exchange
+Beijing LeiKe Defense Technology Co Ltd,002413.SZ,Shenzhen Stock Exchange
+Hubei Century Network Technology Inc,300494.SZ,Shenzhen Stock Exchange
+Lennox International Inc,LII,NYSE Consolidated
+Ourpalm Co Ltd,300315.SZ,Shenzhen Stock Exchange
+Caesars Entertainment Inc,CZR.O,NASDAQ Global Select Consolidated
+Whirlpool Corp,WHR,NYSE Consolidated
+Idemitsu Kosan Co Ltd,5019.T,Tokyo Stock Exchange
+Flex Ltd,FLEX.O,NASDAQ Global Select Consolidated
+Terumo Corp,4543.T,Tokyo Stock Exchange
+Incyte Corp,INCY.O,NASDAQ Global Select Consolidated
+Exact Sciences Corp,EXAS.O,NASDAQ Capital Market Consolidated
+Okta Inc,OKTA.O,NASDAQ Global Select Consolidated
+UiPath Inc,PATH.K,NYSE Consolidated
+Watsco Inc,WSO,NYSE Consolidated
+Guangdong Haomei New Materials Co Ltd,002988.SZ,Shenzhen Stock Exchange
+Corning Inc,GLW,NYSE Consolidated
+Ferrotec An Hui Technology Development Co Ltd,301297.SZ,Shenzhen Stock Exchange
+JiLin Sino Microelectronics Co Ltd,600360.SS,Shanghai Stock Exchange
+Wingtech Technology Co Ltd,600745.SS,Shanghai Stock Exchange
+Franklin Resources Inc,BEN,NYSE Consolidated
+Madrigal Pharmaceuticals Inc,MDGL.O,NASDAQ Global Select Consolidated
+Poly Developments and Holdings Group Co Ltd,600048.SS,Shanghai Stock Exchange
+CenterPoint Energy Inc,CNP,NYSE Consolidated
+Steel Dynamics Inc,STLD.O,NASDAQ Global Select Consolidated
+L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes George,AIRP.PA,Euronext Paris
+Axis Bank Ltd,AXBK.NS,National Stock Exchange of India
+ANTA Sports Products Ltd,2020.HK,The Stock Exchange of Hong Kong Ltd
+Omnicom Group Inc,OMC,NYSE Consolidated
+Spectrum Brands Holdings Inc,SPB,NYSE Consolidated
+Sunac China Holdings Ltd,1918.HK,The Stock Exchange of Hong Kong Ltd
+Astellas Pharma Inc,4503.T,Tokyo Stock Exchange
+Bunge Global SA,BG,NYSE Consolidated
+Foot Locker Inc,FL,NYSE Consolidated
+Mitsui O.S.K. Lines Ltd,9104.T,Tokyo Stock Exchange
+Aotecar New Energy Technology Co Ltd,002239.SZ,Shenzhen Stock Exchange
+Industria de Diseno Textil SA,ITX.MC,BME SPANISH EXCHANGE
+Post Holdings Inc,POST.K,NYSE Consolidated
+Fulin Precision Co Ltd,300432.SZ,Shenzhen Stock Exchange
+Dropbox Inc,DBX.O,NASDAQ Global Select Consolidated
+Beijing Baination Pictures Co Ltd,300291.SZ,Shenzhen Stock Exchange
+Linewell Software Co Ltd,603636.SS,Shanghai Stock Exchange
+BASF SE,BASFn.DE,Xetra
+Samsung SDI Co Ltd,006400.KS,Korea Exchange - KSE
+Mercari Inc,4385.T,Tokyo Stock Exchange
+Sichuan Jiuyuan Yinhai Software Co Ltd,002777.SZ,Shenzhen Stock Exchange
+Huatai Securities Co Ltd,601688.SS,Shanghai Stock Exchange
+TC Energy Corp,TRP.TO,The Toronto Stock Exchange
+International Paper Co,IP,NYSE Consolidated
+Cooper Companies Inc,COO.O,NASDAQ Global Select Consolidated
+Shanghai Golden Bridge Info Tech Co Ltd,603918.SS,Shanghai Stock Exchange
+Inner Mongolia Yili Industrial Group Co Ltd,600887.SS,Shanghai Stock Exchange
+Manhattan Associates Inc,MANH.O,NASDAQ Global Select Consolidated
+Shenzhen InfoGem Technologies Co Ltd,300085.SZ,Shenzhen Stock Exchange
+Beijing BDStar Navigation Co Ltd,002151.SZ,Shenzhen Stock Exchange
+Hundsun Technologies Inc,600570.SS,Shanghai Stock Exchange
+Wondershare Technology Group Co Ltd,300624.SZ,Shenzhen Stock Exchange
+Bio Rad Laboratories Inc,BIO,NYSE Consolidated
+Hainan Drinda New Energy Technology Co Ltd,002865.SZ,Shenzhen Stock Exchange
+TechnipFMC PLC,FTI,NYSE Consolidated
+Industrial Bank Co Ltd,601166.SS,Shanghai Stock Exchange
+DoubleVerify Holdings Inc,DV,NYSE Consolidated
+Confluent Inc,CFLT.O,NASDAQ Global Select Consolidated
+TCL Technology Group Corp,000100.SZ,Shenzhen Stock Exchange
+CH Robinson Worldwide Inc,CHRW.O,NASDAQ Global Select Consolidated
+Cleveland-Cliffs Inc,CLF,NYSE Consolidated
+Tencent Music Entertainment Group,TME,NYSE Consolidated
+Olink Holding AB (publ),OLK.O,NASDAQ Global Market Consolidated
+Jushri Technologies Inc,300762.SZ,Shenzhen Stock Exchange
+Jiangsu Huaxicun Co Ltd,000936.SZ,Shenzhen Stock Exchange
+UDR Inc,UDR,NYSE Consolidated
+Shenzhen Original Advanced Compounds Co Ltd,603991.SS,Shanghai Stock Exchange
+North Industries Group Red Arrow Co Ltd,000519.SZ,Shenzhen Stock Exchange
+Renaissancere Holdings Ltd,RNR,NYSE Consolidated
+Owens Corning,OC,NYSE Consolidated
+EVE Energy Co Ltd,300014.SZ,Shenzhen Stock Exchange
+Zhejiang Sanhua Intelligent Controls Co Ltd,002050.SZ,Shenzhen Stock Exchange
+Zhejiang XCC Group Co Ltd,603667.SS,Shanghai Stock Exchange
+PBF Energy Inc,PBF,NYSE Consolidated
+China State Construction Engineering Corp Ltd,601668.SS,Shanghai Stock Exchange
+Shenzhen TXD Technology Co Ltd,002845.SZ,Shenzhen Stock Exchange
+Healthpeak Properties Inc,PEAK.K,NYSE Consolidated
+Garmin Ltd,GRMN.K,NYSE Consolidated
+Nitori Holdings Co Ltd,9843.T,Tokyo Stock Exchange
+Foshan Blue Rocket Electronics Co Ltd,301348.SZ,Shenzhen Stock Exchange
+Yes Bank Ltd,YESB.NS,National Stock Exchange of India
+PTC Inc,PTC.O,NASDAQ Global Select Consolidated
+Guangzhou Haozhi Industrial Co Ltd,300503.SZ,Shenzhen Stock Exchange
+Chongqing Zhifei Biological Products Co Ltd,300122.SZ,Shenzhen Stock Exchange
+Muyuan Foods Co Ltd,002714.SZ,Shenzhen Stock Exchange
+Patterson-UTI Energy Inc,PTEN.O,NASDAQ Global Select Consolidated
+Stanley Black & Decker Inc,SWK,NYSE Consolidated
+Zhejiang Dahua Technology Co Ltd,002236.SZ,Shenzhen Stock Exchange
+Tata Consultancy Services Ltd,TCS.NS,National Stock Exchange of India
+Interpublic Group of Companies Inc,IPG,NYSE Consolidated
+Takeda Pharmaceutical Co Ltd,4502.T,Tokyo Stock Exchange
+Infosys Ltd,INFY.NS,National Stock Exchange of India
+First Horizon Corp,FHN,NYSE Consolidated
+Bayerische Motoren Werke AG,BMWG.DE,Xetra
+Beijing ZZNodeTechnologies Co Ltd,003007.SZ,Shenzhen Stock Exchange
+Sany Heavy Industry Co Ltd,600031.SS,Shanghai Stock Exchange
+Gansu Jingang Solar Co Ltd,300093.SZ,Shenzhen Stock Exchange
+Semiconductor Manufacturing International Corp,0981.HK,The Stock Exchange of Hong Kong Ltd
+Uni President Low Carbon Technology Xinjiang Co Ltd,600506.SS,Shanghai Stock Exchange
+Shockwave Medical Inc,SWAV.O,NASDAQ Global Select Consolidated
+Boston Properties Inc,BXP,NYSE Consolidated
+IONQ Inc,IONQ.K,NYSE Consolidated
+B3 SA Brasil Bolsa Balcao,B3SA3.SA,BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros
+Canadian Imperial Bank of Commerce,CM.TO,The Toronto Stock Exchange
+Innovative Medical Management Co Ltd,002173.SZ,Shenzhen Stock Exchange
+Full Truck Alliance Co Ltd,YMM,NYSE Consolidated
+Japan Post Holdings Co Ltd,6178.T,Tokyo Stock Exchange
+Masco Corp,MAS,NYSE Consolidated
+Kimco Realty Corp,KIM,NYSE Consolidated
+Shenzhen Mindray Bio-Medical Electronics Co Ltd,300760.SZ,Shenzhen Stock Exchange
+Iron Mountain Inc,IRM,NYSE Consolidated
